@@ -1398,7 +1398,7 @@
       <Item Name="Universal Channel">
         <Provider />
       </Item>
-      <File>Universal Channel.png</File>
+      <File>Universal.png</File>
     </Channel>
     <Channel>
       <Item Name="UPC Express">
