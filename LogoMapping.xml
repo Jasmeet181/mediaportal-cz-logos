@@ -1,0 +1,1491 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Mappings>
+  <!-- ******************************************************************** -->
+  <TV>
+    <Channel>
+      <Item Name="Active">
+        <Provider />
+      </Item>
+      <File>Active.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Al Jazeera English">
+        <Provider />
+      </Item>
+      <File>Al Jazeera English.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="AMC">
+        <Provider />
+      </Item>
+      <File>AMC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Animal Planet HD">
+        <Provider />
+      </Item>
+      <File>Animal Planet HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Animal Planet">
+        <Provider />
+      </Item>
+      <File>Animal Planet.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Arte HD">
+        <Provider />
+      </Item>
+      <File>Arte HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="AutoMotorSport HD">
+        <Provider />
+      </Item>
+      <File>Auto Motor und Sport HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="AutoMotorSport">
+        <Provider />
+      </Item>
+      <File>Auto Motor und Sport.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="AXN Black">
+        <Provider />
+      </Item>
+      <File>AXN Black.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="AXN HD">
+        <Provider />
+      </Item>
+      <File>AXN HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="AXN White">
+        <Provider />
+      </Item>
+      <File>AXN White.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="AXN">
+        <Provider />
+      </Item>
+      <File>AXN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Barrandov TV HD">
+        <Provider />
+      </Item>
+      <File>Barrandov TV HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Barrandov TV">
+        <Provider />
+      </Item>
+      <File>Barrandov TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC World News">
+        <Provider />
+      </Item>
+      <File>BBC World News.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Blackbelt TV">
+        <Provider />
+      </Item>
+      <File>Blackbelt TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Bloomberg">
+        <Provider />
+      </Item>
+      <File>Bloomberg.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Boomerang">
+        <Provider />
+      </Item>
+      <File>Boomerang.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Brava HDTV">
+        <Provider />
+      </Item>
+      <File>BravaHDTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Brazzers.TV">
+        <Provider />
+      </Item>
+      <Item Name="Brazzers.TV CZ">
+        <Provider />
+      </Item>
+      <Item Name="Brazzers TV">
+        <Provider />
+      </Item>
+      <Item Name="Brazzers TV CZ">
+        <Provider />
+      </Item>
+      <File>Brazzers TV Europe.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Brno TV">
+        <Provider />
+      </Item>
+      <File>Brno TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="C Music TV">
+        <Provider />
+      </Item>
+      <File>C Music TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="C8">
+        <Provider />
+      </Item>
+      <File>C8.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Cartoon">
+        <Provider />
+      </Item>
+      <Item Name="Cartoon Network">
+        <Provider />
+      </Item>
+      <File>Cartoon Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CBS Drama">
+        <Provider />
+      </Item>
+      <File>CBS Drama.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CBS Reality">
+        <Provider />
+      </Item>
+      <File>CBS Reality.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CCTV News">
+        <Provider />
+      </Item>
+      <File>CCTV News.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Central Europe TV">
+        <Provider />
+      </Item>
+      <File>Central Europe TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Channel One Russia">
+        <Provider />
+      </Item>
+      <File>Channel One Russia.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Crime and Invest.CZ">
+        <Provider />
+      </Item>
+      <Item Name="Crime Inv CZ">
+        <Provider />
+      </Item>
+      <Item Name="Crime Inv">
+        <Provider />
+      </Item>
+      <File>CI.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Cineamax 2 HD">
+        <Provider />
+      </Item>
+      <File>Cineamax 2 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Cineamax HD">
+        <Provider />
+      </Item>
+      <File>Cineamax HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Cinemax2">
+        <Provider />
+      </Item>
+      <Item Name="Cinemax 2">
+        <Provider />
+      </Item>
+      <File>Cinemax 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Cinemax">
+        <Provider />
+      </Item>
+      <File>Cinemax.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CNBC">
+        <Provider />
+      </Item>
+      <File>CNBC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CNN">
+        <Provider />
+      </Item>
+      <File>CNN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Comedy Central Extra">
+        <Provider />
+      </Item>
+      <File>Comedy Central Extra.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Country No 1">
+        <Provider />
+      </Item>
+      <File>Country No 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CSFilm-CSMini">
+        <Provider />
+      </Item>
+      <File>CS Film CS Mini.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CS Film">
+        <Provider />
+      </Item>
+      <Item Name="CSFilm">
+        <Provider />
+      </Item>
+      <File>CS Film.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CS Mini">
+        <Provider />
+      </Item>
+      <File>CS Mini.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CT Art">
+        <Provider />
+      </Item>
+      <File>CT Art.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CT D">
+        <Provider />
+      </Item>
+      <File>CT D.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CT Sport HD">
+        <Provider />
+      </Item>
+      <File>CT Sport HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CT Sport">
+        <Provider />
+      </Item>
+      <File>CT Sport.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CT 1 HD">
+        <Provider />
+      </Item>
+      <File>CT1 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CT 1">
+        <Provider />
+      </Item>
+      <File>CT1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CT 2 HD">
+        <Provider />
+      </Item>
+      <File>CT2 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CT 2">
+        <Provider />
+      </Item>
+      <File>CT2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CT 24">
+        <Provider />
+      </Item>
+      <File>CT24.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Da Vinci Learning">
+        <Provider />
+      </Item>
+      <File>Da Vinci Learning.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Dajto">
+        <Provider />
+      </Item>
+      <File>Dajto.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Deutsche Welle">
+        <Provider />
+      </Item>
+      <File>Deutsche Welle.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Digi Sport1">
+        <Provider />
+      </Item>
+      <File>Digi Sport 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Digi Sport 2">
+        <Provider />
+      </Item>
+      <File>Digi Sport 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Digi Sport 3">
+        <Provider />
+      </Item>
+      <File>Digi Sport 3.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Digi Sport">
+        <Provider />
+      </Item>
+      <File>Digi Sport.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Discovery HD">
+        <Provider />
+      </Item>
+      <Item Name="Discovery HD CZ">
+        <Provider />
+      </Item>
+      <File>Discovery Channel HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Discovery">
+        <Provider />
+      </Item>
+      <Item Name="Discovery CZ">
+        <Provider />
+      </Item>
+      <File>Discovery Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Discovery HD Showcase">
+        <Provider />
+      </Item>
+      <File>Discovery HD Showcase.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Discovery Science">
+        <Provider />
+      </Item>
+      <File>Discovery Science.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Discovery World">
+        <Provider />
+      </Item>
+      <File>Discovery World.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Disney Channel">
+        <Provider />
+      </Item>
+      <Item Name="Disney CZ">
+        <Provider />
+      </Item>
+      <File>Disney Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Doku CS">
+        <Provider />
+      </Item>
+      <File>Doku CS.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Dom Kino">
+        <Provider />
+      </Item>
+      <File>Dom Kino.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Doma">
+        <Provider />
+      </Item>
+      <Item Name="Doma TV">
+        <Provider />
+      </Item>
+      <File>Doma TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="DoQ">
+        <Provider />
+      </Item>
+      <File>DoQ.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Duck TV HD">
+        <Provider />
+      </Item>
+      <File>Duck TV HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Duck TV Dut">
+        <Provider />
+      </Item>
+      <Item Name="Duck TV">
+        <Provider />
+      </Item>
+      <File>Duck TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Duna World">
+        <Provider />
+      </Item>
+      <File>Duna World.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Dvojka HD">
+        <Provider />
+      </Item>
+      <File>Dvojka HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Dvojka">
+        <Provider />
+      </Item>
+      <File>Dvojka.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Edgesport">
+        <Provider />
+      </Item>
+      <File>Edgesport.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="EroXXX HD">
+        <Provider />
+      </Item>
+      <File>EroXXX HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Euronews">
+        <Provider />
+      </Item>
+      <File>Euronews.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Eurosport 2 CZ">
+        <Provider />
+      </Item>
+      <Item Name="Eurosport 2">
+        <Provider />
+      </Item>
+      <Item Name="Eurosport2">
+        <Provider />
+      </Item>
+      <File>Eurosport 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Eurosport 2 HD">
+        <Provider />
+      </Item>
+      <Item Name="Eurosport2 HD">
+        <Provider />
+      </Item>
+      <File>Eurosport 2 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Eurosport HD">
+        <Provider />
+      </Item>
+      <File>Eurosport HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Eurosport CZ">
+        <Provider />
+      </Item>
+      <Item Name="Eurosport">
+        <Provider />
+      </Item>
+      <File>Eurosport.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Extreme Sports">
+        <Provider />
+      </Item>
+      <File>Extreme Sports.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fajnrock TV">
+        <Provider />
+      </Item>
+      <File>Fajnrock TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fanda HD">
+        <Provider />
+      </Item>
+      <File>Fanda HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fanda">
+        <Provider />
+      </Item>
+      <File>Fanda.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fashion TV">
+        <Provider />
+      </Item>
+      <File>Fashion TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="FightBox HD">
+        <Provider />
+      </Item>
+      <File>FightBox HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Film Europe HD">
+        <Provider />
+      </Item>
+      <File>Film Europe HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Film Europe">
+        <Provider />
+      </Item>
+      <File>Film Europe.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Film Plus">
+        <Provider />
+      </Item>
+      <Item Name="Film+ CZ">
+        <Provider />
+      </Item>
+      <Item Name="Film+">
+        <Provider />
+      </Item>
+      <File>Film+.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="FilmBox Extra">
+        <Provider />
+      </Item>
+      <File>FilmBox Extra.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="FilmBox Family">
+        <Provider />
+      </Item>
+      <File>FilmBox Family.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="FilmBox HD">
+        <Provider />
+      </Item>
+      <File>FilmBox HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="FilmBox Plus">
+        <Provider />
+      </Item>
+      <File>FilmBox Plus.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="FilmBox">
+        <Provider />
+      </Item>
+      <File>FilmBox.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fine Living Network">
+        <Provider />
+      </Item>
+      <File>Fine Living Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="France 24">
+        <Provider />
+      </Item>
+      <File>France 24.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fun1">
+        <Provider />
+      </Item>
+      <File>Fun1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Golf Channel">
+        <Provider />
+      </Item>
+      <File>Golf Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="HBO 2 HD">
+        <Provider />
+      </Item>
+      <File>HBO 2 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="HBO 2">
+        <Provider />
+      </Item>
+      <Item Name="HBO2">
+        <Provider />
+      </Item>
+      <File>HBO 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="HBO Comedy HD">
+        <Provider />
+      </Item>
+      <File>HBO Comedy HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="HBO Comedy">
+        <Provider />
+      </Item>
+      <File>HBO Comedy.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="HBO HD">
+        <Provider />
+      </Item>
+      <File>HBO HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="HBO">
+        <Provider />
+      </Item>
+      <File>HBO.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="HD+">
+        <Provider />
+      </Item>
+      <File>HD+.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Hir TV">
+        <Provider />
+      </Item>
+      <File>Hir TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="History HD">
+        <Provider />
+      </Item>
+      <File>History HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="History">
+        <Provider />
+      </Item>
+      <File>History.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Horor Film">
+        <Provider />
+      </Item>
+      <File>Horor Film.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Hustler TV HD">
+        <Provider />
+      </Item>
+      <File>Hustler TV HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Hustler TV">
+        <Provider />
+      </Item>
+      <File>Hustler TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="IConcerts">
+        <Provider />
+      </Item>
+      <File>IConcerts.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ID">
+        <Provider />
+      </Item>
+      <File>ID.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Jednotka HD">
+        <Provider />
+      </Item>
+      <File>Jednotka HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Jednotka">
+        <Provider />
+      </Item>
+      <File>Jednotka.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Jim Jam CZ">
+        <Provider />
+      </Item>
+      <Item Name="Jim Jam">
+        <Provider />
+      </Item>
+      <Item Name="JimJam CZ">
+        <Provider />
+      </Item>
+      <File>Jim Jam.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Joj Plus">
+        <Provider />
+      </Item>
+      <File>Joj Plus.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Joj">
+        <Provider />
+      </Item>
+      <File>Joj TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Kino CS">
+        <Provider />
+      </Item>
+      <File>Kino CS.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Kino Svet">
+        <Provider />
+      </Item>
+      <File>Kino Svet.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Leo TV Dut">
+        <Provider />
+      </Item>
+      <Item Name="Leo TV">
+        <Provider />
+      </Item>
+      <File>Leo TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="LTV 1">
+        <Provider />
+      </Item>
+      <File>LTV1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Lux Televizia">
+        <Provider />
+      </Item>
+      <File>Lux Televizia.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="M1">
+        <Provider />
+      </Item>
+      <File>M1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="M2">
+        <Provider />
+      </Item>
+      <File>M2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Man-X">
+        <Provider />
+      </Item>
+      <File>Man-X.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Markiza HD">
+        <Provider />
+      </Item>
+      <File>Markiza HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Markiza">
+        <Provider />
+      </Item>
+      <File>Markiza.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Megamax">
+        <Provider />
+      </Item>
+      <File>Megamax.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MeteoTV">
+        <Provider />
+      </Item>
+      <File>MeteoTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Mezzo">
+        <Provider />
+      </Item>
+      <File>Mezzo.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Minimax">
+        <Provider />
+      </Item>
+      <File>Minimax.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MTV Dance">
+        <Provider />
+      </Item>
+      <File>MTV Dance.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MTV Live HD">
+        <Provider />
+      </Item>
+      <File>MTV Live HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MTV Rocks">
+        <Provider />
+      </Item>
+      <File>MTV Rocks.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MTV CZ">
+        <Provider />
+      </Item>
+      <File>MTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Box">
+        <Provider />
+      </Item>
+      <File>Music Box TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Musiq1">
+        <Provider />
+      </Item>
+      <File>Musiq1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Muzika CS">
+        <Provider />
+      </Item>
+      <Item Name="Muzika">
+        <Provider />
+      </Item>
+      <File>Muzika CS.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Muzika Pervogo">
+        <Provider />
+      </Item>
+      <File>Muzika Pervogo.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Muzsika TV">
+        <Provider />
+      </Item>
+      <File>Muzsika TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Nat Geo HD CZ">
+        <Provider />
+      </Item>
+      <Item Name="Nat Geo HD">
+        <Provider />
+      </Item>
+      <Item Name="NGC HD">
+        <Provider />
+      </Item>
+      <File>Nat Geo HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Nat Geo Wild HD CZ">
+        <Provider />
+      </Item>
+      <Item Name="Nat Geo Wild HD Dut">
+        <Provider />
+      </Item>
+      <Item Name="Nat Geo Wild HD">
+        <Provider />
+      </Item>
+      <Item Name="NG Wild HD CZ">
+        <Provider />
+      </Item>
+      <Item Name="NG Wild HD Dut">
+        <Provider />
+      </Item>
+      <Item Name="NG Wild HD">
+        <Provider />
+      </Item>
+      <File>Nat Geo Wild HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NG Wild">
+        <Provider />
+      </Item>
+      <File>Nat Geo Wild.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NGC">
+        <Provider />
+      </Item>
+      <File>Nat Geo.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Nickelodeon HD CZ">
+        <Provider />
+      </Item>
+      <Item Name="Nickelodeon HD">
+        <Provider />
+      </Item>
+      <File>Nickelodeon HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Nickelodeon CZ">
+        <Provider />
+      </Item>
+      <File>Nickelodeon.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Nova Cinema HD">
+        <Provider />
+      </Item>
+      <File>Nova Cinema HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Nova Cinema">
+        <Provider />
+      </Item>
+      <File>Nova Cinema.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Nova Sport HD">
+        <Provider />
+      </Item>
+      <File>Nova Sport HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Nova Sport">
+        <Provider />
+      </Item>
+      <File>Nova Sport.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Nova HD">
+        <Provider />
+      </Item>
+      <File>Nova TV HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Nova">
+        <Provider />
+      </Item>
+      <File>Nova TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Ocko Expres">
+        <Provider />
+      </Item>
+      <File>Ocko Expres.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Ocko Gold">
+        <Provider />
+      </Item>
+      <File>Ocko Gold.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Ocko TV ">
+        <Provider />
+      </Item>
+      <Item Name="Ocko TV">
+        <Provider />
+      </Item>
+      <Item Name="Ocko">
+        <Provider />
+      </Item>
+      <File>Ocko.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Penthouse TV">
+        <Provider />
+      </Item>
+      <File>Penthouse TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Prima Cool HD">
+        <Provider />
+      </Item>
+      <File>Prima Cool HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Prima Cool">
+        <Provider />
+      </Item>
+      <File>Prima Cool.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Prima HD">
+        <Provider />
+      </Item>
+      <File>Prima HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Prima Love">
+        <Provider />
+      </Item>
+      <File>Prima Love.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Prima Zoom HD">
+        <Provider />
+      </Item>
+      <File>Prima Zoom HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Prima Zoom">
+        <Provider />
+      </Item>
+      <File>Prima Zoom.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Prima">
+        <Provider />
+      </Item>
+      <File>Prima.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Private TV">
+        <Provider />
+      </Item>
+      <File>Private TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Rebel TV">
+        <Provider />
+      </Item>
+      <Item Name="Rebel">
+        <Provider />
+      </Item>
+      <File>Rebel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Regionalnitelevize.CZ">
+        <Provider />
+      </Item>
+      <File>Regionalnitelevize.cz.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Relax">
+        <Provider />
+      </Item>
+      <File>Relax.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Retro">
+        <Provider />
+      </Item>
+      <File>Retro.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="RT">
+        <Provider />
+      </Item>
+      <File>RT.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="RTL 2">
+        <Provider />
+      </Item>
+      <File>RTL 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="RTL Klub">
+        <Provider />
+      </Item>
+      <File>RTL Klub.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="RTR Planeta">
+        <Provider />
+      </Item>
+      <File>RTR Planeta.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Slagr TV">
+        <Provider />
+      </Item>
+      <File>Slagr TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Slovak Sport TV2 HD">
+        <Provider />
+      </Item>
+      <File>Slovak Sport TV 2 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Slovak Sport TV2">
+        <Provider />
+      </Item>
+      <File>Slovak Sport TV 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Slovak Sport TV3">
+        <Provider />
+      </Item>
+      <File>Slovak Sport TV 3.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Slovak Sport TV HD">
+        <Provider />
+      </Item>
+      <File>Slovak Sport TV HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Slovak Sport TV">
+        <Provider />
+      </Item>
+      <File>Slovak Sport TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Smichov">
+        <Provider />
+      </Item>
+      <File>Smichov.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Spektrum HD">
+        <Provider />
+      </Item>
+      <File>Spektrum HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Spektrum Home">
+        <Provider />
+      </Item>
+      <File>Spektrum Home.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Spektrum International">
+        <Provider />
+      </Item>
+      <Item Name="Spektrum">
+        <Provider />
+      </Item>
+      <File>Spektrum.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Spice TV">
+        <Provider />
+      </Item>
+      <File>Spice TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sport1 HD">
+        <Provider />
+      </Item>
+      <File>Sport 1 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sport1">
+        <Provider />
+      </Item>
+      <File>Sport 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sport2 HD">
+        <Provider />
+      </Item>
+      <File>Sport 2 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sport2">
+        <Provider />
+      </Item>
+      <File>Sport 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sport 5">
+        <Provider />
+      </Item>
+      <File>Sport5.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Story4">
+        <Provider />
+      </Item>
+      <File>Story4.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SundanceTV HD">
+        <Provider />
+      </Item>
+      <File>SundanceTV HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TA3">
+        <Provider />
+      </Item>
+      <File>TA3.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TCM">
+        <Provider />
+      </Item>
+      <File>TCM.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Telka">
+        <Provider />
+      </Item>
+      <File>Telka.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fishing and Hunting">
+        <Provider />
+      </Item>
+      <File>The Fishing and Hunting Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TLC">
+        <Provider />
+      </Item>
+      <File>TLC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Topfun Televize">
+        <Provider />
+      </Item>
+      <File>Topfun Televize.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Trace Tropical">
+        <Provider />
+      </Item>
+      <File>Trace Tropical.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Trace Urban">
+        <Provider />
+      </Item>
+      <File>Trace Urban.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Travel Channel HD">
+        <Provider />
+      </Item>
+      <File>Travel Channel HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Travel Channel">
+        <Provider />
+      </Item>
+      <File>Travel Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV Bratislava">
+        <Provider />
+      </Item>
+      <File>TV Bratislava.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Empatia_TV">
+        <Provider />
+      </Item>
+      <File>TV Empatia.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV Nitricka">
+        <Provider />
+      </Item>
+      <File>TV Nitricka.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Noe TV">
+        <Provider />
+      </Item>
+      <File>TV Noe.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV Paprika">
+        <Provider />
+      </Item>
+      <File>TV Paprika.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Patriot">
+        <Provider />
+      </Item>
+      <File>TV Patriot.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Pohoda">
+        <Provider />
+      </Item>
+      <File>TV Pohoda.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Televizia Poprad">
+        <Provider />
+      </Item>
+      <File>TV Poprad.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV Regina">
+        <Provider />
+      </Item>
+      <File>TV Regina.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV Ziva">
+        <Provider />
+      </Item>
+      <File>TV Ziva.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV2">
+        <Provider />
+      </Item>
+      <File>TV2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV8">
+        <Provider />
+      </Item>
+      <File>TV8.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TVE">
+        <Provider />
+      </Item>
+      <File>TVE Internacional.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Unitel Classica HD">
+        <Provider />
+      </Item>
+      <File>Unitel Classica HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Universal Channel">
+        <Provider />
+      </Item>
+      <File>Universal Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="UPC Express">
+        <Provider />
+      </Item>
+      <File>UPC Express.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="V1">
+        <Provider />
+      </Item>
+      <File>V1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="VH1 Classic">
+        <Provider />
+      </Item>
+      <File>VH1 Classic.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="VH1">
+        <Provider />
+      </Item>
+      <File>VH1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Viasat 3">
+        <Provider />
+      </Item>
+      <File>Viasat 3.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Viasat Explore HD">
+        <Provider />
+      </Item>
+      <File>Viasat Explore HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Viasat Explore">
+        <Provider />
+      </Item>
+      <File>Viasat Explore.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Viasat History HD">
+        <Provider />
+      </Item>
+      <File>Viasat History HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Viasat History">
+        <Provider />
+      </Item>
+      <File>Viasat History.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Viasat Nature HD">
+        <Provider />
+      </Item>
+      <File>Viasat Nature HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Viasat Nature">
+        <Provider />
+      </Item>
+      <File>Viasat Nature.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Vivid TV">
+        <Provider />
+      </Item>
+      <File>Vivid TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Vremya">
+        <Provider />
+      </Item>
+      <File>Vremya.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Wau">
+        <Provider />
+      </Item>
+      <File>Wau TV.png</File>
+    </Channel>
+  </TV>
+  <!-- ******************************************************************** -->
+  <Radio />
+  <!-- ******************************************************************** -->
+</Mappings>
