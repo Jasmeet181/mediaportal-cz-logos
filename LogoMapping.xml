@@ -387,10 +387,10 @@
       <File>Discovery Channel.png</File>
     </Channel>
     <Channel>
-      <Item Name="Discovery HD Showcase">
+      <Item Name="Discovery Showcase HD">
         <Provider />
       </Item>
-      <File>Discovery HD Showcase.png</File>
+      <File>Discovery Showcase HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Discovery Science">
