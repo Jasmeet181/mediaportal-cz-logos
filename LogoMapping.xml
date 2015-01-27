@@ -810,10 +810,28 @@
       <File>M1.png</File>
     </Channel>
     <Channel>
+      <Item Name="M1 HD">
+        <Provider />
+      </Item>
+      <File>M1 HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="M2">
         <Provider />
       </Item>
       <File>M2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="M2 HD">
+        <Provider />
+      </Item>
+      <File>M2 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="M3">
+        <Provider />
+      </Item>
+      <File>M3.png</File>
     </Channel>
     <Channel>
       <Item Name="Man-X">
