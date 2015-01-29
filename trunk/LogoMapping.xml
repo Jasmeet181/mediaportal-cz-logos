@@ -336,6 +336,9 @@
       <Item Name="Dajto">
         <Provider />
       </Item>
+      <Item Name="Dajto HD">
+        <Provider />
+      </Item>
       <File>Dajto.png</File>
     </Channel>
     <Channel>
@@ -429,10 +432,7 @@
       <Item Name="Doma">
         <Provider />
       </Item>
-      <Item Name="Doma TV">
-        <Provider />
-      </Item>
-      <File>Doma TV.png</File>
+      <File>Doma.png</File>
     </Channel>
     <Channel>
       <Item Name="DoQ">
@@ -763,6 +763,12 @@
         <Provider />
       </Item>
       <File>Joj Plus.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Joj Plus HD">
+        <Provider />
+      </Item>
+      <File>Joj Plus HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Joj">
