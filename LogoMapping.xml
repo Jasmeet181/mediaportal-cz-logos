@@ -336,10 +336,13 @@
       <Item Name="Dajto">
         <Provider />
       </Item>
+      <File>Dajto.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Dajto HD">
         <Provider />
       </Item>
-      <File>Dajto.png</File>
+      <File>Dajto HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Deutsche Welle">
