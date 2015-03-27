@@ -885,6 +885,12 @@
       <File>Minimax.png</File>
     </Channel>
     <Channel>
+      <Item Name="Mnam TV">
+        <Provider />
+      </Item>
+      <File>Mnam TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="MTV Dance">
         <Provider />
       </Item>
