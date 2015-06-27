@@ -75,6 +75,12 @@
       <File>AXN.png</File>
     </Channel>
     <Channel>
+      <Item Name="Barrandov Plus">
+        <Provider />
+      </Item>
+      <File>Barrandov Plus.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Barrandov TV HD">
         <Provider />
       </Item>
@@ -438,6 +444,12 @@
       <File>Doma.png</File>
     </Channel>
     <Channel>
+      <Item Name="Doma HD">
+        <Provider />
+      </Item>
+      <File>Doma HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="DoQ">
         <Provider />
       </Item>
@@ -762,6 +774,12 @@
       <File>Jim Jam.png</File>
     </Channel>
     <Channel>
+      <Item Name="JOJ Cinema">
+        <Provider />
+      </Item>
+      <File>JOJ Cinema.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Joj Plus">
         <Provider />
       </Item>
@@ -774,10 +792,22 @@
       <File>Joj Plus HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Joj HD">
+        <Provider />
+      </Item>
+      <File>Joj TV HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Joj">
         <Provider />
       </Item>
       <File>Joj TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Kino Barrandov">
+        <Provider />
+      </Item>
+      <File>Kino Barrandov.png</File>
     </Channel>
     <Channel>
       <Item Name="Kino CS">
