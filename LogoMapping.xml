@@ -3,6 +3,11 @@
   <!-- ******************************************************************** -->
   <TV>
     <Channel>
+      <Item Name="3sat">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
+      <File>3sat.png</File>
+    </Channel>
       <Item Name="Active">
         <Provider />
       </Item>
@@ -52,25 +57,25 @@
     </Channel>
     <Channel>
       <Item Name="AXN Black">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>AXN Black.png</File>
     </Channel>
     <Channel>
       <Item Name="AXN HD">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>AXN HD.png</File>
     </Channel>
     <Channel>
       <Item Name="AXN White">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>AXN White.png</File>
     </Channel>
     <Channel>
       <Item Name="AXN">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>AXN.png</File>
     </Channel>
@@ -82,17 +87,20 @@
     </Channel>
     <Channel>
       <Item Name="Barrandov TV HD">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Barrandov TV HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Barrandov TV">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Barrandov TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="BBC World">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
       <Item Name="BBC World News">
         <Provider />
       </Item>
@@ -139,7 +147,7 @@
     </Channel>
     <Channel>
       <Item Name="Brno TV">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Brno TV.png</File>
     </Channel>
@@ -166,7 +174,7 @@
     </Channel>
     <Channel>
       <Item Name="CBS Drama">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>CBS Drama.png</File>
     </Channel>
@@ -241,7 +249,7 @@
     </Channel>
     <Channel>
       <Item Name="CNN">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>CNN.png</File>
     </Channel>
@@ -252,6 +260,9 @@
       <File>Comedy Central Extra.png</File>
     </Channel>
     <Channel>
+      <Item Name="Country No.1">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
       <Item Name="Country No 1">
         <Provider />
       </Item>
@@ -292,13 +303,13 @@
     </Channel>
     <Channel>
       <Item Name="CT Sport HD">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>CT Sport HD.png</File>
     </Channel>
     <Channel>
       <Item Name="CT Sport">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>CT Sport.png</File>
     </Channel>
@@ -306,11 +317,14 @@
       <Item Name="CT 1 HD">
         <Provider />
       </Item>
+      <Item Name="CT1 HD">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
       <File>CT1 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="CT 1">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>CT1.png</File>
     </Channel>
@@ -318,17 +332,23 @@
       <Item Name="CT 2 HD">
         <Provider />
       </Item>
+      <Item Name="CT2 HD">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
       <File>CT2 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="CT 2">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>CT2.png</File>
     </Channel>
     <Channel>
       <Item Name="CT 24">
         <Provider />
+      </Item>
+      <Item Name="CT24">
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>CT24.png</File>
     </Channel>
@@ -352,7 +372,7 @@
     </Channel>
     <Channel>
       <Item Name="Deutsche Welle">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Deutsche Welle.png</File>
     </Channel>
@@ -418,7 +438,7 @@
     </Channel>
     <Channel>
       <Item Name="Disney Channel">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <Item Name="Disney CZ">
         <Provider />
@@ -466,7 +486,7 @@
         <Provider />
       </Item>
       <Item Name="Duck TV">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Duck TV.png</File>
     </Channel>
@@ -485,6 +505,9 @@
     <Channel>
       <Item Name="Dvojka">
         <Provider />
+      </Item>
+      <Item Name="STV2">
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Dvojka.png</File>
     </Channel>
@@ -550,25 +573,25 @@
     </Channel>
     <Channel>
       <Item Name="Fajnrock TV">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Fajnrock TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Fanda HD">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Fanda HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Fanda">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Fanda.png</File>
     </Channel>
     <Channel>
       <Item Name="Fashion TV">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Fashion TV.png</File>
     </Channel>
@@ -598,7 +621,7 @@
         <Provider />
       </Item>
       <Item Name="Film+">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Film+.png</File>
     </Channel>
@@ -628,11 +651,14 @@
     </Channel>
     <Channel>
       <Item Name="FilmBox">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>FilmBox.png</File>
     </Channel>
     <Channel>
+      <Item Name="Fine Living">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
       <Item Name="Fine Living Network">
         <Provider />
       </Item>
@@ -640,7 +666,7 @@
     </Channel>
     <Channel>
       <Item Name="France 24">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>France 24.png</File>
     </Channel>
@@ -697,7 +723,10 @@
     </Channel>
     <Channel>
       <Item Name="HD+">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
+      </Item>
+      <Item Name="HD+ SD">
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>HD+.png</File>
     </Channel>
@@ -759,13 +788,16 @@
       <Item Name="Jednotka">
         <Provider />
       </Item>
+      <Item Name="STV1">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
       <File>Jednotka.png</File>
     </Channel>
     <Channel>
-      <Item Name="Jim Jam CZ">
-        <Provider />
-      </Item>
       <Item Name="Jim Jam">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
+      <Item Name="Jim Jam CZ">
         <Provider />
       </Item>
       <Item Name="JimJam CZ">
@@ -781,7 +813,7 @@
     </Channel>
     <Channel>
       <Item Name="Joj Plus">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Joj Plus.png</File>
     </Channel>
@@ -795,11 +827,17 @@
       <Item Name="Joj HD">
         <Provider />
       </Item>
+      <Item Name="TV Joj HD">
+        <Provider />
+      </Item>
       <File>Joj TV HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Joj">
         <Provider />
+      </Item>
+      <Item Name="TV Joj">
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Joj TV.png</File>
     </Channel>
@@ -817,7 +855,7 @@
     </Channel>
     <Channel>
       <Item Name="Kino Svet">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Kino Svet.png</File>
     </Channel>
@@ -886,17 +924,20 @@
     </Channel>
     <Channel>
       <Item Name="Markiza">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Markiza.png</File>
     </Channel>
     <Channel>
       <Item Name="Megamax">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Megamax.png</File>
     </Channel>
     <Channel>
+      <Item Name="Meteo TV">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
       <Item Name="MeteoTV">
         <Provider />
       </Item>
@@ -1032,6 +1073,9 @@
       <File>Nickelodeon HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Nickelodeon">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
       <Item Name="Nickelodeon CZ">
         <Provider />
       </Item>
@@ -1039,13 +1083,13 @@
     </Channel>
     <Channel>
       <Item Name="Nova Cinema HD">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Nova Cinema HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Nova Cinema">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Nova Cinema.png</File>
     </Channel>
@@ -1063,13 +1107,13 @@
     </Channel>
     <Channel>
       <Item Name="Nova HD">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Nova TV HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Nova">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Nova TV.png</File>
     </Channel>
@@ -1077,11 +1121,14 @@
       <Item Name="Ocko Expres">
         <Provider />
       </Item>
+      <Item Name="Ocko Expres HD">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
       <File>Ocko Expres.png</File>
     </Channel>
     <Channel>
       <Item Name="Ocko Gold">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Ocko Gold.png</File>
     </Channel>
@@ -1093,7 +1140,7 @@
         <Provider />
       </Item>
       <Item Name="Ocko">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Ocko.png</File>
     </Channel>
@@ -1105,43 +1152,43 @@
     </Channel>
     <Channel>
       <Item Name="Prima Cool HD">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Prima Cool HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Prima Cool">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Prima Cool.png</File>
     </Channel>
     <Channel>
       <Item Name="Prima HD">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Prima HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Prima Love">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Prima Love.png</File>
     </Channel>
     <Channel>
       <Item Name="Prima Zoom HD">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Prima Zoom HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Prima Zoom">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Prima Zoom.png</File>
     </Channel>
     <Channel>
       <Item Name="Prima">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Prima.png</File>
     </Channel>
@@ -1156,11 +1203,14 @@
         <Provider />
       </Item>
       <Item Name="Rebel">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Rebel.png</File>
     </Channel>
     <Channel>
+      <Item Name="Regionalni Televize.cz">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
       <Item Name="Regionalnitelevize.CZ">
         <Provider />
       </Item>
@@ -1168,13 +1218,13 @@
     </Channel>
     <Channel>
       <Item Name="Relax">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Relax.png</File>
     </Channel>
     <Channel>
-      <Item Name="Retro">
-        <Provider />
+      <Item Name="Retro Music TV">
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Retro.png</File>
     </Channel>
@@ -1203,8 +1253,8 @@
       <File>RTR Planeta.png</File>
     </Channel>
     <Channel>
-      <Item Name="Slagr TV">
-        <Provider />
+      <Item Name="Russia Today HD">
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Slagr TV.png</File>
     </Channel>
@@ -1240,7 +1290,7 @@
     </Channel>
     <Channel>
       <Item Name="Smichov">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Smichov.png</File>
     </Channel>
@@ -1297,7 +1347,7 @@
     </Channel>
     <Channel>
       <Item Name="Sport 5">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Sport5.png</File>
     </Channel>
@@ -1327,7 +1377,7 @@
     </Channel>
     <Channel>
       <Item Name="Telka">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Telka.png</File>
     </Channel>
@@ -1393,7 +1443,7 @@
     </Channel>
     <Channel>
       <Item Name="Noe TV">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>TV Noe.png</File>
     </Channel>
@@ -1459,19 +1509,19 @@
     </Channel>
     <Channel>
       <Item Name="Universal Channel">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Universal.png</File>
     </Channel>
     <Channel>
       <Item Name="UPC Express">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>UPC Express.png</File>
     </Channel>
     <Channel>
       <Item Name="V1">
-        <Provider />
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>V1.png</File>
     </Channel>
