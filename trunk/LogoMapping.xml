@@ -275,6 +275,12 @@
       <File>CS Film CS Mini.png</File>
     </Channel>
     <Channel>
+      <Item Name="CS film / CS mini / Horor film">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
+      <File>CS Film CS Mini Horor Film.png</File>
+    </Channel>
+    <Channel>
       <Item Name="CS Film">
         <Provider />
       </Item>
@@ -300,6 +306,12 @@
         <Provider />
       </Item>
       <File>CT D.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CT :D / CT art">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
+      <File>CT D CT Art.png</File>
     </Channel>
     <Channel>
       <Item Name="CT Sport HD">
@@ -369,6 +381,12 @@
         <Provider />
       </Item>
       <File>Dajto HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Das Erste">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
+      <File>Das Erste.png</File>
     </Channel>
     <Channel>
       <Item Name="Deutsche Welle">
@@ -956,6 +974,12 @@
       <File>Minimax.png</File>
     </Channel>
     <Channel>
+      <Item Name="Minimax / C8">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
+      <File>Minimax C8.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Mnam TV">
         <Provider />
       </Item>
@@ -1235,6 +1259,12 @@
       <File>RT.png</File>
     </Channel>
     <Channel>
+      <Item Name="Russia Today HD">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
+      <File>RT HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="RTL 2">
         <Provider />
       </Item>
@@ -1253,7 +1283,13 @@
       <File>RTR Planeta.png</File>
     </Channel>
     <Channel>
-      <Item Name="Russia Today HD">
+      <Item Name="Senzi">
+        <Provider />
+      </Item>
+      <File>Senzi.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Slagr TV">
         <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Slagr TV.png</File>
@@ -1376,6 +1412,12 @@
       <File>TCM.png</File>
     </Channel>
     <Channel>
+      <Item Name="Televize Zak">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
+      <File>Televize Zak.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Telka">
         <Provider>UPC (CZ)</Provider>
       </Item>
@@ -1490,6 +1532,12 @@
       <File>TV2.png</File>
     </Channel>
     <Channel>
+      <Item Name="TV5 Monde">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
+      <File>TV5Monde.png</File>
+    </Channel>
+    <Channel>
       <Item Name="TV8">
         <Provider />
       </Item>
@@ -1597,8 +1645,74 @@
       </Item>
       <File>Wau TV.png</File>
     </Channel>
+    <Channel>
+      <Item Name="ZDF">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
+      <File>ZDF.png</File>
+    </Channel>
   </TV>
   <!-- ******************************************************************** -->
-  <Radio />
+  <Radio>
+    <Channel>
+      <Item Name="CRo D-dur">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
+      <File>Cesky rozhlas D-dur.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CRo Dvojka">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
+      <File>Cesky rozhlas Dvojka.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CRo Jazz">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
+      <File>Cesky rozhlas Jazz.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CRo Plus">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
+      <File>Cesky rozhlas Plus.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CRo Radio Praha">
+      </Item>
+      <File>Cesky rozhlas Radio Praha.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CRo Radiozurnal">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
+      <File>Cesky rozhlas Radiozurnal.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CRo Region">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
+      <File>Cesky rozhlas Region.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CRo Vltava">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
+      <File>Cesky rozhlas Vltava.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Radio Junior">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
+      <File>Radio Junior.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Radio Wave">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
+      <File>Radio Wave.png</File>
+    </Channel>
+  </Radio>
   <!-- ******************************************************************** -->
 </Mappings>
