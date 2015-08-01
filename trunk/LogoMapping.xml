@@ -81,6 +81,12 @@
       <File>AXN.png</File>
     </Channel>
     <Channel>
+      <Item Name="Barrandov Muzika">
+        <Provider />
+      </Item>
+      <File>Barrandov Muzika.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Barrandov Plus">
         <Provider />
       </Item>
@@ -715,6 +721,12 @@
         <Provider />
       </Item>
       <File>Golf Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Harmonie TV">
+        <Provider />
+      </Item>
+      <File>Harmonie TV.png</File>
     </Channel>
     <Channel>
       <Item Name="HBO 2 HD">
