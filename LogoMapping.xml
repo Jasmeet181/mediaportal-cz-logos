@@ -246,6 +246,9 @@
       <Item Name="CNBC">
         <Provider />
       </Item>
+      <Item Name="CNBC Europe">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
       <File>CNBC.png</File>
     </Channel>
     <Channel>
@@ -1245,6 +1248,9 @@
       <Item Name="Relax">
         <Provider>UPC (CZ)</Provider>
       </Item>
+      <Item Name="Relax - Pohoda">
+        <Provider />
+      </Item>
       <File>Relax.png</File>
     </Channel>
     <Channel>
@@ -1536,6 +1542,9 @@
       <Item Name="TV5 Monde">
         <Provider>UPC (CZ)</Provider>
       </Item>
+      <Item Name="TV 5 Monde">
+        <Provider />
+      </Item>
       <File>TV5Monde.png</File>
     </Channel>
     <Channel>
@@ -1571,6 +1580,9 @@
     <Channel>
       <Item Name="V1">
         <Provider>UPC (CZ)</Provider>
+      </Item>
+      <Item Name="V 1">
+        <Provider />
       </Item>
       <File>V1.png</File>
     </Channel>
