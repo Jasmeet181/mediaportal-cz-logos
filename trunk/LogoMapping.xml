@@ -192,6 +192,18 @@
       <File>CCTV News.png</File>
     </Channel>
     <Channel>
+      <Item Name="CCTV-4">
+        <Provider />
+      </Item>
+      <File>CCTV-4.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CCTV-9">
+        <Provider />
+      </Item>
+      <File>CCTV-9.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Central Europe TV">
         <Provider />
       </Item>
@@ -816,6 +828,12 @@
       <File>Jednotka.png</File>
     </Channel>
     <Channel>
+      <Item Name="Jihoceska TV">
+        <Provider />
+      </Item>
+      <File>Jihoceska TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Jim Jam">
         <Provider>UPC (CZ)</Provider>
       </Item>
@@ -862,6 +880,12 @@
         <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Joj TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KBS World HD">
+        <Provider />
+      </Item>
+      <File>KBS World HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Kino Barrandov">
@@ -1092,6 +1116,12 @@
       <File>Nat Geo.png</File>
     </Channel>
     <Channel>
+      <Item Name="NetViet">
+        <Provider />
+      </Item>
+      <File>NetViet.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Nickelodeon HD CZ">
         <Provider />
       </Item>
@@ -1173,10 +1203,22 @@
       <File>Ocko.png</File>
     </Channel>
     <Channel>
+      <Item Name="ORF">
+        <Provider />
+      </Item>
+      <File>ORF.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Penthouse TV">
         <Provider />
       </Item>
       <File>Penthouse TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Polar">
+        <Provider />
+      </Item>
+      <File>Polar.png</File>
     </Channel>
     <Channel>
       <Item Name="Prima Cool HD">
@@ -1527,6 +1569,12 @@
       <File>TV Regina.png</File>
     </Channel>
     <Channel>
+      <Item Name="TV Slovacko">
+        <Provider />
+      </Item>
+      <File>TV Slovacko.png</File>
+    </Channel>
+    <Channel>
       <Item Name="TV Ziva">
         <Provider />
       </Item>
@@ -1558,6 +1606,15 @@
         <Provider />
       </Item>
       <File>TVE Internacional.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TVP">
+        <Provider />
+      </Item>
+      <Item Name="TVP1">
+        <Provider />
+      </Item>
+      <File>TVP1.png</File>
     </Channel>
     <Channel>
       <Item Name="Unitel Classica HD">
@@ -1651,6 +1708,12 @@
         <Provider />
       </Item>
       <File>Vremya.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="VTV4">
+        <Provider />
+      </Item>
+      <File>VTV4.png</File>
     </Channel>
     <Channel>
       <Item Name="Wau">
