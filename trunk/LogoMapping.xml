@@ -8,6 +8,7 @@
       </Item>
       <File>3sat.png</File>
     </Channel>
+    <Channel>
       <Item Name="Active">
         <Provider />
       </Item>
