@@ -261,6 +261,12 @@
       <File>Cinemax.png</File>
     </Channel>
     <Channel>
+      <Item Name="Classica">
+        <Provider />
+      </Item>
+      <File>Classica.png</File>
+    </Channel>
+    <Channel>
       <Item Name="CNBC">
         <Provider />
       </Item>
@@ -1128,6 +1134,12 @@
       <File>Nat Geo.png</File>
     </Channel>
     <Channel>
+      <Item Name="Nautical Channel">
+        <Provider />
+      </Item>
+      <File>Nautical Channel.png</File>
+    </Channel>
+    <Channel>
       <Item Name="NetViet">
         <Provider />
       </Item>
@@ -1281,6 +1293,12 @@
       <File>Private TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Qyou HD">
+        <Provider />
+      </Item>
+      <File>Qyou.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Rebel TV">
         <Provider />
       </Item>
@@ -1305,13 +1323,22 @@
       <Item Name="Relax - Pohoda">
         <Provider />
       </Item>
-      <File>Relax.png</File>
+      <Item Name="Relax Pohoda">
+        <Provider />
+      </Item>
+      <File>Relax Pohoda.png</File>
     </Channel>
     <Channel>
       <Item Name="Retro Music TV">
         <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Retro.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Ring TV">
+        <Provider />
+      </Item>
+      <File>Ring TV.png</File>
     </Channel>
     <Channel>
       <Item Name="RT">
@@ -1743,6 +1770,21 @@
   <!-- ******************************************************************** -->
   <Radio>
     <Channel>
+      <Item Name="BBC Czech">
+        <Provider />
+      </Item>
+      <File>BBC Czech.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Country Radio">
+        <Provider />
+      </Item>
+      <Item Name="Country Radio Jihozápad">
+        <Provider />
+      </Item>
+      <File>Country Radio.png</File>
+    </Channel>
+    <Channel>
       <Item Name="CRo D-dur">
         <Provider>UPC (CZ)</Provider>
       </Item>
@@ -1788,6 +1830,33 @@
         <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Cesky rozhlas Vltava.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Radio Proglas">
+        <Provider />
+      </Item>
+      <File>Radio Proglas.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Rádio Beat">
+        <Provider />
+      </Item>
+      <Item Name="Rádio Beat Cechy">
+        <Provider />
+      </Item>
+      <Item Name="Rádio Beat Jihozápad">
+        <Provider />
+      </Item>
+      <Item Name="Rádio Beat Jizní Morava">
+        <Provider />
+      </Item>
+      <Item Name="Rádio Beat Severní Morava">
+        <Provider />
+      </Item>
+      <Item Name="Rádio Beat Severovýchod">
+        <Provider />
+      </Item>
+      <File>Radio Beat.png</File>
     </Channel>
     <Channel>
       <Item Name="Radio Junior">
