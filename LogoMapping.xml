@@ -1293,12 +1293,6 @@
       <File>Private TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Qyou HD">
-        <Provider />
-      </Item>
-      <File>Qyou.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Rebel TV">
         <Provider />
       </Item>
@@ -1516,6 +1510,12 @@
         <Provider />
       </Item>
       <File>The Fishing and Hunting Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Qyou HD">
+        <Provider />
+      </Item>
+      <File>The Qyou.png</File>
     </Channel>
     <Channel>
       <Item Name="TLC">
