@@ -1290,6 +1290,12 @@
       <File>Polar.png</File>
     </Channel>
     <Channel>
+      <Item Name="Prima Comedy Central">
+        <Provider />
+      </Item>
+      <File>Prima Comedy Central.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Prima Cool HD">
         <Provider>UPC (CZ)</Provider>
       </Item>
@@ -1312,6 +1318,18 @@
         <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Prima Love.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Prima Max HD">
+        <Provider />
+      </Item>
+      <File>Prima Max HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Prima Max">
+        <Provider />
+      </Item>
+      <File>Prima Max.png</File>
     </Channel>
     <Channel>
       <Item Name="Prima Zoom HD">
