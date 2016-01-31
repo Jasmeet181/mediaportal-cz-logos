@@ -63,6 +63,12 @@
       <File>AXN Black.png</File>
     </Channel>
     <Channel>
+      <Item Name="AXN Black HD">
+        <Provider />
+      </Item>
+      <File>AXN Black HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="AXN HD">
         <Provider>UPC (CZ)</Provider>
       </Item>
@@ -75,6 +81,12 @@
       <File>AXN White.png</File>
     </Channel>
     <Channel>
+      <Item Name="AXN White HD">
+        <Provider />
+      </Item>
+      <File>AXN White HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="AXN">
         <Provider>UPC (CZ)</Provider>
       </Item>
@@ -84,10 +96,16 @@
       <Item Name="Barrandov Muzika">
         <Provider />
       </Item>
+      <Item Name="Barrandov Muzika HD">
+        <Provider />
+      </Item>
       <File>Barrandov Muzika.png</File>
     </Channel>
     <Channel>
       <Item Name="Barrandov Plus">
+        <Provider />
+      </Item>
+      <Item Name="Barrandov Plus HD">
         <Provider />
       </Item>
       <File>Barrandov Plus.png</File>
@@ -132,10 +150,10 @@
       <File>Boomerang.png</File>
     </Channel>
     <Channel>
-      <Item Name="Brava HDTV">
+      <Item Name="Brava HD">
         <Provider />
       </Item>
-      <File>BravaHDTV.png</File>
+      <File>Brava HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Brazzers.TV">
@@ -558,6 +576,9 @@
       <File>Dvojka.png</File>
     </Channel>
     <Channel>
+      <Item Name="Edge CZ">
+        <Provider />
+      </Item>
       <Item Name="Edgesport">
         <Provider />
       </Item>
@@ -597,19 +618,19 @@
       <File>Eurosport 2 HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Eurosport HD">
+      <Item Name="Eurosport 1 HD">
         <Provider />
       </Item>
-      <File>Eurosport HD.png</File>
+      <File>Eurosport 1 HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Eurosport CZ">
+      <Item Name="Eurosport 1 CZ">
         <Provider />
       </Item>
-      <Item Name="Eurosport">
+      <Item Name="Eurosport 1">
         <Provider />
       </Item>
-      <File>Eurosport.png</File>
+      <File>Eurosport 1.png</File>
     </Channel>
     <Channel>
       <Item Name="Extreme Sports">
@@ -696,6 +717,12 @@
       <File>FilmBox Plus.png</File>
     </Channel>
     <Channel>
+      <Item Name="FilmBox Premium">
+        <Provider />
+      </Item>
+      <File>FilmBox Premium.png</File>
+    </Channel>
+    <Channel>
       <Item Name="FilmBox">
         <Provider>UPC (CZ)</Provider>
       </Item>
@@ -705,7 +732,7 @@
       <Item Name="Fine Living">
         <Provider>UPC (CZ)</Provider>
       </Item>
-      <Item Name="Fine Living Network">
+      <Item Name="Fine Living HD">
         <Provider />
       </Item>
       <File>Fine Living Network.png</File>
@@ -807,6 +834,12 @@
       <File>Horor Film.png</File>
     </Channel>
     <Channel>
+      <Item Name="Hustler HD">
+        <Provider />
+      </Item>
+      <Item Name="Hustler HD CZ">
+        <Provider />
+      </Item>
       <Item Name="Hustler TV HD">
         <Provider />
       </Item>
@@ -882,20 +915,17 @@
       <File>Joj Plus HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Joj HD">
-        <Provider />
-      </Item>
-      <Item Name="TV Joj HD">
-        <Provider />
-      </Item>
-      <File>Joj TV HD.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Joj">
+        <Provider />
+      </Item>
+      <Item Name="Joj HD">
         <Provider />
       </Item>
       <Item Name="TV Joj">
         <Provider>UPC (CZ)</Provider>
+      </Item>
+      <Item Name="TV Joj HD">
+        <Provider />
       </Item>
       <File>Joj TV.png</File>
     </Channel>
@@ -909,6 +939,9 @@
       <Item Name="Kino Barrandov">
         <Provider />
       </Item>
+      <Item Name="Kino Barrandov HD">
+        <Provider />
+      </Item>
       <File>Kino Barrandov.png</File>
     </Channel>
     <Channel>
@@ -918,6 +951,12 @@
       <File>Kino CS.png</File>
     </Channel>
     <Channel>
+      <Item Name="KinoSvet">
+        <Provider />
+      </Item>
+      <Item Name="KinoSvet 20-22h">
+        <Provider />
+      </Item>
       <Item Name="Kino Svet">
         <Provider>UPC (CZ)</Provider>
       </Item>
@@ -1233,7 +1272,13 @@
       <File>ORF.png</File>
     </Channel>
     <Channel>
-      <Item Name="Penthouse TV">
+      <Item Name="Penthouse">
+        <Provider />
+      </Item>
+      <Item Name="Penthouse CZ">
+        <Provider />
+      </Item>
+      <Item Name="Penthouse HD">
         <Provider />
       </Item>
       <File>Penthouse TV.png</File>
@@ -1327,6 +1372,12 @@
         <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Retro.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Rik">
+        <Provider />
+      </Item>
+      <File>Rik.png</File>
     </Channel>
     <Channel>
       <Item Name="Ring TV">
