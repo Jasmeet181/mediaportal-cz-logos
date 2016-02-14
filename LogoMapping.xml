@@ -96,31 +96,25 @@
       <Item Name="Barrandov Muzika">
         <Provider />
       </Item>
+      <File>Barrandov Muzika.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Barrandov Muzika HD">
         <Provider />
       </Item>
-      <File>Barrandov Muzika.png</File>
+      <File>Barrandov Muzika HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Barrandov Plus">
         <Provider />
       </Item>
-      <Item Name="Barrandov Plus HD">
-        <Provider />
-      </Item>
       <File>Barrandov Plus.png</File>
     </Channel>
     <Channel>
-      <Item Name="Barrandov TV HD">
-        <Provider>UPC (CZ)</Provider>
+      <Item Name="Barrandov Plus HD">
+        <Provider />
       </Item>
-      <File>Barrandov TV HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Barrandov TV">
-        <Provider>UPC (CZ)</Provider>
-      </Item>
-      <File>Barrandov TV.png</File>
+      <File>Barrandov Plus HD.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC World">
@@ -915,21 +909,6 @@
       <File>Joj Plus HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Joj">
-        <Provider />
-      </Item>
-      <Item Name="Joj HD">
-        <Provider />
-      </Item>
-      <Item Name="TV Joj">
-        <Provider>UPC (CZ)</Provider>
-      </Item>
-      <Item Name="TV Joj HD">
-        <Provider />
-      </Item>
-      <File>Joj TV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="KBS World HD">
         <Provider />
       </Item>
@@ -939,10 +918,13 @@
       <Item Name="Kino Barrandov">
         <Provider />
       </Item>
+      <File>Kino Barrandov.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Kino Barrandov HD">
         <Provider />
       </Item>
-      <File>Kino Barrandov.png</File>
+      <File>Kino Barrandov HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Kino CS">
@@ -1024,6 +1006,12 @@
         <Provider />
       </Item>
       <File>Markiza HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Markiza International">
+        <Provider />
+      </Item>
+      <File>Markiza International.png</File>
     </Channel>
     <Channel>
       <Item Name="Markiza">
@@ -1215,16 +1203,34 @@
       <File>Nova Cinema.png</File>
     </Channel>
     <Channel>
-      <Item Name="Nova Sport HD">
+      <Item Name="Nova International">
         <Provider />
       </Item>
-      <File>Nova Sport HD.png</File>
+      <File>Nova International.png</File>
     </Channel>
     <Channel>
-      <Item Name="Nova Sport">
+      <Item Name="Nova Sport 1 HD">
         <Provider />
       </Item>
-      <File>Nova Sport.png</File>
+      <File>Nova Sport 1 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Nova Sport 1">
+        <Provider />
+      </Item>
+      <File>Nova Sport 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Nova Sport 2 HD">
+        <Provider />
+      </Item>
+      <File>Nova Sport 2 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Nova Sport 2">
+        <Provider />
+      </Item>
+      <File>Nova Sport 2.png</File>
     </Channel>
     <Channel>
       <Item Name="Nova HD">
@@ -1623,6 +1629,18 @@
       <File>Travel Channel.png</File>
     </Channel>
     <Channel>
+      <Item Name="Barrandov TV HD">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
+      <File>TV Barrandov HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Barrandov TV">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
+      <File>TV Barrandov.png</File>
+    </Channel>
+    <Channel>
       <Item Name="TV Bratislava">
         <Provider />
       </Item>
@@ -1633,6 +1651,24 @@
         <Provider />
       </Item>
       <File>TV Empatia.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Joj">
+        <Provider />
+      </Item>
+      <Item Name="TV Joj">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
+      <File>TV Joj.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Joj HD">
+        <Provider />
+      </Item>
+      <Item Name="TV Joj HD">
+        <Provider />
+      </Item>
+      <File>TV Joj HD.png</File>
     </Channel>
     <Channel>
       <Item Name="TV Nitricka">
@@ -1822,6 +1858,12 @@
         <Provider />
       </Item>
       <File>VTV4.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Wau HD">
+        <Provider />
+      </Item>
+      <File>Wau HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Wau">
