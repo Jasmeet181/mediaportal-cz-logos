@@ -39,6 +39,30 @@
       <File>Animal Planet.png</File>
     </Channel>
     <Channel>
+      <Item Name="Arena Sport 1">
+        <Provider />
+      </Item>
+      <File>Arena Sport 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Arena Sport 1 HD">
+        <Provider />
+      </Item>
+      <File>Arena Sport 1 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Arena Sport 2">
+        <Provider />
+      </Item>
+      <File>Arena Sport 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Arena Sport 2 HD">
+        <Provider />
+      </Item>
+      <File>Arena Sport 2 HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Arte HD">
         <Provider />
       </Item>
@@ -579,6 +603,18 @@
       <File>Edgesport.png</File>
     </Channel>
     <Channel>
+      <Item Name="English Club TV">
+        <Provider />
+      </Item>
+      <File>English Club TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="English Club TV HD">
+        <Provider />
+      </Item>
+      <File>English Club TV HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="EroXXX HD">
         <Provider />
       </Item>
@@ -633,12 +669,6 @@
       <File>Extreme Sports.png</File>
     </Channel>
     <Channel>
-      <Item Name="Fajnrock TV">
-        <Provider>UPC (CZ)</Provider>
-      </Item>
-      <File>Fajnrock TV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Fanda HD">
         <Provider>UPC (CZ)</Provider>
       </Item>
@@ -654,7 +684,7 @@
       <Item Name="Fashion TV">
         <Provider>UPC (CZ)</Provider>
       </Item>
-      <File>Fashion TV.png</File>
+      <File>Fashion TV Czech and Slovak.png</File>
     </Channel>
     <Channel>
       <Item Name="FightBox HD">
@@ -730,6 +760,18 @@
         <Provider />
       </Item>
       <File>Fine Living Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Food Network">
+        <Provider />
+      </Item>
+      <File>Food Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Food Network HD">
+        <Provider />
+      </Item>
+      <File>Food Network HD.png</File>
     </Channel>
     <Channel>
       <Item Name="France 24">
@@ -1380,6 +1422,12 @@
       <File>Regionalnitelevize.cz.png</File>
     </Channel>
     <Channel>
+      <Item Name="Regiony+">
+        <Provider />
+      </Item>
+      <File>Regiony+.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Relax">
         <Provider>UPC (CZ)</Provider>
       </Item>
@@ -1480,6 +1528,12 @@
         <Provider />
       </Item>
       <File>Slovak Sport TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Slusnej Kanal TV">
+        <Provider />
+      </Item>
+      <File>Slusnej Kanal TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Smichov">
@@ -1771,12 +1825,6 @@
         <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Universal.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="UPC Express">
-        <Provider>UPC (CZ)</Provider>
-      </Item>
-      <File>UPC Express.png</File>
     </Channel>
     <Channel>
       <Item Name="V1">
