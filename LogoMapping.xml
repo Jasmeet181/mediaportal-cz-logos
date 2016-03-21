@@ -663,6 +663,12 @@
       <File>Eurosport 1.png</File>
     </Channel>
     <Channel>
+      <Item Name="Extasy TV">
+        <Provider />
+      </Item>
+      <File>Extasy TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Extreme Sports">
         <Provider />
       </Item>
@@ -723,6 +729,12 @@
       <File>FilmBox Extra.png</File>
     </Channel>
     <Channel>
+      <Item Name="FilmBox Extra HD">
+        <Provider />
+      </Item>
+      <File>FilmBox Extra HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="FilmBox Family">
         <Provider />
       </Item>
@@ -745,6 +757,12 @@
         <Provider />
       </Item>
       <File>FilmBox Premium.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="FilmBox Premium HD">
+        <Provider />
+      </Item>
+      <File>FilmBox Premium HD.png</File>
     </Channel>
     <Channel>
       <Item Name="FilmBox">
@@ -813,16 +831,16 @@
       <File>HBO 2.png</File>
     </Channel>
     <Channel>
-      <Item Name="HBO Comedy HD">
+      <Item Name="HBO 3 HD">
         <Provider />
       </Item>
-      <File>HBO Comedy HD.png</File>
+      <File>HBO 3 HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="HBO Comedy">
+      <Item Name="HBO 3">
         <Provider />
       </Item>
-      <File>HBO Comedy.png</File>
+      <File>HBO 3.png</File>
     </Channel>
     <Channel>
       <Item Name="HBO HD">
@@ -1099,6 +1117,12 @@
         <Provider />
       </Item>
       <File>Mnam TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Mnau TV">
+        <Provider />
+      </Item>
+      <File>Mnau TV.png</File>
     </Channel>
     <Channel>
       <Item Name="MTV Dance">
