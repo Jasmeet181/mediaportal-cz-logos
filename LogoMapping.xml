@@ -1245,6 +1245,12 @@
       <File>LTV1.png</File>
     </Channel>
     <Channel>
+      <Item Name="Luxe TV HD">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Luxe TV HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="M1 HD">
         <Provider>Full Name (CZ)</Provider>
       </Item>
@@ -1873,6 +1879,12 @@
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <File>Sat1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Shorts TV HD">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Shorts TV HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky News">
