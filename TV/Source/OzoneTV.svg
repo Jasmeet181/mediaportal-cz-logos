@@ -23,24 +23,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs23">
-    <linearGradient
-       id="linearGradient4587"
-       inkscape:collect="always">
-      <stop
-         style="stop-color:#288a43;stop-opacity:1"
-         offset="0"
-         id="stop4585" />
-      <stop
-         style="stop-color:#44b449;stop-opacity:1"
-         offset="1"
-         id="stop4583" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4547">
@@ -91,7 +79,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4587"
+       xlink:href="#linearGradient4547"
        id="linearGradient4581"
        x1="741.15277"
        y1="315.20999"
@@ -100,7 +88,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4587"
+       xlink:href="#linearGradient4547"
        id="linearGradient4597"
        x1="830.2948"
        y1="342.97501"
@@ -109,7 +97,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4587"
+       xlink:href="#linearGradient4547"
        id="linearGradient4605"
        x1="930.07275"
        y1="299.86511"
@@ -118,7 +106,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4587"
+       xlink:href="#linearGradient4547"
        id="linearGradient4613"
        x1="931.32275"
        y1="389.35486"
@@ -144,7 +132,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="0.69140625"
-     inkscape:cx="559.61033"
+     inkscape:cx="807.09458"
      inkscape:cy="511.92559"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
