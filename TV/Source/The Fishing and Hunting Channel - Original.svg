@@ -5,14 +5,15 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="868.63898"
-   width="580.75854"
+   height="999.99994"
+   width="999.99994"
    version="1.1"
-   viewBox="0 0 153.65903 229.8264"
+   viewBox="0 0 264.58331 264.58217"
    id="svg90"
-   sodipodi:docname="The Fishing and Hunting Channel.svg"
+   sodipodi:docname="The Fishing and Hunting Channel - Original.svg"
    inkscape:version="0.92.0 r15299">
   <metadata
      id="metadata94">
@@ -44,17 +45,45 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="0.25921532"
-     inkscape:cx="284.58322"
-     inkscape:cy="60.956223"
+     inkscape:cx="494.20394"
+     inkscape:cy="126.63642"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg90" />
   <defs
-     id="defs14" />
+     id="defs14">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4684">
+      <stop
+         style="stop-color:#0199da;stop-opacity:1"
+         offset="0"
+         id="stop4680" />
+      <stop
+         style="stop-color:#0d71a2;stop-opacity:1"
+         offset="1"
+         id="stop4682" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4684"
+       id="linearGradient4686"
+       x1="26.70475"
+       y1="-323.75375"
+       x2="26.70475"
+       y2="-59.593239"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(98.879753,323.96465)" />
+  </defs>
+  <path
+     style="opacity:1;fill:url(#linearGradient4686);fill-opacity:1;stroke:none;stroke-width:11.269804;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 0,-4.9947232e-4 H 264.58331 V 264.58282 H 0 Z"
+     id="rect4677"
+     inkscape:connector-curvature="0" />
   <g
      id="g4718"
-     transform="matrix(0.99594917,0,0,0.99594917,0,-4.6804994e-5)"
+     transform="matrix(0.99594917,0,0,0.99594917,55.462146,17.377981)"
      style="fill:#ffffff;fill-opacity:1">
     <path
        d="m 153.694,104.18165 c -0.03,-0.14 -0.05,-0.28 -0.05,-0.4 -0.07,-0.02 -0.16,-0.02 -0.23,-0.02 z"
