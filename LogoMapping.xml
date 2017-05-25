@@ -159,6 +159,9 @@
       <Item Name="Barrandov Family">
         <Provider>Full Name (CZ)</Provider>
       </Item>
+      <Item Name="Barrandov Muzika">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
       <File>Barrandov Family.png</File>
     </Channel>
     <Channel>
@@ -1559,21 +1562,33 @@
       <Item Name="Nova 2 HD">
         <Provider>Full Name (CZ)</Provider>
       </Item>
+      <Item Name="Smichov HD">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
       <File>Nova 2 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Nova 2">
         <Provider>Full Name (CZ)</Provider>
       </Item>
+      <Item Name="Smichov">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
       <File>Nova 2.png</File>
     </Channel>
     <Channel>
+      <Item Name="Fanda HD">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
       <Item Name="Nova Action HD">
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <File>Nova Action HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Fanda">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
       <Item Name="Nova Action">
         <Provider>Full Name (CZ)</Provider>
       </Item>
@@ -1598,11 +1613,17 @@
       <Item Name="Nova Gold HD">
         <Provider>Full Name (CZ)</Provider>
       </Item>
+      <Item Name="Telka HD">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
       <File>Nova Gold HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Nova Gold">
         <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <Item Name="Telka">
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Nova Gold.png</File>
     </Channel>
@@ -1902,6 +1923,12 @@
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <File>RegionyPlus.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Relax HD">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Relax HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Relax">
@@ -2951,7 +2978,7 @@
     </Channel>
     <Channel>
       <Item Name="Fajn Rock Music">
-        <Provider>Full Name (CZ)</Provider
+        <Provider>Full Name (CZ)</Provider>
       </Item>
       <Item Name="Radio Fajn Rock Life">
         <Provider>UPC (CZ)</Provider>
