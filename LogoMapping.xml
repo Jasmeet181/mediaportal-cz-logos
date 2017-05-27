@@ -2758,7 +2758,7 @@
       <Item Name="CRo Karlovy Vary">
         <Provider>UPC (CZ)</Provider>
       </Item>
-      <File>Cesky rozhlas Karlovy Vary.png</File>
+      <File>Cesky rozhlas Karlovy Vary.png</File><!-- Missing -->
     </Channel>
     <Channel>
       <Item Name="Cesky rozhlas Liberec">
@@ -2767,7 +2767,7 @@
       <Item Name="CRo Liberec">
         <Provider>UPC (CZ)</Provider>
       </Item>
-      <File>Cesky rozhlas Hradec Kralove.png</File>
+      <File>Cesky rozhlas Liberec.png</File><!-- Missing -->
     </Channel>
     <Channel>
       <Item Name="Cesky rozhlas Olomouc">
@@ -2835,13 +2835,13 @@
       <File>Cesky rozhlas Radiozurnal.png</File>
     </Channel>
     <Channel>
-      <Item Name="Cesky rozhlas Regina">
+      <Item Name="Cesky rozhlas Regina DAB Praha">
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <Item Name="CRo Regina">
         <Provider>UPC (CZ)</Provider>
       </Item>
-      <File>Cesky rozhlas Regina.png</File>
+      <File>Cesky rozhlas Regina DAB Praha.png</File>
     </Channel>
     <Channel>
       <Item Name="Cesky rozhlas Region">
@@ -2859,7 +2859,7 @@
       <Item Name="CRo Region St. Cechy">
         <Provider>UPC (CZ)</Provider>
       </Item>
-      <File>Cesky rozhlas Region St. Cechy.png</File>
+      <File>Cesky rozhlas Region St. Cechy.png</File><!-- Missing -->
     </Channel>
     <Channel>
       <Item Name="Cesky rozhlas Region Vysocina">
@@ -2868,7 +2868,7 @@
       <Item Name="CRo Region Vysocina">
         <Provider>UPC (CZ)</Provider>
       </Item>
-      <File>Cesky rozhlas Region Vysocina.png</File>
+      <File>Cesky rozhlas Region Vysocina.png</File><!-- Missing -->
     </Channel>
     <Channel>
       <Item Name="Cesky rozhlas Retro">
@@ -2877,7 +2877,7 @@
       <Item Name="CRo Retro">
         <Provider>UPC (CZ)</Provider>
       </Item>
-      <File>Cesky rozhlas Retro.png</File>
+      <File>Cesky rozhlas Retro.png</File><!-- Missing -->
     </Channel>
     <Channel>
       <Item Name="Cesky rozhlas Sever">
@@ -2917,7 +2917,7 @@
       <Item Name="Radio Color">
         <Provider>UPC (CZ)</Provider>
       </Item>
-      <File>Color Music Radio.png</File>
+      <File>Color Music Radio.png</File><!-- Missing -->
     </Channel>
     <Channel>
       <Item Name="Country Radio">
@@ -2935,11 +2935,26 @@
       <File>Dance Radio.png</File>
     </Channel>
     <Channel>
-      <Item Name="Evropa 2">
+      <Item Name="Egrensis Radio">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <Item Name="Radio Egrensis">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
+      <File>Egrensis Radio.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Europa 2">
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <Item Name="Radio Europa 2">
         <Provider>UPC (CZ)</Provider>
+      </Item>
+      <File>Europa 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Evropa 2">
+        <Provider>Full Name (CZ)</Provider>
       </Item>
       <Item Name="Radio Evropa 2 CZ">
         <Provider>UPC (CZ)</Provider>
@@ -2977,15 +2992,6 @@
       <File>Fajn Radio.png</File>
     </Channel>
     <Channel>
-      <Item Name="Fajn Rock Music">
-        <Provider>Full Name (CZ)</Provider>
-      </Item>
-      <Item Name="Radio Fajn Rock Life">
-        <Provider>UPC (CZ)</Provider>
-      </Item>
-      <File>Fajn Rock Music.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Frekvence 1">
         <Provider>Full Name (CZ)</Provider>
       </Item>
@@ -2993,6 +2999,12 @@
         <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Frekvence 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Hey Radio">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Hey Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="Hitradio City 93,7FM">
@@ -3031,13 +3043,13 @@
       <File>Hitradio FM Plus.png</File>
     </Channel>
     <Channel>
-      <Item Name="Hitradio OE3">
+      <Item Name="Hitradio O3">
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <Item Name="Radio OE3">
         <Provider>UPC (CZ)</Provider>
       </Item>
-      <File>Hitradio OE3.png</File>
+      <File>Hitradio O3.png</File>
     </Channel>
     <Channel>
       <Item Name="Hitradio Orion">
@@ -3080,7 +3092,7 @@
       <Item Name="Radio - 7">
         <Provider>UPC (CZ)</Provider>
       </Item>
-      <File>Radio 7.png</File>
+      <File>Radio 7.png</File><!-- Missing -->
     </Channel>
     <Channel>
       <Item Name="Radio Aktual">
@@ -3101,6 +3113,12 @@
         <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Radio Beat.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Radio Best FM">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Radio Best FM.png</File>
     </Channel>
     <Channel>
       <Item Name="Radio Blanik">
@@ -3162,11 +3180,13 @@
       <File>Radio Devin.png</File>
     </Channel>
     <Channel>
-      <Item Name="Radio Egrensis">
+      <Item Name="Radio Fajn Rock Music">
         <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <Item Name="Radio Fajn Rock Life">
         <Provider>UPC (CZ)</Provider>
       </Item>
-      <File>Radio Egrensis.png</File>
+      <File>Radio Fajn Rock Music.png</File>
     </Channel>
     <Channel>
       <Item Name="Radio France Internationale">
@@ -3199,6 +3219,13 @@
       <File>Radio Impuls.png</File>
     </Channel>
     <Channel>
+      <Item Name="Radio Jemne">
+        <Provider>Full Name (CZ)</Provider>
+        <Provider>UPC (CZ)</Provider>
+      </Item>
+      <File>Radio Jemne.png</File>
+    </Channel>
+    <Channel>
       <Item Name="CRo Radio Junior">
         <Provider>Terrestrial (CZ)</Provider>
       </Item>
@@ -3206,13 +3233,6 @@
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <File>Radio Junior.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Radio Jemne">
-        <Provider>Full Name (CZ)</Provider>
-        <Provider>UPC (CZ)</Provider>
-      </Item>
-      <File>Radio Jemne.png</File>
     </Channel>
     <Channel>
       <Item Name="Radio Kiss Hady">
@@ -3229,13 +3249,6 @@
       <File>Radio Kiss Morava.png</File>
     </Channel>
     <Channel>
-      <Item Name="Radio Krokodyl">
-        <Provider>Full Name (CZ)</Provider>
-        <Provider>UPC (CZ)</Provider>
-      </Item>
-      <File>Radio Krokodyl.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Radio Kiss 98FM">
         <Provider>UPC (CZ)</Provider>
       </Item>
@@ -3243,6 +3256,13 @@
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <File>Radio Kiss.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Radio Krokodyl">
+        <Provider>Full Name (CZ)</Provider>
+        <Provider>UPC (CZ)</Provider>
+      </Item>
+      <File>Radio Krokodyl.png</File><!-- Missing -->
     </Channel>
     <Channel>
       <Item Name="Radio Petrov">
@@ -3262,22 +3282,13 @@
       <File>Radio Proglas.png</File>
     </Channel>
     <Channel>
-      <Item Name="RockZone 105,7FM">
-        <Provider>Full Name (CZ)</Provider>
-      </Item>
-      <Item Name="Radio RockZone 105,7FM">
-        <Provider>UPC (CZ)</Provider>
-      </Item>
-      <File>Radio RockZone 105,7FM.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Radio Slovakia International">
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <Item Name="Radio Slovakia">
         <Provider>UPC (CZ)</Provider>
       </Item>
-      <File>Radio Slovakia International.png</File>
+      <File>Radio Slovakia International.png</File><!-- Missing -->
     </Channel>
     <Channel>
       <Item Name="Radio Slovensko">
@@ -3291,31 +3302,31 @@
         <Provider>Full Name (CZ)</Provider>
         <Provider>UPC (CZ)</Provider>
       </Item>
-      <File>Radio Spin.png</File>
+      <File>Radio Spin.png</File><!-- Missing -->
     </Channel>
     <Channel>
-      <Item Name="Radio VALC 1 - Gold">
+      <Item Name="Radio Valc 1 - Gold">
         <Provider>UPC (CZ)</Provider>
       </Item>
-      <Item Name="Radio VALC 2 - Country">
+      <Item Name="Radio Valc 2 - Country">
         <Provider>UPC (CZ)</Provider>
       </Item>
-      <Item Name="Radio VALC 3 - Hit">
+      <Item Name="Radio Valc 3 - Hit">
         <Provider>UPC (CZ)</Provider>
       </Item>
-      <Item Name="Radio VALC 4 - Rock">
+      <Item Name="Radio Valc 4 - Rock">
         <Provider>UPC (CZ)</Provider>
       </Item>
-      <Item Name="Radio VALC 5 - Classic">
+      <Item Name="Radio Valc 5 - Classic">
         <Provider>UPC (CZ)</Provider>
       </Item>
-      <Item Name="Radio VALC 6 - Valcarka">
+      <Item Name="Radio Valc 6 - Valcarka">
         <Provider>UPC (CZ)</Provider>
       </Item>
-      <Item Name="Radio VALC Live">
+      <Item Name="Radio Valc Live">
         <Provider>UPC (CZ)</Provider>
       </Item>
-      <File>Radio VALC.png</File>
+      <File>Radio Valc.png</File>
     </Channel>
     <Channel>
       <Item Name="Radio Veronica">
@@ -3339,7 +3350,16 @@
         <Provider>Full Name (CZ)</Provider>
         <Provider>UPC (CZ)</Provider>
       </Item>
-      <File>Radio_FM.png</File>
+      <File>Radio_FM.png</File><!-- Missing -->
+    </Channel>
+    <Channel>
+      <Item Name="Radio RockZone 105,7FM">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
+      <Item Name="RockZone 105,9">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>RockZone 105,9.png</File>
     </Channel>
     <Channel>
       <Item Name="Radio RTL Radio">
@@ -3357,7 +3377,7 @@
       <Item Name="Radio SeeJay Radio">
         <Provider>UPC (CZ)</Provider>
       </Item>
-      <File>SeeJay Radio.png</File>
+      <File>SeeJay Radio.png</File><!-- Missing -->
     </Channel>
     <Channel>
       <Item Name="Radio Signal Radio">
