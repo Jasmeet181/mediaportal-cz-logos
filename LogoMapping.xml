@@ -3047,13 +3047,13 @@
       <File>Cesky rozhlas Region Vysocina.png</File>
     </Channel>
     <Channel>
-      <Item Name="Cesky rozhlas Retro Radio">
+      <Item Name="Cesky rozhlas Radio Retro">
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <Item Name="CRo Retro">
         <Provider>UPC (CZ)</Provider>
       </Item>
-      <File>Cesky rozhlas Retro Radio.png</File>
+      <File>Cesky rozhlas Radio Retro.png</File>
     </Channel>
     <Channel>
       <Item Name="Cesky rozhlas Sever">
@@ -3186,13 +3186,13 @@
       <File>Hey Radio.png</File>
     </Channel>
     <Channel>
-      <Item Name="Hitradio City 93,7FM">
+      <Item Name="Hitradio City 93,7 FM">
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <Item Name="Radio City 93,7FM">
         <Provider>UPC (CZ)</Provider>
       </Item>
-      <File>Hitradio City 93,7FM.png</File>
+      <File>Hitradio City 93,7 FM.png</File>
     </Channel>
     <Channel>
       <Item Name="Hitradio Faktor">
@@ -3488,13 +3488,6 @@
       <File>Radio Slovensko.png</File>
     </Channel>
     <Channel>
-      <Item Name="Radio Spin">
-        <Provider>Full Name (CZ)</Provider>
-        <Provider>UPC (CZ)</Provider>
-      </Item>
-      <File>Radio Spin.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Radio Valc 1 - Gold">
         <Provider>UPC (CZ)</Provider>
       </Item>
@@ -3593,6 +3586,15 @@
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <File>Sky Radio.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Radio Spin">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
+      <Item Name="Spin Radio">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Spin Radio.png</File>
     </Channel>
   </Radio>
   <!-- ******************************************************************** -->
