@@ -2811,6 +2811,12 @@
       <File>Vychodoceska Televize.png</File>
     </Channel>
     <Channel>
+      <Item Name="WAR Svet Valek">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>WAR Svet Valek.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Wau HD">
         <Provider>Full Name (CZ)</Provider>
       </Item>
