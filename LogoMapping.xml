@@ -331,11 +331,11 @@
       <File>Channel One Russia.png</File>
     </Channel>
     <Channel>
-      <Item Name="Cineamax 2 HD">
+      <Item Name="Cinemax 2 HD">
         <Provider>Full Name (CZ)</Provider>
         <Provider>UPC (CZ)</Provider>
       </Item>
-      <File>Cineamax 2 HD.png</File>
+      <File>Cinemax 2 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Cinemax 2">
@@ -345,11 +345,11 @@
       <File>Cinemax 2.png</File>
     </Channel>
     <Channel>
-      <Item Name="Cineamax HD">
+      <Item Name="Cinemax HD">
         <Provider>Full Name (CZ)</Provider>
         <Provider>UPC (CZ)</Provider>
       </Item>
-      <File>Cineamax HD.png</File>
+      <File>Cinemax HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Cinemax">
