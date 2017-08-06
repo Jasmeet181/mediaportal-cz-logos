@@ -2813,6 +2813,7 @@
     <Channel>
       <Item Name="WAR Svet Valek">
         <Provider>Full Name (CZ)</Provider>
+        <Provider>Terrestrial (CZ)</Provider>
       </Item>
       <File>WAR Svet Valek.png</File>
     </Channel>
