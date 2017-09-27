@@ -669,6 +669,12 @@
       <File>Digi Sport 4.png</File>
     </Channel>
     <Channel>
+      <Item Name="Digi Sport 5 HD">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Digi Sport 5 HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Digi Sport 5">
         <Provider>Full Name (CZ)</Provider>
       </Item>
@@ -1404,6 +1410,12 @@
       <File>Kosice Dnes.png</File>
     </Channel>
     <Channel>
+      <Item Name="Kutil TV">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Kutil TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Leo TV">
         <Provider>Full Name (CZ)</Provider>
       </Item>
@@ -1492,6 +1504,12 @@
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <File>Markiza International.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Markiza +1 HD">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Markiza Plus 1 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Markiza">
@@ -1754,6 +1772,18 @@
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <File>Nova International.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Nova +1 HD">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Nova Plus 1 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Nova +1">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Nova Plus 1.png</File>
     </Channel>
     <Channel>
       <Item Name="Nova Sport 1 HD">
@@ -2026,6 +2056,16 @@
       <File>Rebel.png</File>
     </Channel>
     <Channel>
+      <Item Name="Rebel 2 Slusnej Kanal">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <Item Name="Slusnej Kanal">
+        <Provider>Terrestrial (CZ)</Provider>
+        <Provider>UPC (CZ)</Provider>
+      </Item>
+      <File>Rebel 2 Slusnej Kanal.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Redlight HD">
         <Provider>Full Name (CZ)</Provider>
       </Item>
@@ -2184,16 +2224,6 @@
       <File>Slagr TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Slusnej Kanal TV">
-        <Provider>Full Name (CZ)</Provider>
-      </Item>
-      <Item Name="Slusnej Kanal">
-        <Provider>Terrestrial (CZ)</Provider>
-        <Provider>UPC (CZ)</Provider>
-      </Item>
-      <File>Slusnej Kanal TV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="SorozatPlus">
         <Provider>Full Name (CZ)</Provider>
       </Item>
@@ -2280,6 +2310,12 @@
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <File>Stingray Brava.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Stingray Djazz">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Stingray Djazz.png</File>
     </Channel>
     <Channel>
       <Item Name="Stingray iConcerts">
@@ -2421,6 +2457,12 @@
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <File>Travel Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Travelxp HD">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Travelxp HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Tuki TV HD">
@@ -2654,6 +2696,12 @@
       <File>TV9.png</File>
     </Channel>
     <Channel>
+      <Item Name="TV1000 Russkoe Kino">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>TV1000 Russkoe Kino.png</File>
+    </Channel>
+    <Channel>
       <Item Name="TVE Internacional">
         <Provider>Full Name (CZ)</Provider>
       </Item>
@@ -2682,6 +2730,12 @@
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <File>U TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="UATV">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>UATV.png</File>
     </Channel>
     <Channel>
       <Item Name="Universal Channel">
