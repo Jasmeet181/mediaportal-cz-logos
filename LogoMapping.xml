@@ -1844,6 +1844,12 @@
       <File>Ocko Gold.png</File>
     </Channel>
     <Channel>
+      <Item Name="Ocko Star">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Ocko Star.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Ocko">
         <Provider>Full Name (CZ)</Provider>
         <Provider>Terrestrial (CZ)</Provider>
