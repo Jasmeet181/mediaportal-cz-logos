@@ -1113,6 +1113,12 @@
       <File>Fun1.png</File>
     </Channel>
     <Channel>
+      <Item Name="FunBox UHD">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>FunBox UHD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Ginx eSports TV">
         <Provider>Full Name (CZ)</Provider>
       </Item>
@@ -1836,14 +1842,6 @@
       <File>Ocko Expres.png</File>
     </Channel>
     <Channel>
-      <Item Name="Ocko Gold">
-        <Provider>Full Name (CZ)</Provider>
-        <Provider>Terrestrial (CZ)</Provider>
-        <Provider>UPC (CZ)</Provider>
-      </Item>
-      <File>Ocko Gold.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Ocko Star">
         <Provider>Full Name (CZ)</Provider>
       </Item>
@@ -1898,6 +1896,12 @@
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <File>Penthouse HD 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Plzen TV">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Plzen TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Polar">
