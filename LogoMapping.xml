@@ -2637,6 +2637,12 @@
       <File>TV Puchov.png</File>
     </Channel>
     <Channel>
+      <Item Name="TV Raj HD">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>TV Raj.png</File>
+    </Channel>
+    <Channel>
       <Item Name="TV Ruzinov">
         <Provider>Full Name (CZ)</Provider>
       </Item>
