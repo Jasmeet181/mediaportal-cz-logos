@@ -871,6 +871,12 @@
       <File>English Club TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Epic Drama">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Epic Drama.png</File>
+    </Channel>
+    <Channel>
       <Item Name="EroX HD">
         <Provider>Full Name (CZ)</Provider>
       </Item>
