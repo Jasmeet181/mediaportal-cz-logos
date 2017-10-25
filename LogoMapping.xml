@@ -109,6 +109,7 @@
     <Channel>
       <Item Name="ATV">
         <Provider>Full Name (CZ)</Provider>
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>ATV.png</File>
     </Channel>
@@ -1033,6 +1034,7 @@
     <Channel>
       <Item Name="FilmBox Plus">
         <Provider>Full Name (CZ)</Provider>
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>FilmBox Plus.png</File>
     </Channel>
@@ -1317,6 +1319,9 @@
       <File>Jednotka.png</File>
     </Channel>
     <Channel>
+      <Item Name="Jihoceska Televize">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
       <Item Name="Jihoceska TV">
         <Provider>Full Name (CZ)</Provider>
       </Item>
@@ -1697,6 +1702,9 @@
       <Item Name="Nick Jr">
         <Provider>Full Name (CZ)</Provider>
       </Item>
+      <Item Name="Nick Jr.">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
       <File>Nick Jr.png</File>
     </Channel>
     <Channel>
@@ -1870,10 +1878,14 @@
     <Channel>
       <Item Name="ORF 2">
         <Provider>Full Name (CZ)</Provider>
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>ORF 2.png</File>
     </Channel>
     <Channel>
+      <Item Name="ORF 1">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
       <Item Name="ORF Eins">
         <Provider>Full Name (CZ)</Provider>
       </Item>
@@ -2385,6 +2397,15 @@
       <File>TCM.png</File>
     </Channel>
     <Channel>
+      <Item Name="Televize TVS">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <Item Name="TVS">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
+      <File>Televize TVS.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Televize Zak">
         <Provider>Full Name (CZ)</Provider>
         <Provider>UPC (CZ)</Provider>
@@ -2495,6 +2516,9 @@
     <Channel>
       <Item Name="Tuty">
         <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <Item Name="Tuty TV">
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Tuty.png</File>
     </Channel>
@@ -2659,12 +2683,6 @@
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <File>TV Severka.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="TV Slovacko">
-        <Provider>Full Name (CZ)</Provider>
-      </Item>
-      <File>TV Slovacko.png</File>
     </Channel>
     <Channel>
       <Item Name="TV Sonce">
@@ -2850,6 +2868,9 @@
       <File>Vivid TV Europe.png</File>
     </Channel>
     <Channel>
+      <Item Name="Vremja">
+        <Provider>UPC (CZ)</Provider>
+      </Item>
       <Item Name="Vremya">
         <Provider>Full Name (CZ)</Provider>
         <Provider>UPC (CZ)</Provider>
@@ -2890,6 +2911,9 @@
       <Item Name="WAR Svet Valek">
         <Provider>Full Name (CZ)</Provider>
         <Provider>Terrestrial (CZ)</Provider>
+      </Item>
+      <Item Name="WAR - Svet Valek">
+        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>WAR Svet Valek.png</File>
     </Channel>
