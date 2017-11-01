@@ -891,10 +891,10 @@
       <File>EroXXX HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Esports TV">
+      <Item Name="EsportsTV">
         <Provider>Full Name (CZ)</Provider>
       </Item>
-      <File>Esports TV.png</File>
+      <File>EsportsTV.png</File>
     </Channel>
     <Channel>
       <Item Name="Euronews">
@@ -1547,6 +1547,12 @@
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <File>Mestska Televizia Trnava.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Mezzo Live HD">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Mezzo Live HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Mezzo">
@@ -2673,6 +2679,12 @@
       <File>TV Raj.png</File>
     </Channel>
     <Channel>
+      <Item Name="TV Rimava">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>TV Rimava.png</File>
+    </Channel>
+    <Channel>
       <Item Name="TV Ruzinov">
         <Provider>Full Name (CZ)</Provider>
       </Item>
@@ -2701,6 +2713,12 @@
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <File>TV Vega.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV Zemplin">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>TV Zemplin.png</File>
     </Channel>
     <Channel>
       <Item Name="TV2">
@@ -2928,6 +2946,12 @@
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <File>Wau TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Welt">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Welt.png</File>
     </Channel>
     <Channel>
       <Item Name="XMO">
