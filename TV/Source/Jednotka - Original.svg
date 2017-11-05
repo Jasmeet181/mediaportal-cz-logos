@@ -1,1 +1,26 @@
-<svg height="12.053333" viewBox="0 0 3.4014831 3.1890947" width="12.855999" xmlns="http://www.w3.org/2000/svg"><path d="m0 3.1888416h3.401483v-3.18911097h-3.401483z" fill="#e3004f"/><g fill="#fff"><path d="m0 0-1.613-.869.256-.646c.049-.157.196-.272.37-.272.06 0 .116.014.167.039l.373.152v-3.845h.902c.214 0 .387.173.387.387v5.054z" transform="matrix(.35277777 0 0 -.35277777 2.214033 .634554)"/><path d="m0 0c-.405 0-.734-.332-.734-.741 0-.408.329-.741.734-.741s.734.333.734.741c0 .409-.329.741-.734.741" transform="matrix(.35277777 0 0 -.35277777 1.14935 .990683)"/><path d="m0 0c-.405 0-.734-.332-.734-.741 0-.408.329-.741.734-.741s.734.333.734.741c0 .409-.329.741-.734.741" transform="matrix(.35277777 0 0 -.35277777 1.14935 1.781646)"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg20" width="12.856" height="12.053" version="1.1" viewBox="0 0 3.4015 3.1891" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata26">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path id="path17882" d="m0 3.1888h3.4015v-3.1891h-3.4015z" fill="#e3004f"/>
+ <g id="g4532" transform="translate(.13282 -.00010272)">
+  <g id="g4523">
+   <g id="g17892" transform="matrix(.35278 0 0 -.35278 2.0812 .63466)">
+    <path id="path17894" d="m0 0-1.613-0.869 0.256-0.646c0.049-0.157 0.196-0.272 0.37-0.272 0.06 0 0.116 0.014 0.167 0.039l0.373 0.152v-3.845h0.902c0.214 0 0.387 0.173 0.387 0.387v5.054z" fill="#fff"/>
+   </g>
+   <g id="g17896" transform="matrix(.35278 0 0 -.35278 1.0165 .99079)">
+    <path id="path17898" d="m0 0c-0.405 0-0.734-0.332-0.734-0.741 0-0.408 0.329-0.741 0.734-0.741s0.734 0.333 0.734 0.741c0 0.409-0.329 0.741-0.734 0.741" fill="#fff"/>
+   </g>
+   <g id="g17900" transform="matrix(.35278 0 0 -.35278 1.0165 1.7817)">
+    <path id="path17902" d="m0 0c-0.405 0-0.734-0.332-0.734-0.741 0-0.408 0.329-0.741 0.734-0.741s0.734 0.333 0.734 0.741c0 0.409-0.329 0.741-0.734 0.741" fill="#fff"/>
+   </g>
+  </g>
+ </g>
+</svg>

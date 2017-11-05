@@ -1,1 +1,65 @@
-<svg height="97.23246" viewBox="0 0 293.37668 91.155431" width="312.93512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="a" gradientUnits="userSpaceOnUse" x1="7.99329" x2="206.9832" y1="52.98749" y2="52.98749"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#f6f6f4"/></linearGradient><g transform="translate(-8.839782 -6.648089)"><path d="m211.81287 7.3426953v89.9035777h89.90358v-89.9035777z" fill="#2fa5b1" fill-rule="evenodd" stroke="#2fa5b1"/><path d="m206.4832 6.6480893v91.1554337h-197.6434176v-91.1554337z" fill="url(#a)" fill-rule="evenodd"/><g><g fill-rule="evenodd"><path d="m233.53115 45.475955h17.42513v-17.930211h12.62691v17.930211h18.18274v12.879452h-18.18274v17.9302h-12.62691v-17.9302h-17.42513z" fill="#fff"/><path d="m21.389217 27.538884v48.500003h17.4375v-17.1875h9.59375l9.59375 17.1875h18.9375c-.37882-1.11537-.80742-2.229-1.3125-3.28125-8.6509-14.21062-9.53773-18.31564-12.75-18.46875v-.71875c14.38292-2.76097 11.44082-23.214823-3.09375-26.031253zm62.375 0v12.125001h15.90625v36.375002h16.687503v-36.375002h15.15625v-12.125001zm58.843753 0v48.500003h43.1875v-14.65625h-26v-33.843753z" fill="#183f46"/><path d="m38.066627 47.437155c3.03046-.06312 8.65212.06179 12.12587 0 3.47374-.06179 4.79957-.8194 5.04673-3.9815-.08356-3.03504-1.47626-4.82004-5.04673-4.76675-3.67609.05487-8.09972-.03763-12.12587 0z" fill="#fefefe"/></g><text x="252.03307" y="443.49274"><tspan x="252.03307" y="478.88336"/></text></g><path d="m233.35219 45.081885h17.42513v-17.930211h12.62691v17.930211h18.18274v12.879452h-18.18274v17.9302h-12.62691v-17.9302h-17.42513z" fill="#fff" fill-rule="evenodd"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" width="312.94" height="97.232" version="1.0" viewBox="0 0 293.38 91.155" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs4">
+  <linearGradient id="linearGradient3267" x1="217.69" x2="416.68" y1="503.98" y2="503.98" gradientTransform="translate(-209.7 -450.99)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3254" stop-color="#fff" offset="0"/>
+   <stop id="stop3256" stop-color="#f6f6f4" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+    <dc:date/>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title/>
+     </cc:Agent>
+    </dc:creator>
+    <dc:rights>
+     <cc:Agent>
+      <dc:title/>
+     </cc:Agent>
+    </dc:rights>
+    <dc:publisher>
+     <cc:Agent>
+      <dc:title/>
+     </cc:Agent>
+    </dc:publisher>
+    <dc:identifier/>
+    <dc:source/>
+    <dc:relation/>
+    <dc:language/>
+    <dc:subject>
+     <rdf:Bag/>
+    </dc:subject>
+    <dc:coverage/>
+    <dc:description/>
+    <dc:contributor>
+     <cc:Agent>
+      <dc:title/>
+     </cc:Agent>
+    </dc:contributor>
+    <cc:license rdf:resource=""/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer2" transform="translate(-8.8398 -6.6481)">
+  <path id="path3186" d="m211.81 7.3427v89.904h89.904v-89.904z" fill="#2fa5b1" fill-rule="evenodd" stroke="#2fa5b1" stroke-width="1px"/>
+ </g>
+ <g id="layer3" transform="translate(-8.8398 -6.6481)">
+  <path id="path3265" d="m206.48 6.6481v91.155h-197.64v-91.155z" fill="url(#linearGradient3267)" fill-rule="evenodd"/>
+ </g>
+ <g id="layer1" transform="translate(-8.8398 -6.6481)">
+  <path id="path2409" d="m233.53 45.476h17.425v-17.93h12.627v17.93h18.183v12.879h-18.183v17.93h-12.627v-17.93h-17.425z" fill="#fff" fill-rule="evenodd"/>
+  <path id="path3192" d="m21.389 27.539v48.5h17.438v-17.188h9.5938l9.5938 17.188h18.938c-0.37882-1.1154-0.80742-2.229-1.3125-3.2812-8.6509-14.211-9.5377-18.316-12.75-18.469v-0.71875c14.383-2.761 11.441-23.215-3.0938-26.031zm62.375 0v12.125h15.906v36.375h16.688v-36.375h15.156v-12.125zm58.844 0v48.5h43.188v-14.656h-26v-33.844z" fill="#183f46" fill-rule="evenodd"/>
+  <path id="path3194" d="m38.067 47.437c3.0305-0.06312 8.6521 0.06179 12.126 0 3.4737-0.06179 4.7996-0.8194 5.0467-3.9815-0.08356-3.035-1.4763-4.82-5.0467-4.7668-3.6761 0.05487-8.0997-0.03763-12.126 0z" fill="#fefefe" fill-rule="evenodd"/>
+  <text id="text3196" x="252.03307" y="443.49274" fill="#000000" font-family="'Bitstream Vera Sans'" font-size="40px" stroke-width="1px" xml:space="preserve"><tspan id="tspan3198" x="252.03307" y="478.88336"/></text>
+ </g>
+ <g id="layer4" transform="translate(-8.8398 -6.6481)">
+  <path id="path3270" d="m233.35 45.082h17.425v-17.93h12.627v17.93h18.183v12.879h-18.183v17.93h-12.627v-17.93h-17.425z" fill="#fff" fill-rule="evenodd"/>
+ </g>
+</svg>
