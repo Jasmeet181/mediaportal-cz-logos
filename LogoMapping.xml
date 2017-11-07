@@ -264,6 +264,12 @@
       <File>Canal 24 Horas.png</File>
     </Channel>
     <Channel>
+      <Item Name="Cartoon Network HD">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Cartoon Network HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Cartoon Network">
         <Provider>Full Name (CZ)</Provider>
       </Item>
@@ -895,6 +901,12 @@
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <File>EsportsTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Euronews HD">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Euronews HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Euronews">
