@@ -1441,6 +1441,7 @@
     <Channel>
       <Item Name="Kutil TV">
         <Provider>Full Name (CZ)</Provider>
+        <Provider>Terrestrial (CZ)</Provider>
       </Item>
       <File>Kutil TV.png</File>
     </Channel>
@@ -1705,10 +1706,10 @@
       <File>National Geographic.png</File>
     </Channel>
     <Channel>
-      <Item Name="Nautical Channel">
+      <Item Name="Nautical Channel HD">
         <Provider>Full Name (CZ)</Provider>
       </Item>
-      <File>Nautical Channel.png</File>
+      <File>Nautical Channel HD.png</File>
     </Channel>
     <Channel>
       <Item Name="NetViet">
@@ -2104,8 +2105,6 @@
     <Channel>
       <Item Name="Rebel 2 Slusnej Kanal">
         <Provider>Full Name (CZ)</Provider>
-      </Item>
-      <Item Name="Slusnej Kanal">
         <Provider>Terrestrial (CZ)</Provider>
         <Provider>UPC (CZ)</Provider>
       </Item>
