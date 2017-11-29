@@ -2263,6 +2263,7 @@
     <Channel>
       <Item Name="Slagr 2">
         <Provider>Full Name (CZ)</Provider>
+        <Provider>Terrestrial (CZ)</Provider>
       </Item>
       <File>Slagr 2.png</File>
     </Channel>
