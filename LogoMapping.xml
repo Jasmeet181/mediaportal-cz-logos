@@ -1074,6 +1074,12 @@
       <File>FilmPlus CZ.png</File>
     </Channel>
     <Channel>
+      <Item Name="FilmPlus HD CZ">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>FilmPlus HD CZ.png</File>
+    </Channel>
+    <Channel>
       <Item Name="FilmPlus HU">
         <Provider>Full Name (CZ)</Provider>
       </Item>
@@ -2243,6 +2249,12 @@
       <File>Sat1.png</File>
     </Channel>
     <Channel>
+      <Item Name="Seznam.cz">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Seznam.cz.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Shorts TV HD">
         <Provider>Full Name (CZ)</Provider>
       </Item>
@@ -2582,6 +2594,12 @@
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <File>TV Bratislava.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV Bruno 1">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>TV Bruno 1.png</File>
     </Channel>
     <Channel>
       <Item Name="TV Dakr">
