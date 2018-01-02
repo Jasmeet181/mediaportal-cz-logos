@@ -102,7 +102,6 @@
     <Channel>
       <Item Name="Arte HD">
         <Provider>Full Name (CZ)</Provider>
-        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Arte HD.png</File>
     </Channel>
@@ -274,13 +273,6 @@
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <File>Cartoon Network.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="CBS Drama">
-        <Provider>Full Name (CZ)</Provider>
-        <Provider>UPC (CZ)</Provider>
-      </Item>
-      <File>CBS Drama.png</File>
     </Channel>
     <Channel>
       <Item Name="CBS Reality">
@@ -911,7 +903,6 @@
     <Channel>
       <Item Name="Euronews">
         <Provider>Full Name (CZ)</Provider>
-        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Euronews.png</File>
     </Channel>
@@ -993,6 +984,12 @@
       <File>Fast and FunBox.png</File>
     </Channel>
     <Channel>
+      <Item Name="Fast and FunBox HD">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Fast and FunBox HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Fem3">
         <Provider>Full Name (CZ)</Provider>
       </Item>
@@ -1066,21 +1063,18 @@
     </Channel>
     <Channel>
       <Item Name="Film+">
-        <Provider>UPC (CZ)</Provider>
-      </Item>
-      <Item Name="FilmPlus CZ">
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <File>FilmPlus CZ.png</File>
     </Channel>
     <Channel>
-      <Item Name="FilmPlus HD CZ">
+      <Item Name="Film+ HD">
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <File>FilmPlus HD CZ.png</File>
     </Channel>
     <Channel>
-      <Item Name="FilmPlus HU">
+      <Item Name="Film+ HU">
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <File>FilmPlus HU.png</File>
@@ -1309,13 +1303,10 @@
       <File>Insight UHD.png</File>
     </Channel>
     <Channel>
-      <Item Name="ID Extra HD">
-        <Provider>UPC (CZ)</Provider>
-      </Item>
-      <Item Name="Investigation Discovery Xtra HD">
+      <Item Name="Investigation Discovery HD">
         <Provider>Full Name (CZ)</Provider>
       </Item>
-      <File>Investigation Discovery Xtra HD.png</File>
+      <File>Investigation Discovery HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Investigation Discovery">
@@ -1735,7 +1726,6 @@
     <Channel>
       <Item Name="Nickelodeon HD">
         <Provider>Full Name (CZ)</Provider>
-        <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Nickelodeon HD.png</File>
     </Channel>
@@ -2832,12 +2822,6 @@
       <File>UATV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Universal Channel">
-        <Provider>Full Name (CZ)</Provider>
-      </Item>
-      <File>Universal Channel.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Up Network">
         <Provider>Full Name (CZ)</Provider>
       </Item>
@@ -3589,7 +3573,13 @@
       <Item Name="Radio Junior">
         <Provider>Full Name (CZ)</Provider>
       </Item>
-      <File>Radio Junior.png</File>
+      <File>Radio Junior CZ.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Radio Junior SK">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Radio Junior SK.png</File>
     </Channel>
     <Channel>
       <Item Name="Radio Kiss Hady">
@@ -3622,6 +3612,24 @@
       <File>Radio Krokodyl.png</File>
     </Channel>
     <Channel>
+      <Item Name="Radio Litera">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Radio Litera.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Radio Lumen">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Radio Lumen.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Radio Patria">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Radio Patria.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Radio Petrov">
         <Provider>Full Name (CZ)</Provider>
         <Provider>UPC (CZ)</Provider>
@@ -3637,6 +3645,18 @@
         <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Radio Proglas.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Radio Pyramida">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Radio Pyramida.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Radio Regina">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Radio Regina.png</File>
     </Channel>
     <Channel>
       <Item Name="Radio Slovakia International">
