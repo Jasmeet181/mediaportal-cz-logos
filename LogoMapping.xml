@@ -1093,6 +1093,12 @@
       <File>Fine Living.png</File>
     </Channel>
     <Channel>
+      <Item Name="Fit HD">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Fit HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Food Network HD">
         <Provider>Full Name (CZ)</Provider>
         <Provider>UPC (CZ)</Provider>
@@ -2421,6 +2427,12 @@
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <File>TCM.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Televize Filmpro">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Televize Filmpro.png</File>
     </Channel>
     <Channel>
       <Item Name="Televize TVS">
