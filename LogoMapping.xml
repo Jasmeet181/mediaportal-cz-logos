@@ -876,6 +876,12 @@
       <File>Epic Drama.png</File>
     </Channel>
     <Channel>
+      <Item Name="Epic Drama HD">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Epic Drama HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="EroX HD">
         <Provider>Full Name (CZ)</Provider>
       </Item>
@@ -893,6 +899,12 @@
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <File>EsportsTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="EsportsTV HD">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>EsportsTV HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Euronews HD">
