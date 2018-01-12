@@ -564,10 +564,10 @@
       <File>CT2.png</File>
     </Channel>
     <Channel>
-      <Item Name="Da Vinci Learning">
+      <Item Name="Da Vinci">
         <Provider>Full Name (CZ)</Provider>
       </Item>
-      <File>Da Vinci Learning.png</File>
+      <File>Da Vinci.png</File>
     </Channel>
     <Channel>
       <Item Name="Dajto HD">
@@ -2257,12 +2257,6 @@
       <File>Sat1.png</File>
     </Channel>
     <Channel>
-      <Item Name="Seznam.cz">
-        <Provider>Full Name (CZ)</Provider>
-      </Item>
-      <File>Seznam.cz.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Shorts TV HD">
         <Provider>Full Name (CZ)</Provider>
       </Item>
@@ -2273,6 +2267,12 @@
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <File>Sky News.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Skylink Ochutnavka">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Skylink Ochutnavka.png</File>
     </Channel>
     <Channel>
       <Item Name="Slager TV">
@@ -2445,6 +2445,12 @@
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <File>Televize Filmpro.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Televize Seznam">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Televize Seznam.png</File>
     </Channel>
     <Channel>
       <Item Name="Televize TVS">
