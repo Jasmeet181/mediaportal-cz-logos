@@ -1684,12 +1684,6 @@
       <File>My Zen TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="N24">
-        <Provider>Full Name (CZ)</Provider>
-      </Item>
-      <File>N24.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Nat Geo Wild HD">
         <Provider>Full Name (CZ)</Provider>
         <Provider>UPC (CZ)</Provider>
@@ -2505,6 +2499,12 @@
       <File>Televizia Lux.png</File>
     </Channel>
     <Channel>
+      <Item Name="Televizia Senior">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Televizia Senior.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Fishing and Hunting">
         <Provider>UPC (CZ)</Provider>
       </Item>
@@ -2769,12 +2769,6 @@
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <File>TV Vega.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="TV Zemplin">
-        <Provider>Full Name (CZ)</Provider>
-      </Item>
-      <File>TV Zemplin.png</File>
     </Channel>
     <Channel>
       <Item Name="TV2">
