@@ -947,6 +947,24 @@
       <File>Eurosport 2.png</File>
     </Channel>
     <Channel>
+      <Item Name="Eurosport 3 HD">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Eurosport 3 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Eurosport 4 HD">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Eurosport 4 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Eurosport 5 HD">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Eurosport 5 HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Extasy / Leo TV">
         <Provider>UPC (CZ)</Provider>
       </Item>
