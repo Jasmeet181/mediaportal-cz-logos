@@ -2009,6 +2009,18 @@
       <File>Prima HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Prima Krimi HD">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Prima Krimi HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Prima Krimi">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Prima Krimi.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Prima Love HD">
         <Provider>Full Name (CZ)</Provider>
         <Provider>UPC (CZ)</Provider>
