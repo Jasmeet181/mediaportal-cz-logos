@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg20" width="600" height="112.5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <metadata id="metadata4">
+<svg id="svg16" width="800" height="149.96" version="1.1" viewBox="0 0 211.67 39.678" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata22">
   <rdf:RDF>
    <cc:Work rdf:about="">
     <dc:format>image/svg+xml</dc:format>
@@ -10,14 +9,12 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <g id="g4512" fill-rule="evenodd">
-  <path id="path8" d="m112.5 112.49h-112.49v-112.49h112.49z"/>
-  <path id="path10" d="m234.38 112.49h-112.49v-112.49h112.49z"/>
-  <path id="path12" d="m356.25 112.49h-112.49v-112.49h112.49z"/>
+ <g id="g14" transform="matrix(1.0583 0 0 1.0583 115.57 -53.256)">
+  <path id="path2" d="m53.286 50.322v37.491h37.519v-37.491h-37.519" fill="#ff6100"/>
+  <path id="path4" d="m-109.2 50.322v37.491h37.491v-37.491h-37.491"/>
+  <path id="path6" d="m-68.547 87.814h37.463v-37.491h-37.463z"/>
+  <path id="path8" d="m-27.955 50.322v37.491h37.519v-37.491h-37.519"/>
+  <path id="path10" d="m12.665 87.814h37.519v-37.491h-37.519z" fill="#ff6100"/>
+  <path id="path12" d="m-89.444 67.811h-4.4977v-4.9727h4.889c1.8712 0 2.3746 1.5083 2.3746 2.4585 0 1.4536-0.72577 2.5142-2.7658 2.5142m10.504-2.9892c0-5.8946-5.0567-8.7721-7.7386-8.7721h-15.002v25.283h7.7386v-7.2636h2.5142l4.7493 7.2636h8.7163l-5.7271-8.7441s4.7493-1.8428 4.7493-7.7666m67.998 9.7501v-18.522h-7.7664v25.283h19.779v-6.7606zm-50.007-11.734h7.2636v18.494h7.7386v-18.494h7.2636v-6.7886h-22.266v6.7886" fill="#fff"/>
  </g>
- <g id="g4507" fill="#e94e0f" fill-rule="evenodd">
-  <path id="path6" d="m600 112.49h-112.49v-112.49h112.49z"/>
-  <path id="path14" d="m478.12 112.5h-112.49v-112.49h112.49z"/>
- </g>
- <path id="path16" d="m59.276 52.503h-13.486v-14.989h14.676c5.5817 0 7.065 4.5474 7.065 7.4553 0 4.3132-2.1859 7.5334-8.2555 7.5334m31.519-8.9971c0-17.702-15.242-26.25-23.264-26.25h-44.986v75.744h23.244v-21.741h7.4944l14.247 21.741h26.25l-17.233-26.25s14.247-5.5427 14.247-23.244m203.99 29.255v-55.505h-23.283v75.783h23.283v-0.039h35.989v-20.239zm-150-35.266 21.761 0.0195v55.525h23.244v-55.525h21.741v-20.258h-66.747v20.239z" fill="#fff"/>
 </svg>
