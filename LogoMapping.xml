@@ -1886,12 +1886,6 @@
       <File>Nova.png</File>
     </Channel>
     <Channel>
-      <Item Name="O2 TV Free">
-        <Provider>Full Name (CZ)</Provider>
-      </Item>
-      <File>O2 TV Free.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Ocko Expres HD">
         <Provider>UPC (CZ)</Provider>
       </Item>
