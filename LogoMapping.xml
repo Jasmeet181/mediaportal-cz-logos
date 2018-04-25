@@ -217,10 +217,10 @@
       <File>Blackbelt TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Bloomberg">
+      <Item Name="Bloomberg Television">
         <Provider>Full Name (CZ)</Provider>
       </Item>
-      <File>Bloomberg.png</File>
+      <File>Bloomberg Television.png</File>
     </Channel>
     <Channel>
       <Item Name="Boomerang">
@@ -2206,6 +2206,12 @@
       <File>Rik.png</File>
     </Channel>
     <Channel>
+      <Item Name="RT Documentary HD">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>RT Documentary HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="RT HD">
         <Provider>Full Name (CZ)</Provider>
       </Item>
@@ -2990,6 +2996,9 @@
       </Item>
       <Item Name="V 1">
         <Provider>UPC (CZ)</Provider>
+      </Item>
+      <Item Name="V1 HD">
+        <Provider>Terrestrial (CZ)</Provider>
       </Item>
       <File>Vychodoceska Televize.png</File>
     </Channel>

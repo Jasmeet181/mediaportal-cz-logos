@@ -1,3 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg2" width="566.2" height="196.35" fill-rule="evenodd" version="1.0" viewBox="0 0 159.8 208.75" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><metadata id="metadata15"><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:title/></cc:Work></rdf:RDF></metadata><defs id="defs4"><style id="style6" type="text/css"/></defs><path id="_74801320-0" d="m-211.04 19.907h429.92v179.53h-429.92z" fill="#fff" fill-rule="evenodd" stroke-width="3.7666"/><path id="_74801320" d="m-64.385 19.907h136.61v179.53h-136.61zm146.66 0h136.61l-5.1e-4 179.53h-136.61zm29.587 29.587v122.18h24.656v-37.258l5.2967 0.18268c33.422 0 49.859-21.551 49.859-43.102 0-21.003-15.889-42.006-47.485-42.006zm24.656 23.743h8.9492c14.063 0.18268 21.186 4.9309 22.099 18.994-0.73035 14.611-9.1319 19.177-23.377 19.542h-7.6708zm-132.59 102.28-56.617-127.48h27.396l28.309 64.47 0.91304 3.8356 0.91304-3.8356 28.126-64.47h27.578zm-99.354-102.28v-23.743h-94.788v23.743h34.336v98.441h26.299v-98.441zm-115.61-53.33h136.61v179.53h-136.61zm-10.045-8.7665h450.02v197.06h-450.02z" fill="#0099cb" stroke-width="3.7666"/><polygon id="_74801176" transform="matrix(3.7666 0 0 3.7666 -303.64 -448.12)" points="181.73 174.39 181.73 118.97 159.18 130.7 159.18 144.91 169.08 138.8 168.41 174.38" fill="#0099cb"/></svg>
+<svg id="svg868" width="149.8mm" height="51.948mm" version="1.1" viewBox="0 0 149.8 51.948" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata865">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(94.886 -121.15)">
+  <path id="_74801320" d="m-94.886 123.93h111.99v49.04h-111.99z" fill="#0099cb" stroke-width=".93736"/>
+  <polygon id="_74801176" transform="matrix(.93736 0 0 .93736 -115.43 9.6361)" points="169.08 138.8 168.41 174.38 181.73 174.39 181.73 118.97 159.18 130.7 159.18 144.91" fill="#0099cb"/>
+  <path id="_74801320-7" d="m-55.89 126.11h33.997v44.678h-33.997zm36.498 0h33.997v44.678h-33.997zm-72.993 0h33.997v44.678h-33.997z" fill="#fff" stroke-width=".93736"/>
+  <path id="_74801320-4" d="m-12.03 133.47v30.406h6.1359v-9.272l1.3181 0.0455c8.3174 0 12.408-5.3632 12.408-10.726 0-5.2268-3.9541-10.454-11.817-10.454zm6.1359 5.9087h2.2271c3.4997 0.0455 5.2723 1.2271 5.4996 4.7268-0.18175 3.6361-2.2726 4.7724-5.8176 4.8632h-1.909zm-32.996 25.453-14.09-31.725h6.8178l7.045 16.044 0.22722 0.95453 0.22722-0.95453 6.9994-16.044h6.8631zm-24.725-25.453v-5.9087h-23.589v5.9087h8.5448v24.498h6.5448v-24.498z" fill="#0099cb" stroke-width=".93736"/>
+ </g>
+</svg>
