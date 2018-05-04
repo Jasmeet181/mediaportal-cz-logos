@@ -2426,12 +2426,6 @@
       <File>Story4.png</File>
     </Channel>
     <Channel>
-      <Item Name="Story5">
-        <Provider>Full Name (CZ)</Provider>
-      </Item>
-      <File>Story5.png</File>
-    </Channel>
-    <Channel>
       <Item Name="SundanceTV HD">
         <Provider>Full Name (CZ)</Provider>
       </Item>
@@ -2805,6 +2799,12 @@
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <File>TV2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV4">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>TV4.png</File>
     </Channel>
     <Channel>
       <Item Name="TV5Monde Europe">
