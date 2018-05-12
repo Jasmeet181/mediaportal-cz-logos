@@ -364,12 +364,6 @@
       <File>CKTV Ceskokrumlovska Televize.png</File>
     </Channel>
     <Channel>
-      <Item Name="Classica">
-        <Provider>Full Name (CZ)</Provider>
-      </Item>
-      <File>Classica.png</File>
-    </Channel>
-    <Channel>
       <Item Name="CNBC Europe">
         <Provider>UPC (CZ)</Provider>
       </Item>
@@ -2406,6 +2400,12 @@
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <File>Stingray Brava.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Stingray Classica">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Stingray Classica.png</File>
     </Channel>
     <Channel>
       <Item Name="Stingray Djazz">
