@@ -981,6 +981,12 @@
       <File>Extreme Sports.png</File>
     </Channel>
     <Channel>
+      <Item Name="Fashion Television">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Fashion Television.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Fashion TV Czech and Slovak HD">
         <Provider>Full Name (CZ)</Provider>
       </Item>
@@ -1121,6 +1127,12 @@
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <File>Fit HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Folklorika">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Folklorika.png</File>
     </Channel>
     <Channel>
       <Item Name="Food Network HD">
