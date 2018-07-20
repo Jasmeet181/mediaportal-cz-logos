@@ -1485,6 +1485,12 @@
       <File>Kutil TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Leo TV Gold">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Leo TV Gold.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Leo TV">
         <Provider>Full Name (CZ)</Provider>
       </Item>
@@ -1921,6 +1927,12 @@
       <File>Oik TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Orange Sport">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Orange Sport.png</File>
+    </Channel>
+    <Channel>
       <Item Name="ORF 2">
         <Provider>Full Name (CZ)</Provider>
         <Provider>UPC (CZ)</Provider>
@@ -1971,6 +1983,12 @@
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <File>Polar.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Power TV HD">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Power TV HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Praha TV">
