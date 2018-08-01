@@ -1985,10 +1985,10 @@
       <File>Polar.png</File>
     </Channel>
     <Channel>
-      <Item Name="Power TV HD">
+      <Item Name="Power TV">
         <Provider>Full Name (CZ)</Provider>
       </Item>
-      <File>Power TV HD.png</File>
+      <File>Power TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Praha TV">
