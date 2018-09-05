@@ -1333,6 +1333,12 @@
       <File>IN TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Info TV Brno a Jižní Morava">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Info TV Brno a Jizni Morava.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Insight HD">
         <Provider>Full Name (CZ)</Provider>
       </Item>
