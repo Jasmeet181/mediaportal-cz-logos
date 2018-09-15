@@ -1961,6 +1961,12 @@
       <File>Outdoor Channel.png</File>
     </Channel>
     <Channel>
+      <Item Name="Outdoor Channel HD">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Outdoor Channel HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="OzoneTV">
         <Provider>Full Name (CZ)</Provider>
       </Item>
@@ -2610,6 +2616,12 @@
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <File>Travel Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Travelxp 4K">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Travelxp 4K.png</File>
     </Channel>
     <Channel>
       <Item Name="Travelxp HD">
