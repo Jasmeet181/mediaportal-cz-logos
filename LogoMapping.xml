@@ -382,10 +382,22 @@
       <File>CNN International.png</File>
     </Channel>
     <Channel>
+      <Item Name="Comedy Central">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Comedy Central.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Comedy Central Extra">
         <Provider>Full Name (CZ)</Provider>
       </Item>
       <File>Comedy Central Extra.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Comedy Central Family">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Comedy Central Family.png</File>
     </Channel>
     <Channel>
       <Item Name="Cool">
@@ -1645,6 +1657,12 @@
         <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Mnau TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Mooz Dance">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>Mooz Dance.png</File>
     </Channel>
     <Channel>
       <Item Name="Mooz Dance HD">
