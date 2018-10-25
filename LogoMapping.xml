@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
   <!-- ******************************************************************** -->
   <TV>
@@ -194,6 +194,12 @@
         <Provider>UPC (CZ)</Provider>
       </Item>
       <File>Barrandov Plus.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC Earth">
+        <Provider>Full Name (CZ)</Provider>
+      </Item>
+      <File>BBC Earth.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC World News HD">
