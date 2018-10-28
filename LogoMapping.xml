@@ -2293,6 +2293,12 @@
 			<File>RTG TV.png</File>
 		<Channel>
 		<Channel>
+			<Item Name="RTL Gold">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>RTL Gold.png</File>
+		<Channel>
+		<Channel>
 			<Item Name="RTL Klub">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
