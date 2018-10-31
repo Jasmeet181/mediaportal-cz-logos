@@ -168,17 +168,16 @@
 			<File>AXN.png</File>
 		<Channel>
 		<Channel>
-			<Item Name="Barrandov Family HD">
+			<Item Name="Barrandov News HD">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
-			<File>Barrandov Family HD.png</File>
+			<File>Barrandov News HD.png</File>
 		<Channel>
 		<Channel>
-			<Item Name="Barrandov Family">
+			<Item Name="Barrandov News">
 				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
 			</Item>
-			<File>Barrandov Family.png</File>
+			<File>Barrandov News.png</File>
 		<Channel>
 		<Channel>
 			<Item Name="Barrandov Plus HD">
@@ -2311,10 +2310,10 @@
 			<File>RTL.png</File>
 		<Channel>
 		<Channel>
-			<Item Name="RTL2 DE">
+			<Item Name="RTL 2 DE">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
-			<File>RTL2 DE.png</File>
+			<File>RTL 2 DE.png</File>
 		<Channel>
 		<Channel>
 			<Item Name="RTL2 HU">
