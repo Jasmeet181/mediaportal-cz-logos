@@ -247,21 +247,6 @@
 			<File>Brno TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="C Music TV HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<File>C Music TV HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="C Music TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="C Music">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<File>C Music TV.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Canal 24 Horas">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
@@ -2477,6 +2462,15 @@
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<File>Stingray Classica.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C Music">
+				<Provider>UPC (CZ)</Provider>
+			</Item>
+			<Item Name="Stingray CMusic">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Stingray CMusic.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Stingray Djazz">
