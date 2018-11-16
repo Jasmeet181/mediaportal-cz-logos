@@ -977,10 +977,12 @@
 		</Channel>
 		<Channel>
 			<Item Name="Extreme Sports">
-				<Provider>Full Name (CZ)</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
-			<File>Extreme Sports.png</File>
+			<Item Name="Extreme Sports Channel">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Extreme Sports Channel.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Fashion Television">
@@ -1181,6 +1183,13 @@
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<File>FunBox UHD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Galerie">
+				<Provider>Full Name (CZ)</Provider>
+				<Provider>Terrestrial (CZ)</Provider>
+			</Item>
+			<File>Galerie.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Ginx eSports TV">
