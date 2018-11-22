@@ -2175,10 +2175,10 @@
 			<File>Rai News24.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Reality Kings">
+			<Item Name="Reality Kings TV">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
-			<File>Reality Kings.png</File>
+			<File>Reality Kings TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Rebel">
