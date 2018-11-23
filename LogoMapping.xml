@@ -2573,18 +2573,6 @@
 			<File>Televizia Reduta.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Televizia Senzi HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<File>Televizia Senzi HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Televizia Senzi">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<File>Televizia Senzi.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Televizia Lux HD">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
@@ -2601,6 +2589,24 @@
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<File>Televizia Senior.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Televizia Senzi HD">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Televizia Senzi HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Televizia Senzi">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Televizia Senzi.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Televízia TV7">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Televizia TV7.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Fishing and Hunting">
