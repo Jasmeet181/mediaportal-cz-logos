@@ -216,6 +216,12 @@
 			<File>BBC World News.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Be2Can HD">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Be2Can HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Blackbelt TV">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
@@ -281,16 +287,16 @@
 			<File>CCTV-4.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Ceskoslovensko Festival Channel">
+			<Item Name="Ceskoslovensko HD Be2Can HD">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
-			<File>Ceskoslovensko Festival Channel.png</File>
+			<File>Ceskoslovensko HD Be2Can HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Ceskoslovensko">
+			<Item Name="Ceskoslovensko HD">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
-			<File>Ceskoslovensko.png</File>
+			<File>Ceskoslovensko HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Cesty Krajem TV">
@@ -1028,12 +1034,6 @@
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<File>Fem3.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Festival Channel">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<File>Festival Channel.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="FightBox HD">
