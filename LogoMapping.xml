@@ -21,6 +21,18 @@
 			<File>360 Tune Box.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Adventure HD">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Adventure HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Adventure TV">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Adventure TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="3sat">
 				<Provider>Full Name (CZ)</Provider>
 				<Provider>UPC (CZ)</Provider>
@@ -2018,6 +2030,12 @@
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<File>Power TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Power TV HD">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Power TV HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Praha TV">
