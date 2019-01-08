@@ -2162,6 +2162,12 @@
 			<File>Prima.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Prime">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Prime.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Private TV">
 				<Provider>Full Name (CZ)</Provider>
 				<Provider>UPC (CZ)</Provider>
