@@ -1304,6 +1304,12 @@
 			<File>History.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Hobby TV">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Hobby TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Horor Film">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
@@ -1505,13 +1511,6 @@
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<File>Kosice Dnes.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Kutil TV">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial (CZ)</Provider>
-			</Item>
-			<File>Kutil TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Leo TV Gold">
@@ -2000,6 +1999,12 @@
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<File>OzoneTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Park TV">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Park TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Penthouse HD 1">
