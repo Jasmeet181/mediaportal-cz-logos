@@ -1681,7 +1681,13 @@
 			<File>Mooz Dance HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Mozi Plus">
+			<Item Name="Mozi+ HD">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Mozi Plus HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Mozi+">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<File>Mozi Plus.png</File>
@@ -1932,13 +1938,41 @@
 			<File>Nova.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Ocko Black HD">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Ocko Black HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ocko Black">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Ocko Black.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Ocko Expres HD">
+				<Provider>Full Name (CZ)</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
+			<File>Ocko Expres HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Ocko Expres">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<File>Ocko Expres.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ocko HD">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Ocko HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ocko Star HD">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Ocko Star HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Ocko Star">
