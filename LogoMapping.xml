@@ -2415,6 +2415,13 @@
 			<File>Sky News.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Skylink 7">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Skylink 7.png</File>
+		</Channel>
+		<Channel>
+			<!-- Closes 07/02/2019 -->
 			<Item Name="Skylink Ochutnavka">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
