@@ -180,6 +180,18 @@
 			<File>AXN.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Barrandov Krimi HD">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Barrandov Krimi HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Barrandov Krimi">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Barrandov Krimi.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Barrandov News HD">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
@@ -190,21 +202,6 @@
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<File>Barrandov News.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Barrandov Plus HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<File>Barrandov Plus HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Barrandov Plus">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<File>Barrandov Plus.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="BBC Earth">
@@ -2415,17 +2412,16 @@
 			<File>Sky News.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Skylink 7 HD">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Skylink 7 HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Skylink 7">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<File>Skylink 7.png</File>
-		</Channel>
-		<Channel>
-			<!-- Closes 07/02/2019 -->
-			<Item Name="Skylink Ochutnavka">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<File>Skylink Ochutnavka.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Slager TV">
