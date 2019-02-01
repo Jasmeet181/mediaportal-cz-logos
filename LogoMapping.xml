@@ -1752,16 +1752,18 @@
 		</Channel>
 		<Channel>
 			<Item Name="Nat Geo Wild HD">
-				<Provider>Full Name (CZ)</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
-			<File>Nat Geo Wild HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Nat Geo Wild">
+			<Item Name="National Geographic Wild HD">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
-			<File>Nat Geo Wild.png</File>
+			<File>National Geographic Wild HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="National Geographic Wild">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>National Geographic Wild.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="National Geographic HD">
