@@ -2396,10 +2396,10 @@
 			<File>RTR Planeta.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sat1">
+			<Item Name="Sat.1">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
-			<File>Sat1.png</File>
+			<File>Sat.1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Shorts TV HD">
@@ -2527,12 +2527,6 @@
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>Sport5.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Stingray Brava">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<File>Stingray Brava.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Stingray Classica">
@@ -2746,15 +2740,6 @@
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<File>Tuki TV.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Tuty">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Tuty TV">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<File>Tuty.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TV Adamov">

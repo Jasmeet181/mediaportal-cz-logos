@@ -1,4 +1,4 @@
-# Czech TV and radio logos for MediaPortal 1
+# Czech and Slovak TV and radio logos for MediaPortal 1
 
 ## Introduction
 
