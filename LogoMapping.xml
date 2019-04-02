@@ -764,12 +764,6 @@
 			<File>Doma.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="DoQ">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<File>DoQ.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Dorcel TV HD">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
@@ -1510,6 +1504,12 @@
 			<File>Kosice Dnes.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Lala TV">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Lala TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Leo TV Gold">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
@@ -2040,16 +2040,22 @@
 			<File>Park TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Penthouse HD 1">
+			<Item Name="Penthouse Gold">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
-			<File>Penthouse HD 1.png</File>
+			<File>Penthouse Gold.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Penthouse HD 2">
+			<Item Name="Penthouse Passion">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
-			<File>Penthouse HD 2.png</File>
+			<File>Penthouse Passion.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Penthouse Quickies">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Penthouse Quickies.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Plzen TV">
