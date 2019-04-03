@@ -851,12 +851,6 @@
 			<File>Dvojka.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Echo TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<File>Echo TV.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Edge Sport HD">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
