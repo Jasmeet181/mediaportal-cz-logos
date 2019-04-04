@@ -387,6 +387,12 @@
 			<File>CNN International.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="CNN Prima">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>CNN Prima.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Comedy Central">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
@@ -2902,6 +2908,12 @@
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<File>TV Rimava.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV Romana">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>TV Romana.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TV Ruzinov">
