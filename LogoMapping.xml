@@ -3704,6 +3704,12 @@
 			<File>Radio Contact Liberec.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Radio Dalnice">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Radio Dalnice.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Radio Dechovka">
 				<Provider>Full Name (CZ)</Provider>
 				<Provider>Terrestrial (CZ)</Provider>
