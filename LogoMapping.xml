@@ -1078,6 +1078,12 @@
 			<File>FilmBox Family.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="FilmBox HD">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>FilmBox HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="FilmBox Plus">
 				<Provider>Full Name (CZ)</Provider>
 				<Provider>UPC (CZ)</Provider>
