@@ -1,24 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="svg20" width="6.1253" height="7.2547" version="1.1" viewBox="0 0 1.6207 1.9195" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <metadata id="metadata26">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="g4532" transform="translate(-.75759 -.63467)" fill="#e3004f">
-  <g id="g4523" fill="#e3004f">
-   <g id="g17892" transform="matrix(.35278 0 0 -.35278 2.0812 .63466)">
-    <path id="path17894" d="m0 0-1.613-0.869 0.256-0.646c0.049-0.157 0.196-0.272 0.37-0.272 0.06 0 0.116 0.014 0.167 0.039l0.373 0.152v-3.845h0.902c0.214 0 0.387 0.173 0.387 0.387v5.054z" fill="#e3004f"/>
+<svg id="a" width="6.1253" height="7.2547" version="1.1" viewBox="0 0 1.6207 1.9195" xmlns="http://www.w3.org/2000/svg">
+ <g id="b" transform="translate(-.75759 -.63467)" fill="#e3004f">
+  <g id="c" fill="#e3004f">
+   <g id="d" transform="matrix(.35278 0 0 -.35278 2.0812 .63466)">
+    <path id="e" d="m0 0-1.613-0.869 0.256-0.646c0.049-0.157 0.196-0.272 0.37-0.272 0.06 0 0.116 0.014 0.167 0.039l0.373 0.152v-3.845h0.902c0.214 0 0.387 0.173 0.387 0.387v5.054z" fill="#e3004f"/>
    </g>
-   <g id="g17896" transform="matrix(.35278 0 0 -.35278 1.0165 .99079)">
-    <path id="path17898" d="m0 0c-0.405 0-0.734-0.332-0.734-0.741 0-0.408 0.329-0.741 0.734-0.741s0.734 0.333 0.734 0.741c0 0.409-0.329 0.741-0.734 0.741" fill="#e3004f"/>
+   <g id="f" transform="matrix(.35278 0 0 -.35278 1.0165 .99079)">
+    <path id="g" d="m0 0c-0.405 0-0.734-0.332-0.734-0.741 0-0.408 0.329-0.741 0.734-0.741s0.734 0.333 0.734 0.741c0 0.409-0.329 0.741-0.734 0.741" fill="#e3004f"/>
    </g>
-   <g id="g17900" transform="matrix(.35278 0 0 -.35278 1.0165 1.7817)">
-    <path id="path17902" d="m0 0c-0.405 0-0.734-0.332-0.734-0.741 0-0.408 0.329-0.741 0.734-0.741s0.734 0.333 0.734 0.741c0 0.409-0.329 0.741-0.734 0.741" fill="#e3004f"/>
+   <g id="h" transform="matrix(.35278 0 0 -.35278 1.0165 1.7817)">
+    <path id="i" d="m0 0c-0.405 0-0.734-0.332-0.734-0.741 0-0.408 0.329-0.741 0.734-0.741s0.734 0.333 0.734 0.741c0 0.409-0.329 0.741-0.734 0.741" fill="#e3004f"/>
    </g>
   </g>
  </g>

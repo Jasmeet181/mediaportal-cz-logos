@@ -80,12 +80,6 @@
 			<File>Animal Planet.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="ARD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<File>ARD.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Arena Sport 1 HD">
 				<Provider>Full Name (CZ)</Provider>
 				<Provider>UPC (CZ)</Provider>

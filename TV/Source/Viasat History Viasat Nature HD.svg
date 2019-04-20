@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <svg width="600" height="407.1" version="1.1" viewBox="0 0 158.75 107.71" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="c" x2="1" gradientTransform="matrix(-51.372 88.979 -88.979 -51.372 -3.5292 197.56)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="a" x2="1" gradientTransform="matrix(-51.372 88.979 -88.979 -51.372 -3.5292 197.56)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#8ed6ed" offset="0"/>
    <stop stop-color="#5b9edb" offset=".18614"/>
    <stop stop-color="#2b58aa" offset=".64607"/>
@@ -41,7 +40,7 @@
    <path d="m1.119 307.02-4.6103-7.28h3.0846l2.8666 4.82 2.9093-4.82h3.004l-4.6103 7.22v4.79h-2.6439z"/>
   </g>
   <g stroke-width=".47382">
-   <path d="m-17.426 215.63v30.13h-23.584v-30.13l-25.787-11.2v75.25h25.787v-11.66h23.584v11.66h25.78v-75.25z" fill="url(#c)"/>
+   <path d="m-17.426 215.63v30.13h-23.584v-30.13l-25.787-11.2v75.25h25.787v-11.66h23.584v11.66h25.78v-75.25z" fill="url(#a)"/>
    <path d="m-65.344 267.09h3.182v4.29h4.077v-4.29h3.182v11.47h-3.182v-4.36h-4.077v4.36h-3.182z" fill="#fff"/>
    <path d="m-49.182 275.74c1.895 0 3.163-1.05 3.163-2.9v-0.03c0-1.84-1.268-2.91-3.163-2.91h-1.294v5.84zm-4.477-8.65h4.43c4.097 0 6.472 2.35 6.472 5.66v0.04c0 3.31-2.409 5.76-6.538 5.76h-4.364z" fill="#fff"/>
   </g>
