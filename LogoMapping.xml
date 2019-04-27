@@ -2000,20 +2000,17 @@
 			<File>Orange Sport.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="ORF 1">
+				<Provider>UPC (CZ)</Provider>
+			</Item>
+			<File>ORF 1.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="ORF 2">
 				<Provider>Full Name (CZ)</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>ORF 2.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="ORF 1">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="ORF Eins">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<File>ORF Eins.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Outdoor Channel">
