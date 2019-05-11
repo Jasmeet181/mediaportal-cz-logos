@@ -1534,6 +1534,12 @@
 			<File>Life TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Lounge TV">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Lounge TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="LTV Plus">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
