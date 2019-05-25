@@ -475,7 +475,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="CT D / CT art">
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 			</Item>
 			<Item Name="CT :D / CT art">
 				<Provider>UPC (CZ)</Provider>
@@ -484,7 +484,7 @@
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<Item Name="CT  D / CT art">
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 			</Item>
 			<File>CT D CT Art.png</File>
 		</Channel>
@@ -503,7 +503,7 @@
 		<Channel>
 			<Item Name="CT Sport HD">
 				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>CT Sport HD.png</File>
@@ -519,8 +519,8 @@
 			<Item Name="CT1 HD">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
-	  <Item Name="CT 1 HD">
-				<Provider>Terrestrial (CZ)</Provider>
+			<Item Name="CT 1 HD">
+				<Provider>Terrestrial Praha</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>CT1 HD.png</File>
@@ -528,9 +528,10 @@
 		<Channel>
 			<Item Name="CT1">
 				<Provider>Full Name (CZ)</Provider>
+				<Provider>Terrestrial Bratislava</Provider>
 			</Item>
 			<Item Name="CT 1">
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>CT1.png</File>
@@ -549,7 +550,7 @@
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<Item Name="CT 24">
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>CT24.png</File>
@@ -559,7 +560,7 @@
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<Item Name="CT 2 HD">
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>CT2 HD.png</File>
@@ -567,9 +568,10 @@
 		<Channel>
 			<Item Name="CT2">
 				<Provider>Full Name (CZ)</Provider>
+				<Provider>Terrestrial Bratislava</Provider>
 			</Item>
 			<Item Name="CT 2">
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>CT2.png</File>
@@ -840,12 +842,14 @@
 		<Channel>
 			<Item Name="Dvojka HD">
 				<Provider>Full Name (CZ)</Provider>
+				<Provider>Terrestrial Bratislava</Provider>
 			</Item>
 			<File>Dvojka HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Dvojka">
 				<Provider>Full Name (CZ)</Provider>
+				<Provider>Terrestrial Bratislava</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>Dvojka.png</File>
@@ -1190,7 +1194,7 @@
 		<Channel>
 			<Item Name="Galerie">
 				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 			</Item>
 			<File>Galerie.png</File>
 		</Channel>
@@ -1222,7 +1226,7 @@
 		<Channel>
 			<Item Name="Harmonie TV">
 				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 			</Item>
 			<File>Harmonie TV.png</File>
 		</Channel>
@@ -1385,12 +1389,14 @@
 		<Channel>
 			<Item Name="Jednotka HD">
 				<Provider>Full Name (CZ)</Provider>
+				<Provider>Terrestrial Bratislava</Provider>
 			</Item>
 			<File>Jednotka HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Jednotka">
 				<Provider>Full Name (CZ)</Provider>
+				<Provider>Terrestrial Bratislava</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>Jednotka.png</File>
@@ -1422,6 +1428,7 @@
 		<Channel>
 			<Item Name="Joj Cinema HD">
 				<Provider>Full Name (CZ)</Provider>
+				<Provider>Terrestrial Bratislava</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>Joj Cinema HD.png</File>
@@ -1482,14 +1489,14 @@
 		<Channel>
 			<Item Name="Kino Barrandov">
 				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>Kino Barrandov.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KinoSvet">
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 			</Item>
 			<Item Name="Kino Svet">
 				<Provider>Full Name (CZ)</Provider>
@@ -1863,7 +1870,7 @@
 		<Channel>
 			<Item Name="Nova Cinema">
 				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>Nova Cinema HD.png</File>
@@ -1937,7 +1944,7 @@
 		<Channel>
 			<Item Name="Nova">
 				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>Nova.png</File>
@@ -1988,7 +1995,7 @@
 		<Channel>
 			<Item Name="Ocko">
 				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>Ocko.png</File>
@@ -2017,6 +2024,18 @@
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>ORF 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Otta - Interaktivna Sluzba">
+				<Provider>Terrestrial Bratislava</Provider>
+			</Item>
+			<Item Name="Otta">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<Item Name="Video Bar">
+				<Provider>Terrestrial Bratislava</Provider>
+			</Item>
+			<File>Otta.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Outdoor Channel">
@@ -2087,7 +2106,7 @@
 		<Channel>
 			<Item Name="Praha TV">
 				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 			</Item>
 			<File>Praha TV.png</File>
 		</Channel>
@@ -2108,7 +2127,7 @@
 		<Channel>
 			<Item Name="Prima Cool">
 				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>Prima Cool.png</File>
@@ -2142,7 +2161,7 @@
 		<Channel>
 			<Item Name="Prima Love">
 				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>Prima Love.png</File>
@@ -2157,7 +2176,7 @@
 		<Channel>
 			<Item Name="Prima Max">
 				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 			</Item>
 			<File>Prima Max.png</File>
 		</Channel>
@@ -2195,7 +2214,7 @@
 		<Channel>
 			<Item Name="Prima Zoom">
 				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>Prima Zoom.png</File>
@@ -2203,7 +2222,7 @@
 		<Channel>
 			<Item Name="Prima">
 				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>Prima.png</File>
@@ -2261,7 +2280,7 @@
 		<Channel>
 			<Item Name="Rebel 2 Slusnej Kanal">
 				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>Rebel 2 Slusnej Kanal.png</File>
@@ -2309,7 +2328,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Retro Music TV">
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<Item Name="Retro">
@@ -2443,14 +2462,14 @@
 		<Channel>
 			<Item Name="Slagr 2">
 				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 			</Item>
 			<File>Slagr 2.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Slagr TV">
 				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>Slagr TV.png</File>
@@ -2510,6 +2529,7 @@
 		<Channel>
 			<Item Name="Sport 1">
 				<Provider>Full Name (CZ)</Provider>
+				<Provider>Terrestrial Bratislava</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>Sport 1.png</File>
@@ -2517,11 +2537,15 @@
 		<Channel>
 			<Item Name="Sport 2 HD">
 				<Provider>Full Name (CZ)</Provider>
+				<Provider>Terrestrial Bratislava</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>Sport 2 HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sport 2 Promo">
+				<Provider>Terrestrial Bratislava</Provider>
+			</Item>
 			<Item Name="Sport 2">
 				<Provider>Full Name (CZ)</Provider>
 				<Provider>UPC (CZ)</Provider>
@@ -2591,6 +2615,7 @@
 		<Channel>
 			<Item Name="TA3">
 				<Provider>Full Name (CZ)</Provider>
+				<Provider>Terrestrial Bratislava</Provider>
 			</Item>
 			<Item Name="TA 3">
 				<Provider>UPC (CZ)</Provider>
@@ -2652,6 +2677,9 @@
 		<Channel>
 			<Item Name="Televizia Lux">
 				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<Item Name="TV Lux">
+				<Provider>Terrestrial Bratislava</Provider>
 			</Item>
 			<File>Televizia Lux.png</File>
 		</Channel>
@@ -2767,7 +2795,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Barrandov TV">
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<Item Name="TV Barrandov">
@@ -2826,6 +2854,7 @@
 		<Channel>
 			<Item Name="TV Joj">
 				<Provider>Full Name (CZ)</Provider>
+				<Provider>Terrestrial Bratislava</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>TV Joj.png</File>
@@ -3061,6 +3090,9 @@
 			<File>VH1.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Viasat Explore Promo">
+				<Provider>Terrestrial Bratislava</Provider>
+			</Item>
 			<Item Name="Viasat Explore">
 				<Provider>Full Name (CZ)</Provider>
 				<Provider>UPC (CZ)</Provider>
@@ -3084,6 +3116,9 @@
 			<File>Viasat History.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Viasat Nature Promo">
+				<Provider>Terrestrial Bratislava</Provider>
+			</Item>
 			<Item Name="Viasat Nature">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
@@ -3152,14 +3187,14 @@
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<Item Name="V1 HD">
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 			</Item>
 			<File>Vychodoceska Televize.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="WAR Svet Valek">
 				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 			</Item>
 			<Item Name="WAR - Svet Valek">
 				<Provider>UPC (CZ)</Provider>
@@ -3175,6 +3210,9 @@
 		<Channel>
 			<Item Name="Wau TV">
 				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<Item Name="Wau">
+				<Provider>Terrestrial Bratislava</Provider>
 			</Item>
 			<File>Wau TV.png</File>
 		</Channel>
@@ -3193,7 +3231,7 @@
 		<Channel>
 			<Item Name="Z24">
 				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 			</Item>
 			<File>Z24.png</File>
 		</Channel>
@@ -3225,7 +3263,7 @@
 		<Channel>
 			<Item Name="Cesky Impuls">
 				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 			</Item>
 			<Item Name="Radio Cesky Impuls">
 				<Provider>UPC (CZ)</Provider>
@@ -3255,7 +3293,7 @@
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<Item Name="CRo D-dur">
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>Cesky rozhlas D-dur.png</File>
@@ -3265,7 +3303,7 @@
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<Item Name="CRo Dvojka">
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>Cesky rozhlas Dvojka.png</File>
@@ -3284,7 +3322,7 @@
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<Item Name="CRo Jazz">
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>Cesky rozhlas Jazz.png</File>
@@ -3339,7 +3377,7 @@
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<Item Name="CRo Plus">
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>Cesky rozhlas Plus.png</File>
@@ -3367,7 +3405,7 @@
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<Item Name="CRo Radiozurnal">
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>Cesky rozhlas Radiozurnal.png</File>
@@ -3431,7 +3469,7 @@
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<Item Name="CRo Vltava">
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>Cesky rozhlas Vltava.png</File>
@@ -3679,7 +3717,7 @@
 		<Channel>
 			<Item Name="Radio Cas Rock">
 				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>Radio Cas Rock.png</File>
@@ -3687,7 +3725,7 @@
 		<Channel>
 			<Item Name="Radio Cas">
 				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>Radio Cas.png</File>
@@ -3715,7 +3753,7 @@
 		<Channel>
 			<Item Name="Radio Dechovka">
 				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>Radio Dechovka.png</File>
@@ -3784,7 +3822,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="CRo Radio Junior">
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<Item Name="Radio Junior">
@@ -3855,7 +3893,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Proglas">
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 			</Item>
 			<Item Name="Radio Proglas">
 				<Provider>Full Name (CZ)</Provider>
@@ -3924,7 +3962,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="CRo Radio Wave">
-				<Provider>Terrestrial (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<Item Name="Radio Wave">
