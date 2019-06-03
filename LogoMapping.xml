@@ -591,6 +591,7 @@
 		<Channel>
 			<Item Name="Dajto">
 				<Provider>Full Name (CZ)</Provider>
+				<Provider>Terrestrial Bratislava</Provider>
 			</Item>
 			<File>Dajto.png</File>
 		</Channel>
@@ -703,6 +704,7 @@
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<Item Name="Discovery">
+				<Provider>Terrestrial Bratislava</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>Discovery Channel.png</File>
@@ -762,6 +764,7 @@
 		<Channel>
 			<Item Name="Doma">
 				<Provider>Full Name (CZ)</Provider>
+				<Provider>Terrestrial Bratislava</Provider>
 			</Item>
 			<File>Doma.png</File>
 		</Channel>
@@ -898,6 +901,12 @@
 			<File>EroXXX HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="EroXXX">
+				<Provider>Terrestrial Bratislava</Provider>
+			</Item>
+			<File>EroXXX.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="EsportsTV">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
@@ -929,6 +938,9 @@
 			<File>Eurosport 1 HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Eurosport">
+				<Provider>Terrestrial Bratislava</Provider>
+			</Item>
 			<Item Name="Eurosport 1">
 				<Provider>Full Name (CZ)</Provider>
 				<Provider>UPC (CZ)</Provider>
@@ -945,6 +957,7 @@
 		<Channel>
 			<Item Name="Eurosport 2">
 				<Provider>Full Name (CZ)</Provider>
+				<Provider>Terrestrial Bratislava</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>Eurosport 2.png</File>
@@ -1105,6 +1118,7 @@
 		<Channel>
 			<Item Name="Film+">
 				<Provider>Full Name (CZ)</Provider>
+				<Provider>Terrestrial Bratislava</Provider>
 			</Item>
 			<File>FilmPlus CZ.png</File>
 		</Channel>
@@ -1608,7 +1622,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Markiza HD">
-				<Provider>Full Name (CZ)</Provider>
+				<Provider>Terrestrial Bratislava</Provider>
 			</Item>
 			<File>Markiza HD.png</File>
 		</Channel>
@@ -1660,6 +1674,7 @@
 		<Channel>
 			<Item Name="Minimax">
 				<Provider>Full Name (CZ)</Provider>
+				<Provider>Terrestrial Bratislava</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>Minimax.png</File>
@@ -2127,6 +2142,7 @@
 		<Channel>
 			<Item Name="Prima Cool">
 				<Provider>Full Name (CZ)</Provider>
+				<Provider>Terrestrial Bratislava</Provider>
 				<Provider>Terrestrial Praha</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
@@ -2200,7 +2216,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Prima Plus">
-				<Provider>Full Name (CZ)</Provider>
+				<Provider>Terrestrial Bratislava</Provider>
 			</Item>
 			<File>Prima Plus.png</File>
 		</Channel>
@@ -2345,6 +2361,7 @@
 		<Channel>
 			<Item Name="Rik">
 				<Provider>Full Name (CZ)</Provider>
+				<Provider>Terrestrial Bratislava</Provider>
 			</Item>
 			<File>Rik.png</File>
 		</Channel>
@@ -2840,6 +2857,9 @@
 			<File>TV Jecko.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Joj HD">
+				<Provider>Terrestrial Bratislava</Provider>
+			</Item>
 			<Item Name="TV Joj HD">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
@@ -3083,6 +3103,7 @@
 		<Channel>
 			<Item Name="VH1">
 				<Provider>Full Name (CZ)</Provider>
+				<Provider>Terrestrial Bratislava</Provider>
 			</Item>
 			<Item Name="VH 1">
 				<Provider>UPC (CZ)</Provider>
@@ -3095,6 +3116,7 @@
 			</Item>
 			<Item Name="Viasat Explore">
 				<Provider>Full Name (CZ)</Provider>
+				<Provider>Terrestrial Bratislava</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>Viasat Explore.png</File>
@@ -3109,8 +3131,12 @@
 			<File>Viasat History Viasat Nature HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Viasat History Promo">
+				<Provider>Terrestrial Bratislava</Provider>
+			</Item>
 			<Item Name="Viasat History">
 				<Provider>Full Name (CZ)</Provider>
+				<Provider>Terrestrial Bratislava</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>Viasat History.png</File>
@@ -3121,6 +3147,7 @@
 			</Item>
 			<Item Name="Viasat Nature">
 				<Provider>Full Name (CZ)</Provider>
+				<Provider>Terrestrial Bratislava</Provider>
 			</Item>
 			<File>Viasat Nature.png</File>
 		</Channel>
