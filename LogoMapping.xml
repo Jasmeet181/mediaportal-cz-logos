@@ -2216,6 +2216,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Prima Plus">
+				<Provider>Full Name (CZ)</Provider>
 				<Provider>Terrestrial Bratislava</Provider>
 			</Item>
 			<File>Prima Plus.png</File>
