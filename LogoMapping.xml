@@ -1561,6 +1561,18 @@
 			<File>Lounge TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Love Nature 4K">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Love Nature 4K.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Love Nature HD">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Love Nature HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="LTV Plus">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
