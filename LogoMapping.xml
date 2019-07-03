@@ -2785,10 +2785,10 @@
 			<File>Travel Channel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Travelxp 4K">
+			<Item Name="Travelxp 4K HDR">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
-			<File>Travelxp 4K.png</File>
+			<File>Travelxp 4K HDR.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Travelxp HD">

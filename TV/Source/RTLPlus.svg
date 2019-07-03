@@ -1,23 +1,23 @@
-<svg id="b" width="312.94" height="97.232" version="1.0" viewBox="0 0 293.38 91.155" xmlns="http://www.w3.org/2000/svg">
- <defs id="c">
+<svg width="312.94" height="97.232" version="1.0" viewBox="0 0 293.38 91.155" xmlns="http://www.w3.org/2000/svg">
+ <defs>
   <linearGradient id="a" x1="217.69" x2="416.68" y1="503.98" y2="503.98" gradientTransform="translate(-209.7 -450.99)" gradientUnits="userSpaceOnUse">
-   <stop id="d" stop-color="#fff" offset="0"/>
-   <stop id="e" stop-color="#f6f6f4" offset="1"/>
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#f6f6f4" offset="1"/>
   </linearGradient>
  </defs>
- <g id="f" transform="translate(-8.8398 -6.6481)">
-  <path id="g" d="m211.81 7.3427v89.904h89.904v-89.904z" fill="#2fa5b1" fill-rule="evenodd" stroke="#2fa5b1" stroke-width="1px"/>
+ <g transform="translate(-8.8398 -6.6481)">
+  <path d="m211.81 7.3427v89.904h89.904v-89.904z" fill="#2fa5b1" fill-rule="evenodd" stroke="#2fa5b1" stroke-width="1px"/>
  </g>
- <g id="h" transform="translate(-8.8398 -6.6481)">
-  <path id="i" d="m206.48 6.6481v91.155h-197.64v-91.155z" fill="url(#a)" fill-rule="evenodd"/>
+ <g transform="translate(-8.8398 -6.6481)">
+  <path d="m206.48 6.6481v91.155h-197.64v-91.155z" fill="url(#a)" fill-rule="evenodd"/>
  </g>
- <g id="j" transform="translate(-8.8398 -6.6481)">
-  <path id="k" d="m233.53 45.476h17.425v-17.93h12.627v17.93h18.183v12.879h-18.183v17.93h-12.627v-17.93h-17.425z" fill="#fff" fill-rule="evenodd"/>
-  <path id="l" d="m21.389 27.539v48.5h17.438v-17.188h9.5938l9.5938 17.188h18.938c-0.37882-1.1154-0.80742-2.229-1.3125-3.2812-8.6509-14.211-9.5377-18.316-12.75-18.469v-0.71875c14.383-2.761 11.441-23.215-3.0938-26.031zm62.375 0v12.125h15.906v36.375h16.688v-36.375h15.156v-12.125zm58.844 0v48.5h43.188v-14.656h-26v-33.844z" fill="#183f46" fill-rule="evenodd"/>
-  <path id="m" d="m38.067 47.437c3.0305-0.06312 8.6521 0.06179 12.126 0 3.4737-0.06179 4.7996-0.8194 5.0467-3.9815-0.08356-3.035-1.4763-4.82-5.0467-4.7668-3.6761 0.05487-8.0997-0.03763-12.126 0z" fill="#fefefe" fill-rule="evenodd"/>
-  <text id="n" x="252.03307" y="443.49274" fill="#000000" font-family="'Bitstream Vera Sans'" font-size="40px" stroke-width="1px" xml:space="preserve"><tspan id="o" x="252.03307" y="478.88336"/></text>
+ <g transform="translate(-8.8398 -6.6481)">
+  <path d="m233.53 45.476h17.425v-17.93h12.627v17.93h18.183v12.879h-18.183v17.93h-12.627v-17.93h-17.425z" fill="#fff" fill-rule="evenodd"/>
+  <path d="m21.389 27.539v48.5h17.438v-17.188h9.5938l9.5938 17.188h18.938c-0.37882-1.1154-0.80742-2.229-1.3125-3.2812-8.6509-14.211-9.5377-18.316-12.75-18.469v-0.71875c14.383-2.761 11.441-23.215-3.0938-26.031zm62.375 0v12.125h15.906v36.375h16.688v-36.375h15.156v-12.125zm58.844 0v48.5h43.188v-14.656h-26v-33.844z" fill="#183f46" fill-rule="evenodd"/>
+  <path d="m38.067 47.437c3.0305-0.06312 8.6521 0.06179 12.126 0 3.4737-0.06179 4.7996-0.8194 5.0467-3.9815-0.08356-3.035-1.4763-4.82-5.0467-4.7668-3.6761 0.05487-8.0997-0.03763-12.126 0z" fill="#fefefe" fill-rule="evenodd"/>
+  <text x="252.03307" y="443.49274" fill="#000000" font-family="'Bitstream Vera Sans'" font-size="40px" stroke-width="1px" xml:space="preserve"><tspan x="252.03307" y="478.88336"/></text>
  </g>
- <g id="p" transform="translate(-8.8398 -6.6481)">
-  <path id="q" d="m233.35 45.082h17.425v-17.93h12.627v17.93h18.183v12.879h-18.183v17.93h-12.627v-17.93h-17.425z" fill="#fff" fill-rule="evenodd"/>
+ <g transform="translate(-8.8398 -6.6481)">
+  <path d="m233.35 45.082h17.425v-17.93h12.627v17.93h18.183v12.879h-18.183v17.93h-12.627v-17.93h-17.425z" fill="#fff" fill-rule="evenodd"/>
  </g>
 </svg>
