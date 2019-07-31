@@ -1537,6 +1537,12 @@
 			<File>Leo TV Gold.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Leo TV HD">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Leo TV HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Leo TV">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
@@ -1553,6 +1559,12 @@
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<File>Life TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Lounge TV 4K">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Lounge TV 4K.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Lounge TV">
