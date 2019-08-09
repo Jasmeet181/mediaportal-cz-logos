@@ -670,18 +670,6 @@
 			<File>Digi Sport 3.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Digi Sport 4 HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<File>Digi Sport 4 HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Digi Sport 4">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<File>Digi Sport 4.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Digi Sport 5 HD">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
@@ -2148,6 +2136,12 @@
 				<Provider>Terrestrial Praha</Provider>
 			</Item>
 			<File>Praha TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Premier Sport">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Premier Sport.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Prima Comedy Central">
