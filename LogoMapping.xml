@@ -3038,12 +3038,6 @@
 			<File>TV5Monde Europe.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV8 HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<File>TV8 HD.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="TV8">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
