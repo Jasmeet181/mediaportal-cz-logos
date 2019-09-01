@@ -1665,6 +1665,12 @@
 			<File>Megamax.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Mestska Televizia Ruzomberok">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Mestska Televizia Ruzomberok.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Mestska Televizia Trnava">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
@@ -2899,6 +2905,12 @@
 			<File>TV Joj.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="TV Karpaty">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>TV Karpaty.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="TV Levoca">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
@@ -2915,6 +2927,12 @@
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<File>TV Morava.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV Natura">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>TV Natura.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TV Nitricka">
