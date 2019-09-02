@@ -1108,6 +1108,9 @@
 				<Provider>Full Name (CZ)</Provider>
 				<Provider>Terrestrial Bratislava</Provider>
 			</Item>
+			<Item Name="Film+ Promo">
+				<Provider>Terrestrial Bratislava</Provider>
+			</Item>
 			<File>FilmPlus CZ.png</File>
 		</Channel>
 		<Channel>
