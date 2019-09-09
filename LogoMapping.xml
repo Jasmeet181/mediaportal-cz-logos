@@ -3453,13 +3453,13 @@
 			<File>Cesky rozhlas Plzen.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cesky rozhlas Radio Praha">
+			<Item Name="Cesky rozhlas Radio Prague International">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<Item Name="CRo Radio Praha">
 				<Provider>UPC (CZ)</Provider>
 			</Item>
-			<File>Cesky rozhlas Radio Praha.png</File>
+			<File>Cesky rozhlas Radio Prague International.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Cesky rozhlas Radiozurnal">
