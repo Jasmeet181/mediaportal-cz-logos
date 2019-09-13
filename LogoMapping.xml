@@ -682,20 +682,18 @@
 			<File>Digi Sport 5.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Discovery Channel HD">
+			<Item Name="Discovery HD">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
-			<File>Discovery Channel HD.png</File>
+			<File>Discovery HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Discovery Channel">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
 			<Item Name="Discovery">
+				<Provider>Full Name (CZ)</Provider>
 				<Provider>Terrestrial Bratislava</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
-			<File>Discovery Channel.png</File>
+			<File>Discovery.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Discovery Science HD">
