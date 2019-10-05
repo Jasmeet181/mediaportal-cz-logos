@@ -2756,12 +2756,6 @@
 			<File>Strakonicka Televize.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="SundanceTV HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<File>SundanceTV HD.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Super TV2">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
