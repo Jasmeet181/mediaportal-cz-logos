@@ -2542,22 +2542,22 @@
 			<File>RTL.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RTL 2 DE">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<File>RTL 2 DE.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="RTL2 HU">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<File>RTL2 HU.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RTLPlus">
+			<Item Name="RTL+">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<File>RTLPlus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTLZwei">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>RTLZwei.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTM Plus">
