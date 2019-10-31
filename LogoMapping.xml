@@ -1910,6 +1910,12 @@
 			<File>Nickelodeon.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Nicktoons">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Nicktoons.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Nova 2 HD">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
