@@ -879,10 +879,10 @@
 			<File>Dvojka.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Edge Sport HD">
+			<Item Name="EdgeSport HD">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
-			<File>Edge Sport HD.png</File>
+			<File>EdgeSport HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="English Club TV HD">
