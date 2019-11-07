@@ -1704,13 +1704,6 @@
 			<File>Markiza.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Megamax">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<File>Megamax.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Mestska Televizia Ruzomberok">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
