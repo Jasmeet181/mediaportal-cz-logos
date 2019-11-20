@@ -827,6 +827,12 @@
 			<File>Duck TV HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Duck TV Plus">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Duck TV Plus.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Duck TV">
 				<Provider>Full Name (CZ)</Provider>
 				<Provider>UPC (CZ)</Provider>
@@ -1024,6 +1030,12 @@
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<File>Extreme Sports Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fashion One 4K">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Fashion One 4K.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Fashion Television">
