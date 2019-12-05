@@ -398,10 +398,10 @@
 			<File>CNN International.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CNN Prima">
+			<Item Name="CNN Prima News">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
-			<File>CNN Prima.png</File>
+			<File>CNN Prima News.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Comedy Central">
@@ -452,31 +452,41 @@
 			<File>Crime and Investigation.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CS Film CS Mini Horor Film">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CS Film / CS Mini / Horor Film">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<File>CS Film CS Mini Horor Film.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="CS Film CS Mini">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<File>CS Film CS Mini.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="CS Film">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<File>CS Film.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CS Mini">
+			<Item Name="CS Film CS Horror">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
-			<File>CS Mini.png</File>
+			<Item Name="CS Film / CS Horror">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>CS Film CS Horror.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CS History">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>CS History.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CS Horror">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>CS Horror.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CS Mystery">
+				<Provider>Full Name (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
+			</Item>
+			<Item Name="CS Mystery | T2">
+				<Provider>Terrestrial Praha</Provider>
+			</Item>
+			<File>CS Mystery.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="CT Art HD">
@@ -1353,12 +1363,6 @@
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<File>Hobby TV.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Horor Film">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<File>Horor Film.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="HRT 1">
@@ -3394,16 +3398,6 @@
 				<Provider>Terrestrial Praha</Provider>
 			</Item>
 			<File>Vychodoceska Televize.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="WAR Svet Valek">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
-			<Item Name="WAR - Svet Valek">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<File>WAR Svet Valek.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Wau HD">
