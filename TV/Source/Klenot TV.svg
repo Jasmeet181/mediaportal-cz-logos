@@ -1,0 +1,26 @@
+<svg width="800" height="154.45" version="1.1" viewBox="0 0 211.67 40.864" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x2="601" y1="81" y2="81" gradientTransform="matrix(1.076 0 0 1.076 0 -12.306)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#c09874" offset="0"/>
+   <stop stop-color="#f7d1ba" offset=".3"/>
+   <stop stop-color="#f7d1ba" offset=".7"/>
+   <stop stop-color="#c09874" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-36.383 14.397)">
+  <g transform="matrix(.32733 0 0 .23444 36.383 -11.512)">
+   <path d="m0-12.306h646.65v174.31h-646.65v-174.31" fill="url(#a)" stroke-width="1.076"/>
+  </g>
+  <path d="m38.159-12.621h208.11v37.312h-208.11z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <g transform="matrix(.92785 0 0 .92785 2.6249 1.9095)" fill="#413494" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal" aria-label="KLENOT TV">
+   <path d="m43.144 18.721v-28.55h6.3023v11.606l4.8215-11.606h6.1474l-5.2864 12.897 5.5447 15.653h-6.4401l-4.1671-12.76-0.6199 0.98151v11.778z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+   <path d="m71.422 18.721v-28.55h6.3023v24.28h6.5434v4.2704z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+   <path d="m95.361 18.721v-28.55h12.829v4.3049h-6.5262v7.06h4.9764v4.391h-4.9764v8.5237h6.5951v4.2704z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+   <path d="m119.44 18.721v-28.55h4.4426l5.8718 13.707v-13.707h5.2347v28.55h-4.2704l-5.8891-14.774v14.774z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+   <path d="m155.71 19.117q-2.3763 0-4.0638-0.6199-1.6703-0.63712-2.669-1.8769-0.98151-1.257-1.4292-2.9445-0.43049-1.6875-0.43049-3.9777v-10.538q0-2.3074 0.43049-3.9777 0.44771-1.6875 1.4292-2.9273 0.99873-1.2398 2.669-1.8597 1.6875-0.6199 4.0638-0.6199 4.632 0 6.6295 2.3763 2.0147 2.3591 2.0147 7.0083v10.538q0 4.6493-2.0147 7.0428-1.9975 2.3763-6.6295 2.3763zm-0.98151-4.6665q0.41327 0.20663 0.98151 0.20663t0.98151-0.18941q0.41327-0.20663 0.63712-0.49937 0.22386-0.30995 0.34439-0.7921 0.13776-0.48215 0.1722-0.89542 0.0344-0.43049 0.0344-1.016v-13.69q0-0.56824-0.0344-0.98151-0.0344-0.43049-0.1722-0.89541-0.12053-0.48215-0.34439-0.77488-0.22385-0.29273-0.63712-0.48215-0.41327-0.20663-0.98151-0.20663t-0.98151 0.20663q-0.39605 0.18941-0.61991 0.48215-0.22385 0.27551-0.34439 0.77488-0.12053 0.48215-0.15497 0.8782-0.0172 0.39605-0.0172 0.99873v13.69q0 0.60268 0.0172 1.016 0.0344 0.39605 0.15497 0.89542 0.12054 0.48215 0.34439 0.77488 0.22386 0.29273 0.61991 0.49937z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+   <path d="m179.11 18.721v-23.883h-4.391v-4.6665h15.05v4.6665h-4.3393v23.883z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+   <path d="m220.58 18.721v-23.883h-4.391v-4.6665h15.05v4.6665h-4.3393v23.883z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+   <path d="m245.88 18.721-5.1659-28.55h5.3897l3.0651 19.251 2.8412-19.251h5.7341l-5.2347 28.55z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+  </g>
+ </g>
+</svg>

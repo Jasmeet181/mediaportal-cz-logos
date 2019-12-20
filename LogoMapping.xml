@@ -183,6 +183,12 @@
 			<File>AXN.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Bardejovska TV">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Bardejovska TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Barrandov Krimi HD">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
@@ -420,6 +426,12 @@
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<File>Comedy Central Family.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Comedy House">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Comedy House.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Cool">
@@ -899,6 +911,12 @@
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<File>EdgeSport HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Elektrika TV">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Elektrika TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="English Club TV HD">
@@ -1532,6 +1550,12 @@
 			<File>KBS World HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Kezmarska Televizia">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Kezmarska Televizia.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KiKa">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
@@ -1567,6 +1591,12 @@
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>Kino Svet.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Klenot TV">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Klenot TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Kosice Dnes">
@@ -2587,6 +2617,12 @@
 			<File>RTR Planeta.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="RTV Krea">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>RTV Krea.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Sat.1">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
@@ -2845,6 +2881,12 @@
 			<File>Televizia Central.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Televizia Dolny Kubin">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Televizia Dolny Kubin.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Televizia Reduta">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
@@ -2864,6 +2906,12 @@
 				<Provider>Terrestrial Bratislava</Provider>
 			</Item>
 			<File>Televizia Lux.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Televizia Nove Zamky">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Televizia Nove Zamky.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Televizia Senior">
@@ -2949,6 +2997,18 @@
 			<File>Travelxp HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Trojka">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Trojka.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Trojka HD">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Trojka HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Tuki TV HD">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
@@ -3001,10 +3061,10 @@
 			<File>TV Bratislava.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Bruno 1">
+			<Item Name="TV Brno 1">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
-			<File>TV Bruno 1.png</File>
+			<File>TV Brno 1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TV Dakr">
@@ -3064,6 +3124,12 @@
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<File>TV Liptov.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV LocAll">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>TV LocAll.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TV Morava">
@@ -3161,16 +3227,34 @@
 			<File>TV Ruzinov.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="TV Sen">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>TV Sen.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="TV Severka">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<File>TV Severka.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="TV Skalica">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>TV Skalica.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="TV Sonce">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<File>TV Sonce.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV Stara Tura">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>TV Stara Tura.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TV SudEst">
@@ -3224,10 +3308,22 @@
 			<File>TV1000 Russkoe Kino.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="TVB Brezova">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>TVB Brezova.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="TVE Internacional">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<File>TVE Internacional.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TVM Myjava">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>TVM Myjava.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TVP Info">
@@ -3246,6 +3342,12 @@
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<File>TVP1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TVT Turzovska Television">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>TVT Turzovska Television.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="U TV">
