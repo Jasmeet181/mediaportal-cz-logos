@@ -894,7 +894,6 @@
 		<Channel>
 			<Item Name="Dvojka HD">
 				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Bratislava</Provider>
 			</Item>
 			<File>Dvojka HD.png</File>
 		</Channel>
@@ -1506,10 +1505,13 @@
 			<File>Joj Cinema HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="JOJ Cinema">
+			<Item Name="Joj Cinema">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
-			<File>JOJ Cinema.png</File>
+			<Item Name="Joj Cinema Promo">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Joj Cinema.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Joj Family HD">
@@ -1524,7 +1526,7 @@
 				<Provider>Terrestrial Praha</Provider>
 				<Provider>UPC (CZ)</Provider>
 			</Item>
-			<Item Name="JOJ Family | T2">
+			<Item Name="Joj Family | T2">
 				<Provider>Terrestrial Praha</Provider>
 			</Item>
 			<File>Joj Family.png</File>
@@ -1541,6 +1543,12 @@
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>Joj Plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Jojko">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Jojko.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KBS World HD">
@@ -2529,12 +2537,14 @@
 			<File>Retro.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closes 01/01/2020-->
 			<Item Name="Rik HD">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<File>Rik HD.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closes 01/01/2020-->
 			<Item Name="Rik">
 				<Provider>Full Name (CZ)</Provider>
 				<Provider>Terrestrial Bratislava</Provider>
@@ -2999,6 +3009,7 @@
 		<Channel>
 			<Item Name="Trojka">
 				<Provider>Full Name (CZ)</Provider>
+				<Provider>Terrestrial Bratislava</Provider>
 			</Item>
 			<File>Trojka.png</File>
 		</Channel>
@@ -3292,6 +3303,7 @@
 		<Channel>
 			<Item Name="TV8">
 				<Provider>Full Name (CZ)</Provider>
+				<Provider>Terrestrial Bratislava</Provider>
 			</Item>
 			<File>TV8.png</File>
 		</Channel>
