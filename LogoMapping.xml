@@ -1511,7 +1511,7 @@
 			<Item Name="Joj Cinema Promo">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
-			<File>Joj Cinema.png</File>
+			<File>JOJ Cinema.png</File><!-- Simple filename is JOJ, Source is Joj -->
 		</Channel>
 		<Channel>
 			<Item Name="Joj Family HD">
