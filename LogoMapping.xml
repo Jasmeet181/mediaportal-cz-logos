@@ -215,9 +215,6 @@
 				<Provider>Full Name (CZ)</Provider>
 				<Provider>Terrestrial Praha</Provider>
 			</Item>
-			<Item Name="Barrandov News | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
 			<File>Barrandov News.png</File>
 		</Channel>
 		<Channel>
@@ -404,8 +401,11 @@
 			<File>CNN International.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="CNN Prima News | T2">
+				<Provider>Terrestrial Praha</Provider>
+			</Item>
 			<Item Name="CNN Prima News">
-				<Provider>Full Name (CZ)</Provider>
+				<Provider>Terrestrial Praha</Provider>
 			</Item>
 			<File>CNN Prima News.png</File>
 		</Channel>
@@ -2363,13 +2363,16 @@
 			<File>Prima Max.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Prima Plus 1 HD">
+			<Item Name="Prima +1 HD">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<File>Prima Max.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Prima Plus 1">
+			<Item Name="Prima +1 | T2">
+				<Provider>Terrestrial Praha</Provider>
+			</Item>
+			<Item Name="Prima +1">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<File>Prima Plus 1.png</File>
@@ -2488,9 +2491,6 @@
 			<Item Name="Regionalnitelevize.cz">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
-			<Item Name="rRgionalnitelevize.cz | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
 			<Item Name="Regionalni Televize.cz">
 				<Provider>UPC (CZ)</Provider>
 			</Item>
@@ -2527,6 +2527,9 @@
 			<File>Relax.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Retro Music TV | T2">
+				<Provider>Terrestrial Praha</Provider>
+			</Item>
 			<Item Name="Retro Music TV">
 				<Provider>Terrestrial Praha</Provider>
 				<Provider>UPC (CZ)</Provider>
