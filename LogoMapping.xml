@@ -1434,16 +1434,16 @@
 			<File>Info TV Brno a Jizni Morava.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Insight HD">
+			<Item Name="Insight TV HD">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
-			<File>Insight HD.png</File>
+			<File>Insight TV HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Insight UHD">
+			<Item Name="Insight TV UHD">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
-			<File>Insight UHD.png</File>
+			<File>Insight TV UHD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Investigation Discovery HD">
