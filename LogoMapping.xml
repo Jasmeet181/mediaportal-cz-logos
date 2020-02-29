@@ -2951,6 +2951,12 @@
 			<File>Televizia TV7.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Terapie TV">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Terapie TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Fishing and Hunting">
 				<Provider>UPC (CZ)</Provider>
 			</Item>
