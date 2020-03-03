@@ -4318,6 +4318,12 @@
 			<File>Radio Veronica.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Radio Vlna">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Radio Vlna.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="CRo Radio Wave">
 				<Provider>Terrestrial Praha</Provider>
 				<Provider>UPC (CZ)</Provider>
