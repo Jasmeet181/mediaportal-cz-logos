@@ -3780,15 +3780,6 @@
 			<File>Cesky rozhlas Region Praha a stredni Cechy.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cesky rozhlas Region Vysocina">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CRo Region Vysocina">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<File>Cesky rozhlas Region Vysocina.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Cesky rozhlas Radio Retro">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
@@ -3818,6 +3809,24 @@
 				<Provider>Terrestrial Praha</Provider>
 			</Item>
 			<File>Cesky rozhlas Vltava.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cesky rozhlas Vysocina">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<Item Name="CRo Vysocina">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Cesky rozhlas Vysocina.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cesky rozhlas Zlin">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<Item Name="CRo Zlin">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Cesky rozhlas Zlin.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Classic FM">
