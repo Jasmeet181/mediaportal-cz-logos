@@ -575,6 +575,12 @@
 			<Item Name="CT 1 HD T2">
 				<Provider>Terrestrial Praha</Provider>
 			</Item>
+			<Item Name="CT 1 JM HD T2">
+				<Provider>Terrestrial Praha</Provider>
+			</Item>
+			<Item Name="CT 1 SM HD T2">
+				<Provider>Terrestrial Praha</Provider>
+			</Item>
 			<File>CT1 HD.png</File>
 		</Channel>
 		<Channel>
@@ -632,6 +638,27 @@
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>CT2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CT3 HD">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<Item Name="CT 3 HD">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<Item Name="CT 3 HD T2">
+				<Provider>Terrestrial Praha</Provider>
+			</Item>
+			<File>CT3 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CT3">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<Item Name="CT 3">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>CT3.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Da Vinci">
