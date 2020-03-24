@@ -1721,9 +1721,6 @@
 			<Item Name="M1 HD">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
-			<File>M1 HD.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="M1">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
