@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
 <!-- ******************************************************************** -->
-		<!-- 04/05/2020 Ceskoslovensko HD/Be2Can HD becomes Film Europe+ HD -->
 		<!-- 01/06/2020 MTV Dance becomes Club MTV -->
 	<TV>
 		<Channel>
@@ -241,12 +240,6 @@
 			<File>BBC World News.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Be2Can HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<File>Be2Can HD.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Blackbelt TV">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
@@ -310,18 +303,6 @@
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>CCTV-4.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Ceskoslovensko HD Be2Can HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<File>Ceskoslovensko HD Be2Can HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Ceskoslovensko HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<File>Ceskoslovensko HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Cesty Krajem TV">
@@ -1150,6 +1131,15 @@
 				<Provider>UPC (CZ)</Provider>
 			</Item>
 			<File>Film Europe HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Film Europe+">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<Item Name="Film Europe+ HD">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Film EuropePlus.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Film Europe">
