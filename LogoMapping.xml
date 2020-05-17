@@ -2266,6 +2266,12 @@
 			<File>Polar.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Polar2">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Polar2.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Power TV">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
@@ -2987,10 +2993,10 @@
 			<File>TLC.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Trace Tropical">
+			<Item Name="Trace Caribbean">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
-			<File>Trace Tropical.png</File>
+			<File>Trace Caribbean.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Trace Urban">
