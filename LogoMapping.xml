@@ -1939,10 +1939,10 @@
 			<File>National Geographic.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Nautical Channel HD">
+			<Item Name="Nautical Channel">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
-			<File>Nautical Channel HD.png</File>
+			<File>Nautical Channel.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="NetViet">
