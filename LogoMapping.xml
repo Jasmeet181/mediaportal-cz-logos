@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
 <!-- ******************************************************************** -->
-		<!-- 01/06/2020 MTV Dance becomes Club MTV -->
 	<TV>
 		<Channel>
 			<Item Name="213 HD">
@@ -364,6 +363,12 @@
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<File>CKTV Ceskokrumlovska Televize.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Club MTV">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Club MTV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="CNBC Europe">
@@ -1845,13 +1850,6 @@
 			<File>Mozi Plus.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="MTV Dance">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<File>MTV Dance.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="MTV Hits">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
@@ -2614,10 +2612,16 @@
 			<File>RTL.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RTL2 HU">
+			<Item Name="RTL2">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
-			<File>RTL2 HU.png</File>
+			<File>RTL2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTL2 HD">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>RTL2 HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTL+">
@@ -3128,10 +3132,10 @@
 			<File>TV Joj HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Joj Plus 1">
+			<Item Name="TV Joj Plus 1 HD">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
-			<File>TV Joj Plus 1.png</File>
+			<File>TV Joj Plus 1 HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TV Joj">
@@ -3543,13 +3547,13 @@
 			<File>Wau HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Wau TV">
+			<Item Name="Wau">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<Item Name="Wau">
 				<Provider>Terrestrial Bratislava</Provider>
 			</Item>
-			<File>Wau TV.png</File>
+			<File>Wau.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Welt">
