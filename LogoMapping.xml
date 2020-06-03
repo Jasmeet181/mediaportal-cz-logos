@@ -814,6 +814,12 @@
 			<File>Dom Kino.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Dom Kino Premium">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Dom Kino Premium.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Doma HD">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
@@ -1904,6 +1910,15 @@
 			<File>My Zen TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="NASA TV UHD | T2">
+				<Provider>Terrestrial Praha</Provider>
+			</Item>
+			<Item Name="NASA UHD">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>NASA UHD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Nat Geo Wild HD">
 				<Provider>UPC (CZ)</Provider>
 			</Item>
@@ -2114,6 +2129,12 @@
 			<File>Nova.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="O!">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>O.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Ocko Black HD">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
@@ -2256,6 +2277,18 @@
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<File>Plzen TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Pobeda">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Pobeda.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Poehali TV">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Poehali TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Polar">
@@ -2864,6 +2897,12 @@
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
 			<File>TCM.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Telecafe">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>Telecafe.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Televize Filmpro">
