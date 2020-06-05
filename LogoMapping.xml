@@ -1222,6 +1222,12 @@
 			<File>FilmPlus HD CZ.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Film+ HD HU">
+				<Provider>Full Name (CZ)</Provider>
+			</Item>
+			<File>FilmPlus HD HU.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Film+ HU">
 				<Provider>Full Name (CZ)</Provider>
 			</Item>
