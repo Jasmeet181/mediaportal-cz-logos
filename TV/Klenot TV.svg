@@ -1,26 +1,26 @@
-<svg width="800" height="154.45" version="1.1" viewBox="0 0 211.67 40.864" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="329.82" version="1.1" viewBox="0 0 211.67 87.264" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="a" x2="601" y1="81" y2="81" gradientTransform="matrix(1.076 0 0 1.076 0 -12.306)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#c09874" offset="0"/>
-   <stop stop-color="#f7d1ba" offset=".3"/>
-   <stop stop-color="#f7d1ba" offset=".7"/>
-   <stop stop-color="#c09874" offset="1"/>
+  <linearGradient id="linearGradient10164" x2="42.531" y1="35.573" y2="35.573" gradientTransform="matrix(4.9768 0 0 5.2632 0 -127.81)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#a39991" offset="0"/>
+   <stop stop-color="#d1c6bf" offset=".2"/>
+   <stop stop-color="#e0d3ca" offset=".40454"/>
+   <stop stop-color="#ddd1c7" offset=".75"/>
+   <stop stop-color="#ad9e98" offset="1"/>
   </linearGradient>
  </defs>
- <g transform="translate(-36.383 14.397)">
-  <g transform="matrix(.32733 0 0 .23444 36.383 -11.512)">
-   <path d="m0-12.306h646.65v174.31h-646.65v-174.31" fill="url(#a)" stroke-width="1.076"/>
-  </g>
-  <path d="m38.159-12.621h208.11v37.312h-208.11z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
-  <g transform="matrix(.92785 0 0 .92785 2.6249 1.9095)" fill="#413494" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal" aria-label="KLENOT TV">
-   <path d="m43.144 18.721v-28.55h6.3023v11.606l4.8215-11.606h6.1474l-5.2864 12.897 5.5447 15.653h-6.4401l-4.1671-12.76-0.6199 0.98151v11.778z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
-   <path d="m71.422 18.721v-28.55h6.3023v24.28h6.5434v4.2704z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
-   <path d="m95.361 18.721v-28.55h12.829v4.3049h-6.5262v7.06h4.9764v4.391h-4.9764v8.5237h6.5951v4.2704z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
-   <path d="m119.44 18.721v-28.55h4.4426l5.8718 13.707v-13.707h5.2347v28.55h-4.2704l-5.8891-14.774v14.774z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
-   <path d="m155.71 19.117q-2.3763 0-4.0638-0.6199-1.6703-0.63712-2.669-1.8769-0.98151-1.257-1.4292-2.9445-0.43049-1.6875-0.43049-3.9777v-10.538q0-2.3074 0.43049-3.9777 0.44771-1.6875 1.4292-2.9273 0.99873-1.2398 2.669-1.8597 1.6875-0.6199 4.0638-0.6199 4.632 0 6.6295 2.3763 2.0147 2.3591 2.0147 7.0083v10.538q0 4.6493-2.0147 7.0428-1.9975 2.3763-6.6295 2.3763zm-0.98151-4.6665q0.41327 0.20663 0.98151 0.20663t0.98151-0.18941q0.41327-0.20663 0.63712-0.49937 0.22386-0.30995 0.34439-0.7921 0.13776-0.48215 0.1722-0.89542 0.0344-0.43049 0.0344-1.016v-13.69q0-0.56824-0.0344-0.98151-0.0344-0.43049-0.1722-0.89541-0.12053-0.48215-0.34439-0.77488-0.22385-0.29273-0.63712-0.48215-0.41327-0.20663-0.98151-0.20663t-0.98151 0.20663q-0.39605 0.18941-0.61991 0.48215-0.22385 0.27551-0.34439 0.77488-0.12053 0.48215-0.15497 0.8782-0.0172 0.39605-0.0172 0.99873v13.69q0 0.60268 0.0172 1.016 0.0344 0.39605 0.15497 0.89542 0.12054 0.48215 0.34439 0.77488 0.22386 0.29273 0.61991 0.49937z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
-   <path d="m179.11 18.721v-23.883h-4.391v-4.6665h15.05v4.6665h-4.3393v23.883z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
-   <path d="m220.58 18.721v-23.883h-4.391v-4.6665h15.05v4.6665h-4.3393v23.883z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
-   <path d="m245.88 18.721-5.1659-28.55h5.3897l3.0651 19.251 2.8412-19.251h5.7341l-5.2347 28.55z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
-  </g>
+ <path d="m30.793-7.68e-4 -15.939 18.022 26.972 29.42h14.755l26.972-29.42-15.939-18.022z" fill="url(#linearGradient10164)" stop-color="#000000" stroke-width=".30653" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+ <path d="m211.67 31.564v55.703h-211.67v-55.703z" fill="url(#linearGradient10164)" stop-color="#000000" stroke-width=".30653" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+ <path d="m5.5703 37.134h200.53v44.562h-200.53z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke-width="1.3235" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <g transform="matrix(.88258 0 0 .87113 -31.681 -186.81)" style="shape-inside:url(#rect2144-2);white-space:pre" aria-label="KLENOT TV">
+  <path d="m74.072 296.81h-8.92l-10.52-13.04h-0.08v13.04h-6.72v-28.32h6.72v11.52h0.12l10.12-11.52h8.56l-12.2 13.04z"/>
+  <path d="m94.112 296.81h-17.84v-28.32h6.88v22.36h10.96z"/>
+  <path d="m117.07 296.81h-19.76v-28.32h19.04v5.8h-12.44v5.32h11.76v5.48h-11.76v5.88h13.16z"/>
+  <path d="m147.35 296.81h-7.76l-11.4-18.52h-0.12l0.16 18.52h-6.64v-28.32h7.8l11.36 18.48h0.12l-0.16-18.48h6.64z"/>
+  <path d="m182.71 282.53q0 6.68-4.36 10.88-4.36 4.16-11.08 4.16-6.68 0-11.04-4.16-4.36-4.2-4.36-10.88 0-6.72 4.32-10.76 4.36-4.04 11.08-4.04 6.76 0 11.08 4.04 4.36 4.04 4.36 10.76zm-7.32 0q0-3.76-2.28-6.2t-5.84-2.44-5.84 2.44q-2.24 2.44-2.24 6.2 0 3.84 2.24 6.32 2.28 2.48 5.84 2.48t5.84-2.48 2.28-6.32z"/>
+  <path d="m206.15 274.33h-8v22.48h-6.84v-22.48h-8v-5.84h22.84z"/>
+  <path d="m224.95 296.81h3.84v-24.72h9.12v-3.6h-22.08v3.6h9.12z"/>
+  <path d="m249.03 296.81h3.6l11.16-28.32h-4.1999l-8.64 23.04h-0.08l-8.32-23.04h-4.44z"/>
  </g>
+ <path d="m33.084 2.2418-13.956 15.78 23.616 25.759h12.919l23.616-25.759-13.956-15.78z" fill="#fff" stroke-width=".33196"/>
+ <path d="m35.375 4.4844-11.972 13.537 20.26 22.098-14.519-20.502 11.192 3.0745 6.3309 17.427-4.3344-16.839 6.8716 1.8681 6.8715-1.8681-4.3343 16.839 6.3309-17.427 11.192-3.0745-14.519 20.502 20.26-22.098-11.972-13.537zm3.1784 2.2256h21.301l-10.651 10.59zm-3.5743 1.7696 4.3602 11.671-11.915-3.3165zm28.45 0 7.5553 8.3542-11.915 3.3165zm-24.579 1.2548 10.354 10.687 10.354-10.687-2.7992 11.042-7.5553 2.0675-7.5553-2.0675z" fill="#e6d6b5" stroke-width=".28478"/>
 </svg>

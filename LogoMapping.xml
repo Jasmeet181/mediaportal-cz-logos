@@ -1,4470 +1,3392 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
 <!-- ******************************************************************** -->
+		<!--
+		30/06/2021 Orange Sport 1-4 close
+		00/00/2021 JOJ Šport launches
+		00/00/2021 RTVS Šport launches
+		-->
+		<!--
+		Film+ CZ/HU conflict
+		-->
 	<TV>
 		<Channel>
-			<Item Name="213 HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="213 HD" />
 			<File>213 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="213">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="213" />
 			<File>213.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="360 Tune Box">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="360 Tune Box" />
 			<File>360 Tune Box.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="ABC TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="ABC TV | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="ABC TV">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
 			<File>ABC TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Adventure HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Adventure HD" />
 			<File>Adventure HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Adventure TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Adventure TV" />
 			<File>Adventure TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="3sat">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="3sat">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>3sat.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Al Jazeera English">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Al Jazeera English" />
 			<File>Al Jazeera English.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Al-Alam News Network">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Al-Alam News Network" />
 			<File>Al-Alam News Network.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="AMC HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="AMC HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>AMC HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="AMC">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="AMC">
+					<Provider>Terrestrial Bratislava</Provider>
+					<Provider>Terrestrial Praha</Provider>
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>AMC.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Animal Planet HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Animal Planet HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Animal Planet HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Animal Planet">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Animal Planet">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Animal Planet.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Arena Sport 1 HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Arena Sport 1 HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Arena Sport 1 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Arena Sport 1">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Arena Sport 1" />
 			<File>Arena Sport 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Arena Sport 2 HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Arena Sport 2 HD" />
 			<File>Arena Sport 2 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Arena Sport 2">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Arena Sport 2">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Arena Sport 2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Arte HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Arte HD" />
 			<File>Arte HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="ATV">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="ATV">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>ATV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Auto Motor und Sport HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="AutoMotorSport HD">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Auto Motor und Sport HD" />
+				<Item Name="AutoMotorSport HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Auto Motor und Sport HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Auto Motor und Sport">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Auto Motor und Sport" />
 			<File>Auto Motor und Sport.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="AXN Black HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="AXN Black HD" />
 			<File>AXN Black HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="AXN Black">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="AXN Black">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>AXN Black.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="AXN HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="AXN HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>AXN HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="AXN White HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="AXN White HD" />
 			<File>AXN White HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="AXN White">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="AXN White">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>AXN White.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="AXN">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="AXN">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>AXN.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Bardejovska TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Bardejovska TV" />
 			<File>Bardejovska TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Barrandov Krimi HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Barrandov Krimi HD" />
 			<File>Barrandov Krimi HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Barrandov Krimi">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
-			<Item Name="Barrandov Krimi | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="Barrandov Krimi">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
 			<File>Barrandov Krimi.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Barrandov News HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<File>Barrandov News HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Barrandov News">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
-			<File>Barrandov News.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="BBC Earth">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="BBC Earth" />
 			<File>BBC Earth.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="BBC World News HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="BBC World News HD" />
 			<File>BBC World News HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="BBC World News">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="BBC World">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="BBC World News" />
+				<Item Name="BBC World">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>BBC World News.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Blackbelt TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Blackbelt TV" />
 			<File>Blackbelt TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Bloomberg Television">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Bloomberg Television" />
 			<File>Bloomberg Television.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Boomerang">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Boomerang" />
 			<File>Boomerang.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Brazzers TV Europe">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Brazzers TV Europe" />
 			<File>Brazzers TV Europe.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Brno TV">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Brno TV">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Brno TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Canal 24 Horas">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Canal 24 Horas" />
 			<File>Canal 24 Horas.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cartoon Network HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Canal+ Domo HD" />
+			<File>CanalPlus Domo HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Canal+ Domo" />
+			<File>CanalPlus Domo.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Cartoon Network HD" />
 			<File>Cartoon Network HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cartoon Network">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Cartoon Network" />
 			<File>Cartoon Network.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CBS Reality">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="CBS Reality">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>CBS Reality.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CCTV-4">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CCTV 4">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="CCTV-4" />
+				<Item Name="CCTV 4">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>CCTV-4.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cesty Krajem TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Cesty Krajem TV" />
 			<File>Cesty Krajem TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CGTN Documentary">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="CGTN Documentary">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>CGTN Documentary.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CGTN">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="CGTN">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>CGTN.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Channel One Russia">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Channel One Russia">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Channel One Russia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cinemax 2 HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Chuck TV" />
+			<File>Chuck TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Cinemax 2 HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Cinemax 2 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cinemax 2">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Cinemax 2">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Cinemax 2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cinemax HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Cinemax HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Cinemax HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cinemax">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Cinemax">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Cinemax.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CKTV Ceskokrumlovska Televize">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="CKTV Ceskokrumlovska Televize" />
 			<File>CKTV Ceskokrumlovska Televize.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Club MTV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Club MTV" />
 			<File>Club MTV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CNBC Europe">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="CNBC">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="CNBC Europe">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="CNBC" />
 			<File>CNBC.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CNN International">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CNN">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="CNN International" />
+				<Item Name="CNN">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>CNN International.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CNN Prima News | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
-			<Item Name="CNN Prima News">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="CNN Prima News">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
 			<File>CNN Prima News.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Comedy Central">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Comedy Central" />
 			<File>Comedy Central.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Comedy Central Extra">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Comedy Central Extra" />
 			<File>Comedy Central Extra.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Comedy Central Family">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Comedy Central Family" />
 			<File>Comedy Central Family.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Comedy House">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Comedy House" />
 			<File>Comedy House.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cool">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Cool" />
 			<File>Cool.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CRA DVBT2 Overeno">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Naladte se na DVB-T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="CRA DVBT2 Overeno" />
+				<Item Name="Naladte se na digitalni vysilani CRA">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
+				<Item Name="Televize pres antenu">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
 			<File>CRA DVBT2 Overeno.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Credo TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Credo TV" />
 			<File>Credo TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Crime &amp; Investigation">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Crime and Investigation">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Crime &amp; Investigation">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="Crime and Investigation" />
 			<File>Crime and Investigation.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CS Film">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="CS Film" />
 			<File>CS Film.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CS Film CS Horror">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CS Film / CS Horror">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="CS Film CS Horror" />
+				<Item Name="CS Film / CS Horror" />
 			<File>CS Film CS Horror.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CS History">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="CS History" />
 			<File>CS History.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CS Horror">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="CS Horror" />
 			<File>CS Horror.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CS Mystery">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
-			<Item Name="CS Mystery | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="CS Mystery">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
 			<File>CS Mystery.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CT Art HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="CT Art HD" />
 			<File>CT Art HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CT Art">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="CT Art" />
 			<File>CT Art.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CT D CT Art HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CT :D HD / CT art HD">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="CT D CT Art HD" />
+				<Item Name="CT :D HD / CT art HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>CT D CT Art HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CT :D / CT art">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="CT :D/art">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
-			<Item Name="CT :D/art HD T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
-			<Item Name="CT D CT Art">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="CT :D / CT art">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="CT :D/art HD T2">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
+				<Item Name="CT D CT Art" />
 			<File>CT D CT Art.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CT D HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="CT D HD" />
 			<File>CT D HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CT D">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="CT D" />
 			<File>CT D.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CT Sport HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="CT Sport HD T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="CT Sport HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="CT Sport HD T2">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
 			<File>CT Sport HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CT Sport">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="CT Sport">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>CT Sport.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CT1 HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CT 1 HD">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="CT 1 HD T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
-			<Item Name="CT 1 JM HD T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
-			<Item Name="CT 1 SM HD T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="CT1 HD" />
+				<Item Name="CT 1 HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="CT 1 HD T2">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
+				<Item Name="CT 1 JM HD T2">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
+				<Item Name="CT 1 SM HD T2">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
 			<File>CT1 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CT1">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Bratislava</Provider>
-			</Item>
-			<Item Name="CT 1">
-				<Provider>Terrestrial Praha</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="CT1">
+					<Provider>Terrestrial Bratislava</Provider>
+				</Item>
+				<Item Name="CT 1">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>CT1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CT24 HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CT 24 HD">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="CT 24 HD T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="CT24 HD" />
+				<Item Name="CT 24 HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="CT 24 HD T2">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
 			<File>CT24 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CT24">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CT 24">
-				<Provider>Terrestrial Praha</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="CT24" />
+				<Item Name="CT 24">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>CT24.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CT2 HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CT 2 HD">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="CT 2 HD T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="CT2 HD" />
+				<Item Name="CT 2 HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="CT 2 HD T2">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
 			<File>CT2 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CT2">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Bratislava</Provider>
-			</Item>
-			<Item Name="CT 2">
-				<Provider>Terrestrial Praha</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="CT2">
+					<Provider>Terrestrial Bratislava</Provider>
+				</Item>
+				<Item Name="CT 2">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>CT2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CT3 HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CT 3 HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CT 3 HD T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="CT3 HD" />
+				<Item Name="CT 3 HD" />
+				<Item Name="CT 3 HD T2">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
 			<File>CT3 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CT3">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CT 3">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="CT3" />
+				<Item Name="CT 3" />
 			<File>CT3.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Da Vinci">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Da Vinci" />
 			<File>Da Vinci.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Dajto HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Dajto HD" />
 			<File>Dajto HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Dajto">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Bratislava</Provider>
-			</Item>
+				<Item Name="Dajto">
+					<Provider>Terrestrial Bratislava</Provider>
+				</Item>
 			<File>Dajto.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Das Erste">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Das Erste">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Das Erste.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Datel">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Datel" />
 			<File>Datel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Deluxe Music HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Deluxe Music HD" />
 			<File>Deluxe Music HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Deluxe Music">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Deluxe Music" />
 			<File>Deluxe Music.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Deutsche Welle">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Deutsche Welle">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Deutsche Welle.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Devinskonovoveska Televizia">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Devinskonovoveska Televizia" />
 			<File>Devinskonovoveska Televizia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Digi Sport 1 HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Digi Sport 1 HD" />
 			<File>Digi Sport 1 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Digi Sport 1">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Digi Sport 1" />
 			<File>Digi Sport 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Digi Sport 2 HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Digi Sport 2 HD" />
 			<File>Digi Sport 2 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Digi Sport 2">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Digi Sport 2" />
 			<File>Digi Sport 2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Digi Sport 3 HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Digi Sport 3 HD" />
 			<File>Digi Sport 3 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Digi Sport 3">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Digi Sport 3" />
 			<File>Digi Sport 3.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Digi Sport 5 HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Digi Sport 5 HD" />
 			<File>Digi Sport 5 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Digi Sport 5">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Digi Sport 5" />
 			<File>Digi Sport 5.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Discovery HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Discovery HD" />
 			<File>Discovery HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Discovery">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Bratislava</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Discovery">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Discovery.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Discovery Science HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Discovery Science HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Discovery Science HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Discovery Science">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Discovery Science" />
 			<File>Discovery Science.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Discovery Showcase HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<File>Discovery Science.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Disney Channel">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Disney Channel">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Disney Channel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Disney Junior">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Disney Junior" />
 			<File>Disney Junior.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="DocuBox HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="DocuBox HD" />
 			<File>DocuBox HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Dom Kino">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Dom Kino">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Dom Kino.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Dom Kino Premium">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Dom Kino Premium" />
 			<File>Dom Kino Premium.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Doma HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Doma HD" />
 			<File>Doma HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Doma">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Bratislava</Provider>
-			</Item>
+				<Item Name="Doma">
+					<Provider>Terrestrial Bratislava</Provider>
+				</Item>
 			<File>Doma.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Dorcel TV HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Dorcel TV HD" />
 			<File>Dorcel TV HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Dorcel TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Dorcel TV" />
 			<File>Dorcel TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="DTX HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="DTX HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>DTX HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="DTX">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="DTX" />
 			<File>DTX.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Dubravska Televizia">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Dubravska Televizia" />
 			<File>Dubravska Televizia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Duck TV HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Duck TV HD" />
 			<File>Duck TV HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Duck TV Plus">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Duck TV Plus" />
 			<File>Duck TV Plus.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Duck TV">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Duck TV">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Duck TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Duna HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Duna HD" />
 			<File>Duna HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Duna World HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Duna World HD" />
 			<File>Duna World HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Duna World">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Duna World" />
 			<File>Duna World.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Duna">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Duna" />
 			<File>Duna.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Dusk">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Dusk" />
 			<File>Dusk.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Dvojka HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Dvojka HD">
+					<Provider>Terrestrial Bratislava</Provider>
+				</Item>
 			<File>Dvojka HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Dvojka">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Bratislava</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Dvojka">
+					<Provider>Terrestrial Bratislava</Provider>
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Dvojka.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="EdgeSport HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<File>EdgeSport HD.png</File>
+				<Item Name="EdgeSport" />
+			<File>EdgeSport.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Elektrika TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Elektrika TV" />
 			<File>Elektrika TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="English Club TV HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="English Club TV HD" />
 			<File>English Club TV HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="English Club TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="English Club TV" />
 			<File>English Club TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Epic Drama">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Epic Drama" />
 			<File>Epic Drama.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Epic Drama HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Epic Drama HD" />
 			<File>Epic Drama HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="EroX HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="EroX HD" />
 			<File>EroX HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="EroXXX HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="EroXXX HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>EroXXX HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="EroXXX">
-				<Provider>Terrestrial Bratislava</Provider>
-			</Item>
+				<Item Name="EroXXX">
+					<Provider>Terrestrial Bratislava</Provider>
+				</Item>
 			<File>EroXXX.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="EsportsTV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="ESportsOne" />
+			<File>ESportsOne.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="EsportsTV" />
 			<File>EsportsTV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="EsportsTV HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="EsportsTV HD" />
 			<File>EsportsTV HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Euronews HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Euronews HD" />
 			<File>Euronews HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Euronews">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Euronews" />
 			<File>Euronews.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Eurosport 1 HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Eurosport 1 HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Eurosport 1 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Eurosport">
-				<Provider>Terrestrial Bratislava</Provider>
-			</Item>
-			<Item Name="Eurosport 1">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Eurosport 1">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Eurosport 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Eurosport 2 HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Eurosport 2 HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Eurosport 2 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Eurosport 2">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Bratislava</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Eurosport 2">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Eurosport 2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Eurosport 3 HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Eurosport 3 HD" />
 			<File>Eurosport 3 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Eurosport 4 HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Eurosport 4 HD" />
 			<File>Eurosport 4 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Eurosport 5 HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Eurosport 5 HD" />
 			<File>Eurosport 5 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Extasy / Leo TV">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Extasy Leo TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Extasy 4K" />
+			<File>Extasy 4K.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Extasy / Leo TV">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="Extasy Leo TV" />
 			<File>Extasy Leo TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Extasy TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Extasy TV" />
 			<File>Extasy TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Extreme Sports">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Extreme Sports Channel">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Extreme Sports">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="Extreme Sports Channel" />
 			<File>Extreme Sports Channel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Fashion One 4K">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Fashion One 4K" />
 			<File>Fashion One 4K.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Fashion Television">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Fashion Television" />
 			<File>Fashion Television.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Fashion TV Czech and Slovak HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Fashion TV HD">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Fashion TV Czech and Slovak HD" />
+				<Item Name="Fashion TV HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Fashion TV Czech and Slovak HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Fashion TV Czech and Slovak">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Fashion TV Czech and Slovak" />
 			<File>Fashion TV Czech and Slovak.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="FashionBox HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="FashionBox HD" />
 			<File>FashionBox HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Fast and FunBox">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Fast and FunBox" />
 			<File>Fast and FunBox.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Fast and FunBox HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Fast and FunBox HD" />
 			<File>Fast and FunBox HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Fem3">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Fem3" />
 			<File>Fem3.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="FightBox HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="FightBox HD" />
 			<File>FightBox HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Film Europe HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Film Europe HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Film Europe HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Film Europe+">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Film Europe+ HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Film Europe+" />
+				<Item Name="Film Europe+ HD" />
 			<File>Film EuropePlus.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Film Europe">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Film Europe" />
 			<File>Film Europe.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="FilmBox Arthouse">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="FilmBox Arthouse" />
 			<File>FilmBox Arthouse.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="FilmBox Extra HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="FilmBox Extra HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>FilmBox Extra HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="FilmBox Family">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="FilmBox Family">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>FilmBox Family.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="FilmBox HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="FilmBox HD" />
 			<File>FilmBox HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="FilmBox Plus">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<File>FilmBox Plus.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="FilmBox Premium HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="FilmBox Premium HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>FilmBox Premium HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="FilmBox">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="FilmBox Stars" />
+			<File>FilmBox Stars.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="FilmBox">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>FilmBox.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Film+">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Bratislava</Provider>
-			</Item>
-			<Item Name="Film+ Promo">
-				<Provider>Terrestrial Bratislava</Provider>
-			</Item>
+				<Item Name="Film+">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
 			<File>FilmPlus CZ.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Film+ HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Film+ HD" />
 			<File>FilmPlus HD CZ.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Film+ HD HU">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Film+ HD HU" />
 			<File>FilmPlus HD HU.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Film+ HU">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Film+ HU" />
 			<File>FilmPlus HU.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Fine Living HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<File>Fine Living HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Fine Living">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<File>Fine Living.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Fit HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Fit HD" />
 			<File>Fit HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Folklorika">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Folklorika" />
 			<File>Folklorika.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Food Network HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Food Network HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Food Network HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Food Network">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Food Network" />
 			<File>Food Network.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="France 24 - English">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<File>France 24 - English.png</File>
+				<Item Name="France 24 (en Français)" />
+				<Item Name="France 24 (en Francais)" />
+				<Item Name="France 24">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+			<File>France 24 en Francais.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="France 24 - Francais">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="France 24">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<File>France 24 - Francais.png</File>
+				<Item Name="France 24 (in English)" />
+			<File>France 24 in English.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Fuel TV HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Fuel TV HD" />
 			<File>Fuel TV HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Fun1">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Fun1" />
 			<File>Fun1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="FunBox UHD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="FunBox UHD" />
 			<File>FunBox UHD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Galerie">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="Galerie">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
 			<File>Galerie.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Ginx eSports TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Ginx eSports TV" />
 			<File>Ginx eSports TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Golf Channel HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Golf Channel HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Golf Channel HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Golf Channel">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Golf Channel" />
 			<File>Golf Channel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Gospel Channel">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Gospel Channel" />
 			<File>Gospel Channel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Harmonie TV">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
-			<File>Harmonie TV.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="HBO 2 HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="HBO 2 HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>HBO 2 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="HBO 2">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="HBO 2">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>HBO 2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="HBO 3 HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="HBO 3 HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>HBO 3 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="HBO 3">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="HBO 3">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>HBO 3.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="HBO HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="HBO HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>HBO HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="HBO">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="HBO">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>HBO.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="HD Plus">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="HD Plus" />
 			<File>HD Plus.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Hir TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Hir TV" />
 			<File>Hir TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="History HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="History HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>History HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="History">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="History">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>History.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Hobby TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Hobby TV" />
 			<File>Hobby TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="HRT 1">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="HRT 1" />
 			<File>HRT 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="HRT 2">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="HRT 2" />
 			<File>HRT 2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Huste.TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Huste.TV" />
 			<File>Huste.TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Hustler HD">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Hustler TV HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Hustler HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="Hustler TV HD" />
 			<File>Hustler TV HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Hustler TV">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Hustler TV">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Hustler TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="I-Vysocina.cz">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="I-Vysocina.cz" />
 			<File>I-Vysocina.cz.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="IN TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="ID HD" />
+			<File>ID HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="ID" />
+			<File>ID.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="IN TV" />
 			<File>IN TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Info TV Brno a Jižní Morava">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Info TV Brno a Jižní Morava" />
 			<File>Info TV Brno a Jizni Morava.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Insight TV HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Insight TV HD" />
 			<File>Insight TV HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Insight TV UHD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Insight TV UHD" />
 			<File>Insight TV UHD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Investigation Discovery HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<File>Investigation Discovery HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Investigation Discovery">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<File>Investigation Discovery.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Jednotka HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Bratislava</Provider>
-			</Item>
+				<Item Name="Jednotka HD">
+					<Provider>Terrestrial Bratislava</Provider>
+				</Item>
 			<File>Jednotka HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Jednotka">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Bratislava</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Jednotka">
+					<Provider>Terrestrial Bratislava</Provider>
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Jednotka.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Jihoceska Televize">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Jihoceska TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Jihoceska Televize">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="Jihoceska TV" />
 			<File>Jihoceska TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Jim Jam">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="JimJam">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Jim Jam">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="JimJam" />
 			<File>JimJam.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Joj Cinema HD Plus 1">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Joj Cinema HD Plus 1" />
 			<File>Joj Cinema HD Plus 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Joj Cinema HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Bratislava</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Joj Cinema HD">
+					<Provider>Terrestrial Bratislava</Provider>
+					<Provider>Terrestrial Praha</Provider>
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Joj Cinema HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Joj Cinema">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Joj Cinema Promo">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Joj Cinema" />
+				<Item Name="Joj Cinema Promo" />
 			<File>JOJ Cinema.png</File><!-- Simple filename is JOJ, Source is Joj -->
 		</Channel>
 		<Channel>
-			<Item Name="Joj Family HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Joj Family HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Joj Family HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Joj Family">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Praha</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Joj Family | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="Joj Family">
+					<Provider>Terrestrial Praha</Provider>
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Joj Family.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Joj Plus HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Joj Plus HD" />
 			<File>Joj Plus HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Joj Plus">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Joj Plus">
+					<Provider>Terrestrial Bratislava</Provider>
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Joj Plus.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Jojko">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Jojko">
+					<Provider>Terrestrial Bratislava</Provider>
+				</Item>
 			<File>Jojko.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="KBS World HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="KBS World HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>KBS World HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Kezmarska Televizia">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Kezmarska Televizia" />
 			<File>Kezmarska Televizia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="KiKa">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="KiKa" />
 			<File>KiKa.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Kino Barrandov HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Kino Barrandov HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Kino Barrandov HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Kino Barrandov">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Praha</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Kino Barrandov | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="Kino Barrandov">
+					<Provider>Terrestrial Praha</Provider>
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Kino Barrandov.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="KinoSvet">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
-			<Item Name="KinoSvet | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
-			<Item Name="Kino Svet">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<File>Kino Svet.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Klenot TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Klenot TV">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
 			<File>Klenot TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Kosice Dnes">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Kosice Dnes" />
 			<File>Kosice Dnes.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Lala TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Lala TV" />
 			<File>Lala TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Leo TV Gold">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Leo TV Gold" />
 			<File>Leo TV Gold.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Leo TV HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Leo TV HD 22-06">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
+				<Item Name="Leo TV HD" />
 			<File>Leo TV HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Leo TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Leo TV" />
 			<File>Leo TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Life TV HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Levická Televízna" />
+			<File>Levicka Televizia.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Life TV HD" />
 			<File>Life TV HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Life TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Life TV" />
 			<File>Life TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Lounge TV 4K">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Lounge TV 4K" />
 			<File>Lounge TV 4K.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Lounge TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Lounge TV" />
 			<File>Lounge TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Love Nature 4K">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Love Nature 4K" />
 			<File>Love Nature 4K.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Love Nature HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Love Nature HD" />
 			<File>Love Nature HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="LTV Plus">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="LTV Plus">
+					<Provider>Terrestrial Ostrava</Provider>
+				</Item>
 			<File>LTV Plus.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="LTV1">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="LTV1" />
 			<File>LTV1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Luxe TV HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Luxe TV HD" />
 			<File>Luxe TV HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="M1 HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="M1">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="M1 HD" />
+				<Item Name="M1" />
 			<File>M1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="M2 HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="M2 HD" />
 			<File>M2 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="M2">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="M2" />
 			<File>M2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="M3">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="M3" />
 			<File>M3.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="M4 Sport">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="M4 Sport" />
 			<File>M3.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Man-X">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Man-X" />
 			<File>Man-X.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Markiza HD">
-				<Provider>Terrestrial Bratislava</Provider>
-			</Item>
+				<Item Name="Markiza HD">
+					<Provider>Terrestrial Bratislava</Provider>
+				</Item>
 			<File>Markiza HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Markiza International">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Markiza International" />
 			<File>Markiza International.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Markiza +1 HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Markiza +1 HD" />
 			<File>Markiza Plus 1 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Markiza">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Markiza">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Markiza.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Mestska Televizia Ruzomberok">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Mestska Televizia Ruzomberok" />
 			<File>Mestska Televizia Ruzomberok.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Mestska Televizia Trnava">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Mestska Televizia Trnava" />
 			<File>Mestska Televizia Trnava.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Mezzo Live HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Mezzo Live HD" />
 			<File>Mezzo Live HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Mezzo">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Mezzo">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Mezzo.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Minimax">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Bratislava</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Minimax 06-22">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
+				<Item Name="Minimax promo">
+					<Provider>Terrestrial Bratislava</Provider>
+				</Item>
+				<Item Name="Minimax">
+					<Provider>Terrestrial Bratislava</Provider>
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Minimax.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Mnam TV">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Mnam TV">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Mnam TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Mnau TV">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Mnau TV">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Mnau TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Mooz Dance">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Mooz Dance" />
 			<File>Mooz Dance.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Mooz Dance HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Mooz Dance HD" />
 			<File>Mooz Dance HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Mozi+ HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Mozi+ HD" />
 			<File>Mozi Plus HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Mozi+">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Mozi+" />
 			<File>Mozi Plus.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="MTV Hits">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="MTV 80s" />
+			<File>MTV 80s.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="MTV 90s" />
+			<File>MTV 90s.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="MTV Hits" />
 			<File>MTV Hits.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="MTV Live HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="MTV Live HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>MTV Live HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="MTV Rocks">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<File>MTV Rocks.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="MTV">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="MTV">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>MTV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Music Box TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Music Box TV" />
 			<File>Music Box TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Muzika Pervogo">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Muzika Pervogo" />
 			<File>Muzika Pervogo.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Muzsika TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Muzyka">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Muzsika TV" />
+				<Item Name="Muzyka">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Muzsika TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="My Zen TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="My Zen TV" />
 			<File>My Zen TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="NASA TV UHD | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
-			<Item Name="NASA UHD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="NASA UHD" />
 			<File>NASA UHD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Nat Geo Wild HD">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="National Geographic Wild HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<File>National Geographic Wild HD.png</File>
+				<Item Name="Nat Geo Wild HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="National Geographic Wild HD" />
+			<File>National Geographic Wild HD AU.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="National Geographic Wild">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<File>National Geographic Wild.png</File>
+				<Item Name="National Geographic Wild">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
+			<File>National Geographic Wild FR.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="National Geographic HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Nat Geo HD">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="National Geographic HD">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
+				<Item Name="Nat Geo HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>National Geographic HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="National Geographic">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Nat Geo">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="National Geographic" />
+				<Item Name="Nat Geo">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="NGC">
+					<Provider>Terrestrial Bratislava</Provider>
+				</Item>
 			<File>National Geographic.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Nautical Channel">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Nautical Channel" />
 			<File>Nautical Channel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="NetViet">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="NetViet" />
 			<File>NetViet.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Nick Jr">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Nick Jr.">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Nick Jr" />
+				<Item Name="Nick Jr.">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Nick Jr.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Nickelodeon HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Nickelodeon HD" />
 			<File>Nickelodeon HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Nickelodeon">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Nickelodeon">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Nickelodeon.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Nicktoons">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Nicktoons" />
 			<File>Nicktoons.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Nova 2 HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Nova 2  HD">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Nova 2 HD" />
+				<Item Name="Nova 2  HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Nova 2 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Nova 2">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Praha</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Nova 2 | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="Nova 2">
+					<Provider>Terrestrial Praha</Provider>
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Nova 2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Nova Action HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Nova Action HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Nova Action HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Nova Action">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Praha</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Nova Action | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="Nova Action">
+					<Provider>Terrestrial Praha</Provider>
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Nova Action.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Nova Cinema HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Nova Cinema HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Nova Cinema HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Nova Cinema">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Praha</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Nova Cinema | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="Nova Cinema">
+					<Provider>Terrestrial Praha</Provider>
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Nova Cinema HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Nova Gold HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Nova Gold HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Nova Gold HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Nova Gold">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Praha</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Nova Gold | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="Nova Gold">
+					<Provider>Terrestrial Praha</Provider>
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Nova Gold.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Nova HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Nova HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Nova HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Nova International">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Nova International" />
 			<File>Nova International.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Nova +1 HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Nova +1 HD" />
 			<File>Nova Plus 1 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Nova +1">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Nova +1" />
 			<File>Nova Plus 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Nova Sport 1 HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Nova Sport 1 HD">
+					<Provider>Terrestrial Bratislava</Provider>
+					<Provider>Terrestrial Praha</Provider>
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Nova Sport 1 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Nova Sport 1">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Nova Sport 1">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Nova Sport 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Nova Sport 2 HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Nova Sport 2 HD">
+					<Provider>Terrestrial Praha</Provider>
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Nova Sport 2 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Nova Sport 2">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Nova Sport 2" />
 			<File>Nova Sport 2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Nova">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Praha</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Nova | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="Nova">
+					<Provider>Terrestrial Praha</Provider>
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Nova.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="O!">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="O!" />
 			<File>O.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Ocko Black HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Ocko Black HD" />
 			<File>Ocko Black HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Ocko Black">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Ocko Black">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
 			<File>Ocko Black.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Ocko Expres HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Ocko Expres HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Ocko Expres HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Ocko Expres">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="Ocko Expres SD">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
 			<File>Ocko Expres.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Ocko HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Ocko HD" />
 			<File>Ocko HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Ocko Star HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Ocko Star HD" />
 			<File>Ocko Star HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Ocko Star">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
-			<Item Name="Ocko Star | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="Ocko Star">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
 			<File>Ocko Star.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Ocko">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Praha</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Ocko | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="Ocko">
+					<Provider>Terrestrial Praha</Provider>
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Ocko.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Oik TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Oik TV" />
 			<File>Oik TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Orange Sport">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Orange Infokanal" />
+			<File>Orange Infokanal.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Orange Sport" />
 			<File>Orange Sport.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="ORF 1">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Orange Sport 2" />
+			<File>Orange Sport 2.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Orange Sport 3" />
+			<File>Orange Sport 3.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Orange Sport 4" />
+			<File>Orange Sport 4.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="ORF 1">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>ORF 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="ORF 2">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="ORF 2">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>ORF 2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Otta - Interaktivna Sluzba">
-				<Provider>Terrestrial Bratislava</Provider>
-			</Item>
-			<Item Name="Otta">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Video Bar">
-				<Provider>Terrestrial Bratislava</Provider>
-			</Item>
+				<Item Name="Otta - Interaktivna Sluzba">
+					<Provider>Terrestrial Bratislava</Provider>
+				</Item>
+				<Item Name="Otta" />
 			<File>Otta.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Outdoor Channel">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Outdoor Channel" />
 			<File>Outdoor Channel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Outdoor Channel HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Outdoor Channel HD" />
 			<File>Outdoor Channel HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="OzoneTV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="OzoneTV" />
 			<File>OzoneTV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Park TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Paramount Network">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
+			<File>Paramount Network.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Park TV" />
 			<File>Park TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Penthouse Gold">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Penthouse Gold" />
 			<File>Penthouse Gold.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Penthouse Passion">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Penthouse Passion" />
 			<File>Penthouse Passion.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Penthouse Quickies">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Penthouse Quickies" />
 			<File>Penthouse Quickies.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Plzen TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Piešťany TV" />
+			<File>Piestany TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Plzen TV" />
 			<File>Plzen TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Pobeda">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Pobeda" />
 			<File>Pobeda.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Poehali TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Poehali TV" />
 			<File>Poehali TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Polar">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Polar">
+					<Provider>Terrestrial Ostrava</Provider>
+				</Item>
 			<File>Polar.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Polar2">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Polar2" />
 			<File>Polar2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Power TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<File>Power TV.png</File>
+				<Item Name="Pornhub TV" />
+			<File>Pornhub TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Power TV HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Power TV HD" />
 			<File>Power TV HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Praha TV">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="Power TV" />
+			<File>Power TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Praha TV">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
 			<File>Praha TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Premier Sport">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Premier Sport" />
 			<File>Premier Sport.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Prima Comedy Central">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Praha</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Prima Comedy Central | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
-			<File>Prima Comedy Central.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Prima Cool HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Prima Cool HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Prima Cool HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Prima Cool">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Bratislava</Provider>
-				<Provider>Terrestrial Praha</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Prima Cool  | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="Prima Cool">
+					<Provider>Terrestrial Bratislava</Provider>
+					<Provider>Terrestrial Praha</Provider>
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Prima Cool.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Prima HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Prima HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Prima HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Prima Krimi HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Prima Krimi HD" />
 			<File>Prima Krimi HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Prima Krimi">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
-			<Item Name="Prima Krimi | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="Prima Krimi">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
 			<File>Prima Krimi.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Prima Love HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Prima Love HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Prima Love HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Prima Love">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Praha</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Prima Love | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="Prima Love">
+					<Provider>Terrestrial Praha</Provider>
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Prima Love.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Prima Max HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Prima Max HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Prima Max HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Prima Max">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
-			<Item Name="Prima Max | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="Prima Max">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
 			<File>Prima Max.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Prima +1 HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Prima +1 HD" />
 			<File>Prima Max.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Prima +1 | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
-			<Item Name="Prima +1">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Prima +1">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
 			<File>Prima Plus 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Prima Plus HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Prima Plus HD" />
 			<File>Prima Plus HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Prima Plus">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Bratislava</Provider>
-			</Item>
+				<Item Name="Prima Plus">
+					<Provider>Terrestrial Bratislava</Provider>
+				</Item>
 			<File>Prima Plus.png</File>
+		</Channel>>
+		<Channel>
+				<Item Name="Prima Star">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
+			<File>Prima Star.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Prima Zoom HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Prima Zoom HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Prima Zoom HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Prima Zoom">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Praha</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Prima Zoom | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="Prima Zoom">
+					<Provider>Terrestrial Praha</Provider>
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Prima Zoom.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Prima">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Praha</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Prima | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="Prima">
+					<Provider>Terrestrial Praha</Provider>
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Prima.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Prime">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Prime" />
 			<File>Prime.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Private TV">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Private TV">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Private TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="ProSieben">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="ProSieben" />
 			<File>ProSieben.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Publika TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Publika TV" />
 			<File>Publika TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai 1">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Rai 1" />
 			<File>Rai 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rai News24">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Rai News24" />
 			<File>Rai News24.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Reality Kings TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Reality Kings TV" />
 			<File>Reality Kings TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rebel">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
-			<Item Name="TV Rebel | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="Rebel">
+					<Provider>Vodafone (CZ)</Provider>
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
 			<File>Rebel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Redlight HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Redlight HD" />
 			<File>Redlight HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Regionalnitelevize.cz">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Regionalni Televize.cz">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="RT Ustecko">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Regionalnitelevize.cz" />
+				<Item Name="Regionalni Televize.cz">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="RT Ustecko">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Regionalnitelevize.cz.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Regiony+">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="RegionyPlus">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Regiony+">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="RegionyPlus" />
 			<File>RegionyPlus.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Relax HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Relax HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Relax HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Relax">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Praha</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="TV Relax | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="Relax">
+					<Provider>Terrestrial Praha</Provider>
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Relax.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Retro Music TV | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
-			<Item Name="Retro Music TV">
-				<Provider>Terrestrial Praha</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Retro">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Retro Music TV">
+					<Provider>Terrestrial Praha</Provider>
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="Retro" />
 			<File>Retro.png</File>
 		</Channel>
 		<Channel>
-		<!-- Closes 01/01/2020-->
-			<Item Name="Rik HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<File>Rik HD.png</File>
-		</Channel>
-		<Channel>
-		<!-- Closes 01/01/2020-->
-			<Item Name="Rik">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Bratislava</Provider>
-			</Item>
-			<File>Rik.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="RT Documentary HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="RT Documentary HD" />
 			<File>RT Documentary HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RT HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Russia Today HD">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="RT HD" />
+				<Item Name="Russia Today HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>RT HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RT">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="RT" />
 			<File>RT.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RTG TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="RTG TV" />
 			<File>RTG TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RTL Gold">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="RTL Gold" />
 			<File>RTL Gold.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RTL Klub">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="RTL Klub" />
 			<File>RTL Klub.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RTL">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="RTL" />
 			<File>RTL.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RTL2">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="RTL2" />
 			<File>RTL2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RTL2 HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="RTL2 HD" />
 			<File>RTL2 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RTL+">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="RTL+" />
 			<File>RTLPlus.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RTLZwei">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="RTLZwei" />
 			<File>RTLZwei.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RTM Plus">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="RTM Plus" />
 			<File>RTM Plus.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RTR Planeta">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="RTR Planeta" />
 			<File>RTR Planeta.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RTV Krea">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="RTV Krea" />
 			<File>RTV Krea.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sat.1">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Sat.1" />
 			<File>Sat.1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Shorts TV HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Shorts TV HD" />
 			<File>Shorts TV HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sky News">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Sky News" />
 			<File>Sky News.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Skylink 7 HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Skylink 7 HD" />
 			<File>Skylink 7 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Skylink 7">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Skylink 7" />
 			<File>Skylink 7.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Slager TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Slager TV" />
 			<File>Slager TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Slagr 2">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
-			<Item Name="Slagr 2 | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="Slágr 2" />
 			<File>Slagr 2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Slagr TV">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Praha</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Slagr TV | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="Slágr Premium" />
+			<File>Slagr Premium.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Slágr TV" />
+				<Item Name="Slagr TV | MUX24">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
+				<Item Name="Slagr TV">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Slagr TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="SorozatPlus">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="SorozatPlus" />
 			<File>SorozatPlus.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Spartak TV HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Spartak TV HD" />
 			<File>Spartak TV HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Spartak TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Spartak TV" />
 			<File>Spartak TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Spektrum HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<File>Spektrum HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Spektrum Home">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Spektrum Home">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Spektrum Home.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Spektrum">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Spektrum">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Spektrum.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Spice">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Spice" />
 			<File>Spice.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sport 1 HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Sport 1 HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Sport 1 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sport 1">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Bratislava</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Sport 1">
+					<Provider>Terrestrial Bratislava</Provider>
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Sport 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sport 2 HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Bratislava</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Sport 2 HD">
+					<Provider>Terrestrial Bratislava</Provider>
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Sport 2 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sport 2 Promo">
-				<Provider>Terrestrial Bratislava</Provider>
-			</Item>
-			<Item Name="Sport 2">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Sport 2">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Sport 2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sport5">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Sport 5">
-				<Provider>Terrestrial Praha</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Sport5" />
+				<Item Name="Sport 5">
+					<Provider>Terrestrial Praha</Provider>
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Sport5.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Stingray Classica">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Stingray Classica" />
 			<File>Stingray Classica.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="C Music">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Stingray CMusic">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="C Music">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="Stingray CMusic" />
 			<File>Stingray CMusic.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Stingray Djazz">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Stingray Djazz" />
 			<File>Stingray Djazz.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Stingray iConcerts">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Stingray iConcerts" />
 			<File>Stingray iConcerts.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Story4">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Story4" />
 			<File>Story4.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Strakonicka Televize">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Strakonicka Televize" />
 			<File>Strakonicka Televize.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Super TV2">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Stredoslovenská Televízia" />
+			<File>Stredoslovenska Televizia.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Super TV2" />
 			<File>Super TV2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="SuperOne HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="SuperOne HD" />
 			<File>SuperOne HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TA3">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Bratislava</Provider>
-			</Item>
-			<Item Name="TA 3">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="TA3 HD">
+					<Provider>Terrestrial Bratislava</Provider>
+				</Item>
+				<Item Name="TA3" />
+				<Item Name="TA 3">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>TA3.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TCM">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TCM" />
 			<File>TCM.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Telecafe">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Telecafe" />
 			<File>Telecafe.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Televize Filmpro">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Televize Filmpro" />
 			<File>Televize Filmpro.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Seznam.cz TV">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
-			<Item Name="Seznam.cz TV | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
-			<Item Name="Televize Seznam">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Seznam.cz TV">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
+				<Item Name="Televize Seznam" />
 			<File>Televize Seznam.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Televize TVS">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="TVS">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Televize TVS" />
+				<Item Name="TVS">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Televize TVS.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Televize Vysocina">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Televize Vysocina" />
 			<File>Televize Vysocina.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Televize Zak">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Televize Zak">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Televize Zak.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Televizia Central">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Televizia Central" />
 			<File>Televizia Central.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Televizia Dolny Kubin">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Televizia Dolny Kubin" />
 			<File>Televizia Dolny Kubin.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Televizia Reduta">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<File>Televizia Reduta.png</File>
+				<Item Name="Televízia Hronka" />
+			<File>Televizia Hronka.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Televizia Lux HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Televízia Lifestyle TV" />
+			<File>Televizia Lifestyle TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Televizia Lux HD" />
+				<Item Name="TV Lux HD">
+					<Provider>Terrestrial Bratislava</Provider>
+				</Item>
 			<File>Televizia Lux HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Televizia Lux">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="TV Lux">
-				<Provider>Terrestrial Bratislava</Provider>
-			</Item>
+				<Item Name="Televizia Lux" />
+				<Item Name="TV Lux" />
 			<File>Televizia Lux.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Televizia Nove Zamky">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Televizia Nove Zamky" />
 			<File>Televizia Nove Zamky.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Televizia Senior">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Televizia Reduta" />
+			<File>Televizia Reduta.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Televizia Senior" />
 			<File>Televizia Senior.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Televizia Senzi HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Televizia Senzi HD" />
 			<File>Televizia Senzi HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Televizia Senzi">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Televizia Senzi" />
 			<File>Televizia Senzi.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Televízia TV7">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Televízia Turiec" />
+			<File>Televizia Turiec.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Televízia TV7" />
 			<File>Televizia TV7.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Terapie TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Televízia Východ" />
+			<File>Televizia Vychod.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Terapie TV" />
 			<File>Terapie TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Fishing and Hunting">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="The Fishing and Hunting Channel">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Fishing and Hunting">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="The Fishing and Hunting Channel" />
 			<File>The Fishing and Hunting Channel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="The Qyou">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="The Qyou" />
 			<File>The Qyou.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TLC">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="TLC">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>TLC.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Trace Caribbean">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Trace Caribbean" />
 			<File>Trace Caribbean.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Trace Urban">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Trace Urban" />
 			<File>Trace Urban.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Travel Channel HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Travel Channel HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Travel Channel HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Travel Channel">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Travel Channel" />
 			<File>Travel Channel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Travelxp 4K HDR">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Travelxp 4K HDR" />
 			<File>Travelxp 4K HDR.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Travelxp HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Travelxp HD" />
 			<File>Travelxp HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Trojka">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Bratislava</Provider>
-			</Item>
+				<Item Name="Trojka">
+					<Provider>Terrestrial Bratislava</Provider>
+				</Item>
 			<File>Trojka.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Trojka HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Trojka HD">
+					<Provider>Terrestrial Bratislava</Provider>
+				</Item>
 			<File>Trojka HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Tuki TV HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Tuki TV HD" />
 			<File>Tuki TV HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Tuki TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Tuki TV" />
 			<File>Tuki TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Adamov">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV Adamov" />
 			<File>TV Adamov.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Barrandov TV HD">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="TV Barrandov HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Barrandov TV HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="TV Barrandov HD" />
 			<File>TV Barrandov HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Barrandov TV">
-				<Provider>Terrestrial Praha</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Barrandov TV | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
-			<Item Name="TV Barrandov">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Barrandov TV">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="TV Barrandov">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
 			<File>TV Barrandov.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Beskyd">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV Beskyd" />
 			<File>TV Beskyd.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Bratislava">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV Bratislava" />
 			<File>TV Bratislava.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Brno 1">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV Brno 1" />
 			<File>TV Brno 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Dakr">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV Dakr" />
 			<File>TV Dakr.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Fonka">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV Fonka" />
 			<File>TV Fonka.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Jecko">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV Jecko" />
 			<File>TV Jecko.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Joj HD">
-				<Provider>Terrestrial Bratislava</Provider>
-			</Item>
-			<Item Name="TV Joj HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Joj HD">
+					<Provider>Terrestrial Bratislava</Provider>
+				</Item>
+				<Item Name="TV Joj HD" />
 			<File>TV Joj HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Joj Plus 1 HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV Joj Plus 1 HD" />
 			<File>TV Joj Plus 1 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Joj">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Bratislava</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="TV Joj">
+					<Provider>Terrestrial Bratislava</Provider>
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>TV Joj.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Karpaty">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV Karpaty" />
 			<File>TV Karpaty.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Levoca">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV Levoca" />
 			<File>TV Levoca.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Liptov">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV Liptov" />
 			<File>TV Liptov.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV LocAll">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV LocAll" />
 			<File>TV LocAll.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Morava">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV Morava" />
 			<File>TV Morava.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Natura">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV Natura" />
 			<File>TV Natura.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Nitricka">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV Nitricka" />
 			<File>TV Morava.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Noe TV">
-				<Provider>Terrestrial Praha</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Noe TV | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
-			<Item Name="Noe TV HD">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
-			<Item Name="TV Noe">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Noe TV">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="TV Noe">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
 			<File>TV Noe.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Paprika">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="TV Oravia" />
+			<File>TV Oraviapng</File>
+		</Channel>
+		<Channel>
+				<Item Name="TV Paprika">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>TV Paprika.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Pezinok">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV Pezinok" />
 			<File>TV Pezinok.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Pohoda">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV Pohoda" />
 			<File>TV Pohoda.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Poprad">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV Poprad" />
 			<File>TV Poprad.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Povazie">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV Povazie" />
 			<File>TV Povazie.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Puchov">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV Puchov" />
 			<File>TV Puchov.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Raj HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV Raj HD" />
 			<File>TV Raj HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Rimava">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV Rimava" />
 			<File>TV Rimava.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Romana">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV Romana" />
 			<File>TV Romana.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Ruzinov">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV Ruzinov" />
 			<File>TV Ruzinov.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Sen">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV Sen" />
 			<File>TV Sen.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Severka">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV Severka" />
 			<File>TV Severka.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Skalica">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV Skalica" />
 			<File>TV Skalica.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Sonce">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV Sonce" />
 			<File>TV Sonce.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Stara Tura">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV Stara Tura" />
 			<File>TV Stara Tura.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV SudEst">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV SudEst" />
 			<File>TV SudEst.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Vega">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV Vega" />
 			<File>TV Vega.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV2">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV2" />
 			<File>TV2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV4">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV4" />
 			<File>TV4.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV5Monde Europe">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="TV 5 Monde">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="TV5Monde Europe" />
+				<Item Name="TV 5 Monde">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>TV5Monde Europe.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV8">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Bratislava</Provider>
-			</Item>
+				<Item Name="TV8" />
 			<File>TV8.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV9">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV9" />
 			<File>TV9.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV1000 Russkoe Kino">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TV1000 Russkoe Kino" />
 			<File>TV1000 Russkoe Kino.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TVB Brezova">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TVB Brezova" />
 			<File>TVB Brezova.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TVE Internacional">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TVE Internacional" />
 			<File>TVE Internacional.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TVM Myjava">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TVM Myjava" />
 			<File>TVM Myjava.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TVP Info">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TVP Info" />
 			<File>TVP Info.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TVP Polonia">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TVP Polonia" />
 			<File>TVP Polonia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TVP1">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TVP1" />
 			<File>TVP1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TVT Turzovska Television">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="TVT Turzovska Television" />
 			<File>TVT Turzovska Television.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="U TV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="U TV" />
 			<File>U TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="UATV">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="UATV" />
 			<File>UATV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Up Network">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Up Network" />
 			<File>Up Network.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="UPC Show HD">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="UPC Show HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>UPC Show HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="VH1 Classic">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="VH 1 Classic">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<File>VH1 Classic.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="VH1">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Bratislava</Provider>
-			</Item>
-			<Item Name="VH 1">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="VH1">
+					<Provider>Terrestrial Bratislava</Provider>
+				</Item>
+				<Item Name="VH 1">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>VH1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Viasat Explore Promo">
-				<Provider>Terrestrial Bratislava</Provider>
-			</Item>
-			<Item Name="Viasat Explore">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Bratislava</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Viasat Explore">
+					<Provider>Terrestrial Bratislava</Provider>
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Viasat Explore.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Viasat Nature / History HD">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Viasat History Viasat Nature HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Viasat Nature / History HD">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="Viasat History Viasat Nature HD" />
 			<File>Viasat History Viasat Nature HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Viasat History Promo">
-				<Provider>Terrestrial Bratislava</Provider>
-			</Item>
-			<Item Name="Viasat History">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Bratislava</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Viasat History">
+					<Provider>Terrestrial Bratislava</Provider>
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
 			<File>Viasat History.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Viasat Nature Promo">
-				<Provider>Terrestrial Bratislava</Provider>
-			</Item>
-			<Item Name="Viasat Nature">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Bratislava</Provider>
-			</Item>
+				<Item Name="Viasat Nature HD">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
+			<File>Viasat Nature HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Viasat Nature">
+					<Provider>Terrestrial Bratislava</Provider>
+				</Item>
 			<File>Viasat Nature.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Viasat3">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Viasat3" />
 			<File>Viasat3.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Viasat6">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Viasat6" />
 			<File>Viasat6.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Viva">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Viva" />
 			<File>Viva.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Vivid TV Europe">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Vivid TV Europe" />
 			<File>Vivid TV Europe.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Vremja">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Vremya">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Vixen" />
+			<File>Vixen.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Vremja">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="Vremya">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Vremya.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="VTV1">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="VTV1" />
 			<File>VTV1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="VTV3">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="VTV3" />
 			<File>VTV3.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="VTV4">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="VTV 4">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="VTV4" />
+				<Item Name="VTV 4">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>VTV4.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Vychodoceska Televize">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="V 1">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="V1 | T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="Vychodoceska Televize" />
+				<Item Name="V 1">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Vychodoceska Televize.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Wau HD">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Východoslovenská Televízia" />
+			<File>Vychodoslovenska Televizia.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Vypni TV" />
+			<File>Vypni TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Wau HD" />
 			<File>Wau HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Wau">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Wau">
-				<Provider>Terrestrial Bratislava</Provider>
-			</Item>
+				<Item Name="Wau">
+					<Provider>Terrestrial Bratislava</Provider>
+				</Item>
 			<File>Wau.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Welt">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Welt" />
 			<File>Welt.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="XMO">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="XMO" />
 			<File>XMO.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Z24">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
-			<File>Z24.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Zapadoslovenska Televizia">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Zapadoslovenska Televizia" />
 			<File>Zapadoslovenska Televizia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="ZDF">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="ZDF">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>ZDF.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Zzip">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Zzip" />
 			<File>Zzip.png</File>
 		</Channel>
 	</TV>
 <!-- ******************************************************************** -->
 	<Radio>
 		<Channel>
-			<Item Name="BBC World Service">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Radio BBC CZ">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="BBC World Service" />
+				<Item Name="Radio BBC CZ">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>BBC World Service.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cesky Impuls">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
-			<Item Name="Radio Cesky Impuls">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Cesky Impuls">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
+				<Item Name="Radio Cesky Impuls">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Cesky Impuls.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cesky rozhlas Brno">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CRo Brno">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Cesky rozhlas Brno" />
+				<Item Name="CRo Brno">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Cesky rozhlas Brno.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cesky rozhlas Budejovice">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CRo Ceske Budejovice">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Cesky rozhlas Budejovice" />
+				<Item Name="CRo Ceske Budejovice">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Cesky rozhlas Budejovice.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cesky rozhlas D-dur">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CRo D-dur">
-				<Provider>Terrestrial Praha</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="CRo D-dur T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="Cesky rozhlas D-dur" />
+				<Item Name="CRo D-dur">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="CRo D-dur T2">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
 			<File>Cesky rozhlas D-dur.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cesky rozhlas Dvojka">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CRo Dvojka">
-				<Provider>Terrestrial Praha</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="CRo Dvojka T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="Cesky rozhlas Dvojka" />
+				<Item Name="CRo Dvojka">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="CRo Dvojka T2">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
 			<File>Cesky rozhlas Dvojka.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cesky rozhlas Hradec Kralove">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CRo Hradec Kralove">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Cesky rozhlas Hradec Kralove" />
+				<Item Name="CRo Hradec Kralove">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Cesky rozhlas Hradec Kralove.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cesky rozhlas Jazz">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CRo Jazz">
-				<Provider>Terrestrial Praha</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="CRo Jazz T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="Cesky rozhlas Jazz" />
+				<Item Name="CRo Jazz">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="CRo Jazz T2">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
 			<File>Cesky rozhlas Jazz.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cesky rozhlas Karlovy Vary">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CRo Karlovy Vary">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Cesky rozhlas Karlovy Vary" />
+				<Item Name="CRo Karlovy Vary">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Cesky rozhlas Karlovy Vary.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cesky rozhlas Liberec">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CRo Liberec">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Cesky rozhlas Liberec" />
+				<Item Name="CRo Liberec">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Cesky rozhlas Liberec.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cesky rozhlas Olomouc">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CRo Olomouc">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Cesky rozhlas Olomouc" />
+				<Item Name="CRo Olomouc">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Cesky rozhlas Olomouc.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cesky rozhlas Ostrava">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CRo Ostrava">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Cesky rozhlas Ostrava" />
+				<Item Name="CRo Ostrava">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Cesky rozhlas Ostrava.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cesky rozhlas Pardubice">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CRo Pardubice">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Cesky rozhlas Pardubice" />
+				<Item Name="CRo Pardubice">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Cesky rozhlas Pardubice.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cesky rozhlas Plus">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CRo Plus">
-				<Provider>Terrestrial Praha</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="CRo Plus T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="Cesky rozhlas Plus" />
+				<Item Name="CRo Plus">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="CRo Plus T2">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
 			<File>Cesky rozhlas Plus.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cesky rozhlas Plzen">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CRo Plzen">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Cesky rozhlas Plzen" />
+				<Item Name="CRo Plzen">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Cesky rozhlas Plzen.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cesky rozhlas Radio Prague International">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CRo Radio Praha">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Cesky rozhlas Radio Prague International" />
+				<Item Name="CRo Radio Praha">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Cesky rozhlas Radio Prague International.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cesky rozhlas Radiozurnal">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CRo Radiozurnal">
-				<Provider>Terrestrial Praha</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="CRo Radiozurnal T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="Cesky rozhlas Radiozurnal Sport" />
+				<Item Name="CRo Radiozurnal Sport" />
+				<Item Name="CRo RZ Sport T2">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
+			<File>Cesky rozhlas Radiozurnal Sport.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Cesky rozhlas Radiozurnal" />
+				<Item Name="CRo Radiozurnal">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="CRo Radiozurnal T2">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
 			<File>Cesky rozhlas Radiozurnal.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cesky rozhlas Regina DAB Praha">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CRo Regina">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Cesky rozhlas Regina DAB Praha" />
+				<Item Name="CRo Regina">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Cesky rozhlas Regina DAB Praha.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cesky rozhlas Region">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CRo Region">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Cesky rozhlas Region" />
+				<Item Name="CRo Region">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Cesky rozhlas Region.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cesky rozhlas Region Praha a stredni Cechy">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CRo Region St. Cechy">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Cesky rozhlas Region Praha a stredni Cechy" />
+				<Item Name="CRo Region St. Cechy">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Cesky rozhlas Region Praha a stredni Cechy.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cesky rozhlas Radio Retro">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CRo Retro">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Cesky rozhlas Radio Retro" />
+				<Item Name="CRo Retro">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Cesky rozhlas Radio Retro.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cesky rozhlas Sever">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CRo Sever">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Cesky rozhlas Sever" />
+				<Item Name="CRo Sever">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Cesky rozhlas Sever.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cesky rozhlas Vltava">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CRo Vltava">
-				<Provider>Terrestrial Praha</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="CRo Vltava T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
+				<Item Name="Cesky rozhlas Vltava" />
+				<Item Name="CRo Vltava">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="CRo Vltava T2">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
 			<File>Cesky rozhlas Vltava.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cesky rozhlas Vysocina">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CRo Vysocina">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Cesky rozhlas Vysocina" />
+				<Item Name="CRo Vysocina" />
 			<File>Cesky rozhlas Vysocina.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cesky rozhlas Zlin">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="CRo Zlin">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Cesky rozhlas Zlin" />
+				<Item Name="CRo Zlin" />
 			<File>Cesky rozhlas Zlin.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Classic FM">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Radio Classic FM">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Classic FM" />
+				<Item Name="Radio Classic FM">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Classic FM.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Classic Praha">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Radio Classic Praha">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Classic Praha" />
+				<Item Name="Radio Classic Praha">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Classic Praha.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Color Music Radio">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Radio Color">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Color Music Radio" />
+				<Item Name="Radio Color">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Color Music Radio.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Country Radio">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Radio Country Radio">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Country Radio" />
+				<Item Name="Radio Country Radio">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Country Radio.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Dance Radio">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Dance Radio" />
 			<File>Dance Radio.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Egrensis Radio">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Radio Egrensis">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Egrensis Radio" />
+				<Item Name="Radio Egrensis">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Egrensis Radio.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Europa 2">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Radio Europa 2">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Europa 2" />
+				<Item Name="Radio Europa 2">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Europa 2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Evropa 2">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Radio Evropa 2 CZ">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Evropa 2" />
+				<Item Name="Radio Evropa 2 CZ">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Evropa 2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Expres FM">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Radio Expres Radio">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Expres FM" />
+				<Item Name="Radio Expres Radio">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Expres FM.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Fajn North Music">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Radio Fajn North Music">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Fajn North Music" />
+				<Item Name="Radio Fajn North Music">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Fajn North Music.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Fajn Radio">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Radio Fajn Radio">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Fajn Radio" />
+				<Item Name="Radio Fajn Radio">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Fajn Radio.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Frekvence 1">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Radio Frekvence 1">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Frekvence 1" />
+				<Item Name="Radio Frekvence 1">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Frekvence 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Hey Radio">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Hey Radio" />
 			<File>Hey Radio.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Hitradio City 93,7 FM">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Radio City 93,7FM">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Hitradio City 93,7 FM" />
+				<Item Name="Radio City 93,7FM">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Hitradio City 93,7 FM.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Hitradio Faktor">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Radio Hitradio Faktor">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Hitradio Faktor" />
+				<Item Name="Radio Hitradio Faktor">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Hitradio Faktor.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Hitradio FM">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Radio Hitradio FM">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Hitradio FM" />
+				<Item Name="Radio Hitradio FM">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Hitradio FM.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Hitradio FM Plus">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Radio Hitradio FM Plus">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Hitradio FM Plus" />
+				<Item Name="Radio Hitradio FM Plus">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Hitradio FM Plus.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Hitradio O3">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Radio OE3">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Hitradio O3" />
+				<Item Name="Radio OE3">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Hitradio O3.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Hitradio Orion">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Radio Hitradio Orion">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Hitradio Orion" />
+				<Item Name="Radio Hitradio Orion">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Hitradio Orion.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Hitradio Vysocina">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Radio Hitradio Vysocina">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Hitradio Vysocina" />
+				<Item Name="Radio Hitradio Vysocina">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Hitradio Vysocina.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Oldies Radio">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Radio Oldies Radio">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Oldies Radio" />
+				<Item Name="Radio Oldies Radio">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Oldies Radio.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio 1">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Radio 1">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Radio 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio 7">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Radio - 7">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Radio 7" />
+				<Item Name="Radio - 7">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Radio 7.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Aktual">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Aktual" />
 			<File>Radio Aktual.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Antena Rock">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Antena Rock">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Radio Antena Rock.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Beat">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Beat">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Radio Beat.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Best FM">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Best FM">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Radio Best FM.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Blanik">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Blanik">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Radio Blanik.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Bonton">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Bonton">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Radio Bonton.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Cas Rock">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Praha</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Cas Rock">
+					<Provider>Terrestrial Praha</Provider>
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Radio Cas Rock.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Cas">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Praha</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Cas">
+					<Provider>Terrestrial Praha</Provider>
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Radio Cas.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Cerna Hora">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Cerna Hora">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Radio Cerna Hora.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Contact Liberec">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Contact Liberec">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Radio Contact Liberec.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Dalnice">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Dalnice">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
 			<File>Radio Dalnice.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Dechovka">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>Terrestrial Praha</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Dechovka">
+					<Provider>Terrestrial Praha</Provider>
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Radio Dechovka.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Devin">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Devin">
+					<Provider>Terrestrial Bratislava</Provider>
+				</Item>
+				<Item Name="Radio Devin">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Radio Devin.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Expres SK">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Radio Expres">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Expres SK">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="Radio Expres" />
 			<File>Radio Expres.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Fajn Rock Music">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Radio Fajn Rock Life">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Fajn Rock Music" />
+				<Item Name="Radio Fajn Rock Life">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Radio Fajn Rock Music.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio France Internationale">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Radio RFI Francais">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Radio France Internationale" />
+				<Item Name="Radio RFI Francais">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Radio France Internationale.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Hana">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Hana">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Radio Hana.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Helax">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Helax">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Radio Helax.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Impuls">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Impuls">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Radio Impuls.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Jemne">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Jemne">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Radio Jemne.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CRo Radio Junior">
-				<Provider>Terrestrial Praha</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="CRo Radio Junior T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
-			<Item Name="Radio Junior">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="CRo Radio Junior">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="CRo Radio Junior T2">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
+				<Item Name="Radio Junior" />
 			<File>Radio Junior CZ.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Junior SK">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Junior">
+					<Provider>Terrestrial Bratislava</Provider>
+				</Item>
+				<Item Name="Radio Junior SK" />
 			<File>Radio Junior SK.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Kiss Hady">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Kiss Hady">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Radio Kiss Hady.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Kiss Morava">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Kiss Morava">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Radio Kiss Morava.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Kiss 98FM">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Radio Kiss">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Kiss 98FM">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="Radio Kiss" />
 			<File>Radio Kiss.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Krokodyl">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Krokodyl">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Radio Krokodyl.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Litera">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Litera">
+					<Provider>Terrestrial Bratislava</Provider>
+				</Item>
+				<Item Name="Radio Litera" />
 			<File>Radio Litera.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Lumen">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Lumen" />
 			<File>Radio Lumen.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Patria">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="PatriaFM">
+					<Provider>Terrestrial Bratislava</Provider>
+				</Item>
+				<Item Name="PatriaRD">
+					<Provider>Terrestrial Bratislava</Provider>
+				</Item>
+				<Item Name="Radio Patria" />
 			<File>Radio Patria.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Petrov">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Petrov">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Radio Petrov.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Proglas">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
-			<Item Name="Radio Proglas">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Proglas">
+					<Provider>Terrestrial Praha</Provider>
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Radio Proglas.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Pyramida">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Pyramida" />
+				<Item Name="Pyramida">
+					<Provider>Terrestrial Bratislava</Provider>
+				</Item>
 			<File>Radio Pyramida.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Regina">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Regina" />
+				<Item Name="ReginaBA">
+					<Provider>Terrestrial Bratislava</Provider>
+				</Item>
+				<Item Name="ReginaBB">
+					<Provider>Terrestrial Bratislava</Provider>
+				</Item>
+				<Item Name="ReginaKE">
+					<Provider>Terrestrial Bratislava</Provider>
+				</Item>
 			<File>Radio Regina.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Slovakia International">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Radio Slovakia">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Slovakia International" />
+				<Item Name="Radio Slovakia">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="Slovakia">
+					<Provider>Terrestrial Bratislava</Provider>
+				</Item>
 			<File>Radio Slovakia International.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Slovensko">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Slovensko">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="Slovensko">
+					<Provider>Terrestrial Bratislava</Provider>
+				</Item>
 			<File>Radio Slovensko.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Valc 1 - Gold">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Radio Valc 2 - Country">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Radio Valc 3 - Hit">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Radio Valc 4 - Rock">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Radio Valc 5 - Classic">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Radio Valc 6 - Valcarka">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Radio Valc Live">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Valc 1 - Gold">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="Radio Valc 2 - Country">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="Radio Valc 3 - Hit">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="Radio Valc 4 - Rock">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="Radio Valc 5 - Classic">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="Radio Valc 6 - Valcarka">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="Radio Valc Live">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Radio Valc.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Veronica">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Veronica">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Radio Veronica.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Vlna">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Vlna" />
 			<File>Radio Vlna.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CRo Radio Wave">
-				<Provider>Terrestrial Praha</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="CRo Radio Wave T2">
-				<Provider>Terrestrial Praha</Provider>
-			</Item>
-			<Item Name="Radio Wave">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="CRo Radio Wave">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="CRo Radio Wave T2">
+					<Provider>Terrestrial Praha</Provider>
+				</Item>
+				<Item Name="Radio Wave" />
 			<File>Radio Wave.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio ZET">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Radio ZET">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Radio ZET.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio_FM">
-				<Provider>Full Name (CZ)</Provider>
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="Radio_FM">
+					<Provider>Terrestrial Bratislava</Provider>
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>Radio_FM.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio RockZone 105,7FM">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="RockZone 105,9">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Radio RockZone 105,7FM">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="RockZone 105,9" />
 			<File>RockZone 105,9.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio RTL Radio">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="RTL Radio">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Radio RTL Radio">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="RTL Radio" />
 			<File>RTL Radio.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="SeeJay Radio">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
-			<Item Name="Radio SeeJay Radio">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
+				<Item Name="SeeJay Radio" />
+				<Item Name="Radio SeeJay Radio">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
 			<File>SeeJay Radio.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Signal Radio">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Signal Radio">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Signal Radio">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="Signal Radio" />
 			<File>Signal Radio.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Sky Radio">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Sky Radio">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Sky Radio">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="Sky Radio" />
 			<File>Sky Radio.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Spin">
-				<Provider>UPC (CZ)</Provider>
-			</Item>
-			<Item Name="Spin Radio">
-				<Provider>Full Name (CZ)</Provider>
-			</Item>
+				<Item Name="Radio Spin">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+				<Item Name="Spin Radio" />
 			<File>Spin Radio.png</File>
 		</Channel>
 	</Radio>
