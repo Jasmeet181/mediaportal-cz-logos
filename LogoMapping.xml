@@ -1375,6 +1375,13 @@
 			<File>Mozi Plus.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="MTV 00s" />
+				<Item Name="VH1">
+					<Provider>Terrestrial (SK)</Provider><!-- Bratislava -->
+				</Item>
+			<File>MTV 00s.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="MTV 80s" />
 			<File>MTV 80s.png</File>
 		</Channel>
@@ -2552,15 +2559,6 @@
 					<Provider>Vodafone (CZ)</Provider>
 				</Item>
 			<File>UPC Show HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="VH1">
-					<Provider>Terrestrial (SK)</Provider><!-- Bratislava -->
-				</Item>
-				<Item Name="VH 1">
-					<Provider>Vodafone (CZ)</Provider>
-				</Item>
-			<File>VH1.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Viasat Explore">
