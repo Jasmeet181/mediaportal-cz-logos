@@ -1375,8 +1375,7 @@
 			<File>Mozi Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="MTV 00s" />
-				<Item Name="VH1">
+				<Item Name="MTV 00s">
 					<Provider>Terrestrial (SK)</Provider><!-- Bratislava -->
 				</Item>
 			<File>MTV 00s.png</File>
@@ -1666,14 +1665,6 @@
 				</Item>
 				<Item Name="Otta" />
 			<File>Otta.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Outdoor Channel" />
-			<File>Outdoor Channel.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Outdoor Channel HD" />
-			<File>Outdoor Channel HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="OzoneTV" />
