@@ -2,7 +2,13 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
+		13/08/2021 Nova Sport 3 and 4 launch
+		17/08/2021 Premier Sport 2 launches
+		00/08/2021 Digi Sport closes in CZ/SK
 		00/00/2021 JOJ Šport launches
+		00/00/2021 Nova 2 renamed to Nova Fun
+		00/00/2021 Nova Action new logo
+		00/00/2021 Nova Lady launches
 		00/00/2021 RTVS Šport launches
 		-->
 		<!--
@@ -1735,6 +1741,10 @@
 					<Provider>Terrestrial (CZ)</Provider><!-- Praha -->
 				</Item>
 			<File>Praha TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Premier Sport 2" />
+			<File>Premier Sport 2.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Premier Sport" />
