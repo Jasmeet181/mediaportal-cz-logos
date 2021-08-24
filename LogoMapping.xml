@@ -2,7 +2,6 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		00/08/2021 Digi Sport closes in CZ/SK
 		00/00/2021 JOJ Šport launches
 		00/00/2021 Nova 2 renamed to Nova Fun
 		00/00/2021 Nova Action new logo
@@ -541,38 +540,6 @@
 		<Channel>
 				<Item Name="Devinskonovoveska Televizia" />
 			<File>Devinskonovoveska Televizia.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Digi Sport 1 HD" />
-			<File>Digi Sport 1 HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Digi Sport 1" />
-			<File>Digi Sport 1.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Digi Sport 2 HD" />
-			<File>Digi Sport 2 HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Digi Sport 2" />
-			<File>Digi Sport 2.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Digi Sport 3 HD" />
-			<File>Digi Sport 3 HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Digi Sport 3" />
-			<File>Digi Sport 3.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Digi Sport 5 HD" />
-			<File>Digi Sport 5 HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Digi Sport 5" />
-			<File>Digi Sport 5.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Discovery HD" />
@@ -1357,6 +1324,10 @@
 			<File>Mnam TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Mnam TV HD" />
+			<File>Mnam TV HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Mnau TV">
 					<Provider>Vodafone (CZ)</Provider>
 				</Item>
@@ -1757,15 +1728,16 @@
 			<File>Praha TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Premier Sport 2 SK HD" />
-				<Item Name="Premier Sport 2" />
-			<File>Premier Sport 2.png</File>
-		</Channel>
-		<Channel>
+				<Item Name="Premier Sport 1" />
 				<Item Name="Premier Sport CZ HD" />
 				<Item Name="Premier Sport HD" />
 				<Item Name="Premier Sport" />
-			<File>Premier Sport.png</File>
+			<File>Premier Sport 1.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Premier Sport 2 SK HD" />
+				<Item Name="Premier Sport 2" />
+			<File>Premier Sport 2.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Prima Cool HD">
@@ -2466,6 +2438,10 @@
 			<File>TV Raj HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="TV Region" />
+			<File>TV Region.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="TV Rimava" />
 			<File>TV Rimava.png</File>
 		</Channel>
@@ -2504,6 +2480,16 @@
 		<Channel>
 				<Item Name="TV Vega" />
 			<File>TV Vega.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="TV Vita" />
+			<File>TV Vita.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="TV2 Sef." />
+				<Item Name="TV2 Sef" />
+				<Item Name="TV2 Séf" />
+			<File>TV2 Sef.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="TV2" />
