@@ -2474,10 +2474,6 @@
 			<File>TV Stara Tura.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="TV SudEst" />
-			<File>TV SudEst.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="TV Vega" />
 			<File>TV Vega.png</File>
 		</Channel>
@@ -2541,6 +2537,10 @@
 		<Channel>
 				<Item Name="TVP1" />
 			<File>TVP1.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="TVSE Exploris" />
+			<File>TVSE Exploris.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="TVT Turzovska Television" />
