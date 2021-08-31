@@ -761,6 +761,10 @@
 			<File>Eurosport 5 HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Exploris" />
+			<File>Exploris.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Extasy 4K" />
 			<File>Extasy 4K.png</File>
 		</Channel>
@@ -2537,10 +2541,6 @@
 		<Channel>
 				<Item Name="TVP1" />
 			<File>TVP1.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="TVSE Exploris" />
-			<File>TVSE Exploris.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="TVT Turzovska Television" />
