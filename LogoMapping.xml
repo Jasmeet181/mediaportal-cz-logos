@@ -4,7 +4,6 @@
 		<!--
 		20/09/2021 Nova 2 renamed to Nova Fun
 		20/09/2021 Nova Action new logo
-		00/00/2021 JOJ Šport launches
 		00/00/2021 Nova Lady launches
 		00/00/2021 RTVS Šport launches
 		New TV Paprika logo
@@ -1141,6 +1140,13 @@
 					<Provider>Vodafone (CZ)</Provider>
 				</Item>
 			<File>Joj Plus.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Joj Sport HD" />
+				<Item Name="Joj Sport" />
+				<Item Name="Joj Šport HD" />
+				<Item Name="Joj Šport" />
+			<File>Joj Sport.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Jojko">
