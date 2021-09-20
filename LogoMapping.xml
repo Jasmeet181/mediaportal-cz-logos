@@ -2,9 +2,7 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		20/09/2021 Nova 2 renamed to Nova Fun
-		20/09/2021 Nova Action new logo
-		00/00/2021 Nova Lady launches
+		18/10/2021 Nova Lady launches
 		00/00/2021 RTVS Šport launches
 		New TV Paprika logo
 		-->
@@ -1475,20 +1473,6 @@
 			<File>Nicktoons.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Nova 2 HD" />
-				<Item Name="Nova 2  HD">
-					<Provider>Vodafone (CZ)</Provider>
-				</Item>
-			<File>Nova 2 HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Nova 2">
-					<Provider>Terrestrial (CZ)</Provider><!-- Praha -->
-					<Provider>Vodafone (CZ)</Provider>
-				</Item>
-			<File>Nova 2.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Nova Action HD">
 					<Provider>Vodafone (CZ)</Provider>
 				</Item>
@@ -1515,6 +1499,16 @@
 			<File>Nova Cinema HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Nova Fun HD" />
+			<File>Nova Fun HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Nova Fun">
+					<Provider>Terrestrial (CZ)</Provider><!-- Praha -->
+				</Item>
+			<File>Nova Fun.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Nova Gold HD">
 					<Provider>Vodafone (CZ)</Provider>
 				</Item>
@@ -1536,6 +1530,12 @@
 		<Channel>
 				<Item Name="Nova International" />
 			<File>Nova International.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Nova Lady">
+					<Provider>Terrestrial (CZ)</Provider><!-- Praha -->
+				</Item>
+			<File>Nova Lady.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Nova +1 HD" />
@@ -1959,7 +1959,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="RTL" />
-			<File>RTL.png</File>
+			<File>RTL DE.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="RTL2" />
