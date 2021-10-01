@@ -2818,6 +2818,13 @@
 			<File>Cesky rozhlas Plzen.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Cesky rozhlas Pohoda" />
+				<Item Name="CRo Pohoda T2">
+					<Provider>Terrestrial (CZ)</Provider><!-- Praha -->
+				</Item>
+			<File>Cesky rozhlas Pohoda.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Cesky rozhlas Radio Prague International" />
 				<Item Name="CRo Radio Praha">
 					<Provider>Vodafone (CZ)</Provider>
