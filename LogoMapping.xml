@@ -1739,9 +1739,9 @@
 			<File>Praha TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Premier Sport 1 CZ HD" />
+				<Item Name="Premier Sport 1 SK HD" />
 				<Item Name="Premier Sport 1" />
-				<Item Name="Premier Sport CZ HD" />
-				<Item Name="Premier Sport HD" />
 				<Item Name="Premier Sport" />
 			<File>Premier Sport 1.png</File>
 		</Channel>
