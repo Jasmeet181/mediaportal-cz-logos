@@ -3,6 +3,7 @@
 <!-- ******************************************************************** -->
 		<!--
 		18/10/2021 Nova Lady launches
+		25/10/2021 Prima Show launches
 		00/00/2021 RTVS Šport launches
 		New TV Paprika logo
 		-->
@@ -1140,9 +1141,14 @@
 			<File>Joj Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Joj Sport HD" />
-				<Item Name="Joj Sport" />
+				<Item Name="Joj Sport HD">
+					<Provider>Terrestrial (SK)</Provider><!-- Bratislava -->
+				</Item>
 				<Item Name="Joj Šport HD" />
+			<File>Joj Sport HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Joj Sport" />
 				<Item Name="Joj Šport" />
 			<File>Joj Sport.png</File>
 		</Channel>
@@ -1824,7 +1830,13 @@
 					<Provider>Terrestrial (SK)</Provider><!-- Bratislava -->
 				</Item>
 			<File>Prima Plus.png</File>
-		</Channel>>
+		</Channel>
+		<Channel>
+				<Item Name="Prima Show">
+					<Provider>Terrestrial (CZ)</Provider><!-- Praha -->
+				</Item>
+			<File>Prima Show.png</File>
+		</Channel>
 		<Channel>
 				<Item Name="Prima Star">
 					<Provider>Terrestrial (CZ)</Provider><!-- Praha -->
