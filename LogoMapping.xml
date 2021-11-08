@@ -2046,9 +2046,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="Slágr TV" />
-				<Item Name="Slagr TV | MUX24">
-					<Provider>Terrestrial (CZ)</Provider><!-- Praha -->
-				</Item>
 				<Item Name="Slagr TV">
 					<Provider>Vodafone (CZ)</Provider>
 				</Item>
@@ -2275,6 +2272,10 @@
 		<Channel>
 				<Item Name="The Qyou" />
 			<File>The Qyou.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="TLC HD" />
+			<File>TLC HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="TLC">
@@ -3017,13 +3018,6 @@
 			<File>Hitradio Faktor.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Hitradio FM" />
-				<Item Name="Radio Hitradio FM">
-					<Provider>Vodafone (CZ)</Provider>
-				</Item>
-			<File>Hitradio FM.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Hitradio FM Plus" />
 				<Item Name="Radio Hitradio FM Plus">
 					<Provider>Vodafone (CZ)</Provider>
@@ -3050,6 +3044,13 @@
 					<Provider>Vodafone (CZ)</Provider>
 				</Item>
 			<File>Hitradio Vysocina.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Hitradio" />
+				<Item Name="Radio Hitradio FM">
+					<Provider>Vodafone (CZ)</Provider>
+				</Item>
+			<File>Hitradio.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Oldies Radio" />
